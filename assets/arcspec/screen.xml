@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArcSpec Name="SCREEN" IndexingType="File" XAStream="False">
+	<ArcFile FileName="SCREEN_f000" FileType="Imagebank" Enum="Screen_f000" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f001" FileType="Imagebank" Enum="Screen_f001" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f002" FileType="Imagebank" Enum="Screen_f002" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f003" FileType="Imagebank" Enum="Screen_f003" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f004" FileType="Imagebank" Enum="Screen_f004" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f005" FileType="Imagebank" Enum="Screen_f005" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f006" FileType="Imagebank" Enum="Screen_f006" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f007" FileType="Imagebank" Enum="Screen_f007" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f008" FileType="Imagebank" Enum="Screen_f008" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f009" FileType="Imagebank" Enum="Screen_f009" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f010" FileType="Imagebank" Enum="Screen_f010" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f011" FileType="Imagebank" Enum="Screen_f011" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f012" FileType="Imagebank" Enum="Screen_f012" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f013" FileType="Imagebank" Enum="Screen_f013" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f014" FileType="Imagebank" Enum="Screen_f014" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f015" FileType="Imagebank" Enum="Screen_f015" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f016" FileType="Imagebank" Enum="Screen_f016" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f017" FileType="Imagebank" Enum="Screen_f017" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f018" FileType="Imagebank" Enum="Screen_f018" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f019" FileType="Imagebank" Enum="Screen_f019" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f020" FileType="Imagebank" Enum="Screen_f020" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f021" FileType="Imagebank" Enum="Screen_f021" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f022" FileType="Imagebank" Enum="Screen_f022" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f023" FileType="Imagebank" Enum="Screen_f023" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f024" FileType="Imagebank" Enum="Screen_f024" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f025" FileType="Imagebank" Enum="Screen_f025" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f026" FileType="Imagebank" Enum="Screen_f026" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f027" FileType="Imagebank" Enum="Screen_f027" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f028" FileType="Imagebank" Enum="Screen_f028" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f029" FileType="Imagebank" Enum="Screen_f029" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f030" FileType="Imagebank" Enum="Screen_f030" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f031" FileType="Imagebank" Enum="Screen_f031" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f032" FileType="Imagebank" Enum="Screen_f032" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f033" FileType="Imagebank" Enum="Screen_f033" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f034" FileType="Imagebank" Enum="Screen_f034" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f035" FileType="Imagebank" Enum="Screen_f035" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f036" FileType="Imagebank" Enum="Screen_f036" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f037" FileType="Imagebank" Enum="Screen_f037" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f038" FileType="Imagebank" Enum="Screen_f038" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f039" FileType="Imagebank" Enum="Screen_f039" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f040" FileType="Imagebank" Enum="Screen_f040" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f041" FileType="Imagebank" Enum="Screen_f041" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f042" FileType="Imagebank" Enum="Screen_f042" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f043" FileType="Imagebank" Enum="Screen_f043" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f044" FileType="Imagebank" Enum="Screen_f044" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f045" FileType="Imagebank" Enum="Screen_f045" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f046" FileType="Imagebank" Enum="Screen_f046" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f047" FileType="Imagebank" Enum="Screen_f047" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f048" FileType="Imagebank" Enum="Screen_f048" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f049" FileType="Imagebank" Enum="Screen_f049" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f050" FileType="Imagebank" Enum="Screen_f050" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f051" FileType="Imagebank" Enum="Screen_f051" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f052" FileType="Imagebank" Enum="Screen_f052" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f053" FileType="Imagebank" Enum="Screen_f053" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f054" FileType="Imagebank" Enum="Screen_f054" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f055" FileType="Imagebank" Enum="Screen_f055" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f056" FileType="Imagebank" Enum="Screen_f056" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f057" FileType="Imagebank" Enum="Screen_f057" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f058" FileType="Imagebank" Enum="Screen_f058" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f059" FileType="Imagebank" Enum="Screen_f059" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f060" FileType="Imagebank" Enum="Screen_f060" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f061" FileType="Imagebank" Enum="Screen_f061" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f062" FileType="Imagebank" Enum="Screen_f062" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f063" FileType="Imagebank" Enum="Screen_f063" LZComp="True" TileSize="32,32"/>
+	<ArcFile/>
+	<ArcFile FileName="SCREEN_f065" FileType="Imagebank" Enum="Screen_f065" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f066" FileType="Imagebank" Enum="Screen_f066" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f067" FileType="Imagebank" Enum="Screen_f067" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f068" FileType="Imagebank" Enum="Screen_f068" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f069" FileType="Imagebank" Enum="Screen_f069" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f070" FileType="Imagebank" Enum="Screen_f070" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f071" FileType="Imagebank" Enum="Screen_f071" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f072" FileType="Imagebank" Enum="Screen_f072" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f073" FileType="Imagebank" Enum="Screen_f073" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f074" FileType="Imagebank" Enum="Screen_f074" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f075" FileType="Imagebank" Enum="Screen_f075" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f076" FileType="Imagebank" Enum="Screen_f076" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f077" FileType="Imagebank" Enum="Screen_f077" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f078" FileType="Imagebank" Enum="Screen_f078" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f079" FileType="Imagebank" Enum="Screen_f079" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f080" FileType="Imagebank" Enum="Screen_f080" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f081" FileType="Imagebank" Enum="Screen_f081" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f082" FileType="Imagebank" Enum="Screen_f082" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f083" FileType="Imagebank" Enum="Screen_f083" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f084" FileType="Imagebank" Enum="Screen_f084" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f085" FileType="Imagebank" Enum="Screen_f085" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f086" FileType="Imagebank" Enum="Screen_f086" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f087" FileType="Imagebank" Enum="Screen_f087" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f088" FileType="Imagebank" Enum="Screen_f088" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f089" FileType="Imagebank" Enum="Screen_f089" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f090" FileType="Imagebank" Enum="Screen_f090" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f091" FileType="Imagebank" Enum="Screen_f091" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f092" FileType="Imagebank" Enum="Screen_f092" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f093" FileType="Imagebank" Enum="Screen_f093" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f094" FileType="Imagebank" Enum="Screen_f094" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f095" FileType="Imagebank" Enum="Screen_f095" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f096" FileType="Imagebank" Enum="Screen_f096" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f097" FileType="Imagebank" Enum="Screen_f097" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f098" FileType="Imagebank" Enum="Screen_f098" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f099" FileType="Imagebank" Enum="Screen_f099" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f100" FileType="Imagebank" Enum="Screen_f100" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f101" FileType="Imagebank" Enum="Screen_f101" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f102" FileType="Imagebank" Enum="Screen_f102" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f103" FileType="Imagebank" Enum="Screen_f103" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f104" FileType="Imagebank" Enum="Screen_f104" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f105" FileType="Imagebank" Enum="Screen_f105" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f106" FileType="Imagebank" Enum="Screen_f106" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f107" FileType="Imagebank" Enum="Screen_f107" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f108" FileType="Imagebank" Enum="Screen_f108" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f109" FileType="Imagebank" Enum="Screen_f109" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f110" FileType="Imagebank" Enum="Screen_f110" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f111" FileType="Imagebank" Enum="Screen_f111" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f112" FileType="Imagebank" Enum="Screen_f112" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f113" FileType="Imagebank" Enum="Screen_f113" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f114" FileType="Imagebank" Enum="Screen_f114" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f115" FileType="Imagebank" Enum="Screen_f115" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f116" FileType="Imagebank" Enum="Screen_f116" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f117" FileType="Imagebank" Enum="Screen_f117" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f118" FileType="Imagebank" Enum="Screen_f118" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f119" FileType="Imagebank" Enum="Screen_f119" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f120" FileType="Imagebank" Enum="Screen_f120" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f121" FileType="Imagebank" Enum="Screen_f121" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f122" FileType="Imagebank" Enum="Screen_f122" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f123" FileType="Imagebank" Enum="Screen_f123" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f124" FileType="Imagebank" Enum="Screen_f124" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f125" FileType="Imagebank" Enum="Screen_f125" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f126" FileType="Imagebank" Enum="Screen_f126" LZComp="True"/>
+	<ArcFile/>
+	<ArcFile FileName="SCREEN_f128" FileType="Imagebank" Enum="Screen_f128" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f129" FileType="Imagebank" Enum="Screen_f129" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f130" FileType="Imagebank" Enum="Screen_f130" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f131" FileType="Imagebank" Enum="Screen_f131" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f132" FileType="Imagebank" Enum="Screen_f132" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f133" FileType="Imagebank" Enum="Screen_f133" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f134" FileType="Imagebank" Enum="Screen_f134" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f135" FileType="Imagebank" Enum="Screen_f135" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f136" FileType="Imagebank" Enum="Screen_f136" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f137" FileType="Imagebank" Enum="Screen_f137" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f138" FileType="Imagebank" Enum="Screen_f138" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f139" FileType="Imagebank" Enum="Screen_f139" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f140" FileType="Imagebank" Enum="Screen_f140" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f141" FileType="Imagebank" Enum="Screen_f141" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f142" FileType="Imagebank" Enum="Screen_f142" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f143" FileType="Imagebank" Enum="Screen_f143" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f144" FileType="Imagebank" Enum="Screen_f144" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f145" FileType="Imagebank" Enum="Screen_f145" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f146" FileType="Imagebank" Enum="Screen_f146" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f147" FileType="Imagebank" Enum="Screen_f147" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f148" FileType="Imagebank" Enum="Screen_f148" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f149" FileType="Imagebank" Enum="Screen_f149" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f150" FileType="Imagebank" Enum="Screen_f150" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f151" FileType="Imagebank" Enum="Screen_f151" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f152" FileType="Imagebank" Enum="Screen_f152" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f153" FileType="Imagebank" Enum="Screen_f153" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f154" FileType="Imagebank" Enum="Screen_f154" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f155" FileType="Imagebank" Enum="Screen_f155" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f156" FileType="Imagebank" Enum="Screen_f156" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f157" FileType="Imagebank" Enum="Screen_f157" LZComp="True"/>
+	<ArcFile FileName="SCREEN_f158" FileType="Imagebank" Enum="Screen_f158" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f159" FileType="Imagebank" Enum="Screen_f159" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f160" FileType="Imagebank" Enum="Screen_f160" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f161" FileType="Imagebank" Enum="Screen_f161" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f162" FileType="Imagebank" Enum="Screen_f162" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f163" FileType="Imagebank" Enum="Screen_f163" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f164" FileType="Imagebank" Enum="Screen_f164" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f165" FileType="Imagebank" Enum="Screen_f165" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f166" FileType="Imagebank" Enum="Screen_f166" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f167" FileType="Imagebank" Enum="Screen_f167" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f168" FileType="Imagebank" Enum="Screen_f168" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f169" FileType="Imagebank" Enum="Screen_f169" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f170" FileType="Imagebank" Enum="Screen_f170" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f171" FileType="Imagebank" Enum="Screen_f171" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f172" FileType="Imagebank" Enum="Screen_f172" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f173" FileType="Imagebank" Enum="Screen_f173" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f174" FileType="Imagebank" Enum="Screen_f174" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f175" FileType="Imagebank" Enum="Screen_f175" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f176" FileType="Imagebank" Enum="Screen_f176" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f177" FileType="Imagebank" Enum="Screen_f177" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f178" FileType="Imagebank" Enum="Screen_f178" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f179" FileType="Imagebank" Enum="Screen_f179" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f180" FileType="Imagebank" Enum="Screen_f180" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f181" FileType="Imagebank" Enum="Screen_f181" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f182" FileType="Imagebank" Enum="Screen_f182" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f183" FileType="Imagebank" Enum="Screen_f183" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f184" FileType="Imagebank" Enum="Screen_f184" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f185" FileType="Imagebank" Enum="Screen_f185" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f186" FileType="Imagebank" Enum="Screen_f186" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f187" FileType="Imagebank" Enum="Screen_f187" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f188" FileType="Imagebank" Enum="Screen_f188" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f189" FileType="Imagebank" Enum="Screen_f189" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f190" FileType="Imagebank" Enum="Screen_f190" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f191" FileType="Imagebank" Enum="Screen_f191" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f192" FileType="Imagebank" Enum="Screen_f192" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f193" FileType="Imagebank" Enum="Screen_f193" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f194" FileType="Imagebank" Enum="Screen_f194" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f195" FileType="Imagebank" Enum="Screen_f195" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f196" FileType="Imagebank" Enum="Screen_f196" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f197" FileType="Imagebank" Enum="Screen_f197" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f198" FileType="Imagebank" Enum="Screen_f198" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f199" FileType="Imagebank" Enum="Screen_f199" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f200" FileType="Imagebank" Enum="Screen_f200" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f201" FileType="Imagebank" Enum="Screen_f201" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f202" FileType="Imagebank" Enum="Screen_f202" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f203" FileType="Imagebank" Enum="Screen_f203" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f204" FileType="Imagebank" Enum="Screen_f204" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f205" FileType="Imagebank" Enum="Screen_f205" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f206" FileType="Imagebank" Enum="Screen_f206" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f207" FileType="Imagebank" Enum="Screen_f207" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f208" FileType="Imagebank" Enum="Screen_f208" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f209" FileType="Imagebank" Enum="Screen_f209" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f210" FileType="Imagebank" Enum="Screen_f210" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f211" FileType="Imagebank" Enum="Screen_f211" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f212" FileType="Imagebank" Enum="Screen_f212" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f213" FileType="Imagebank" Enum="Screen_f213" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f214" FileType="Imagebank" Enum="Screen_f214" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f215" FileType="Imagebank" Enum="Screen_f215" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f216" FileType="Imagebank" Enum="Screen_f216" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f217" FileType="Imagebank" Enum="Screen_f217" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f218" FileType="Imagebank" Enum="Screen_f218" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f219" FileType="Imagebank" Enum="Screen_f219" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f220" FileType="Imagebank" Enum="Screen_f220" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f221" FileType="Imagebank" Enum="Screen_f221" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f222" FileType="Imagebank" Enum="Screen_f222" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f223" FileType="Imagebank" Enum="Screen_f223" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f224" FileType="Imagebank" Enum="Screen_f224" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f225" FileType="Imagebank" Enum="Screen_f225" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f226" FileType="Imagebank" Enum="Screen_f226" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f227" FileType="Imagebank" Enum="Screen_f227" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f228" FileType="Imagebank" Enum="Screen_f228" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f229" FileType="Imagebank" Enum="Screen_f229" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f230" FileType="Imagebank" Enum="Screen_f230" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f231" FileType="Imagebank" Enum="Screen_f231" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f232" FileType="Imagebank" Enum="Screen_f232" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f233" FileType="Imagebank" Enum="Screen_f233" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f234" FileType="Imagebank" Enum="Screen_f234" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f235" FileType="Imagebank" Enum="Screen_f235" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f236" FileType="Imagebank" Enum="Screen_f236" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f237" FileType="Imagebank" Enum="Screen_f237" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f238" FileType="Imagebank" Enum="Screen_f238" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f239" FileType="Imagebank" Enum="Screen_f239" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f240" FileType="Imagebank" Enum="Screen_f240" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f241" FileType="Imagebank" Enum="Screen_f241" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f242" FileType="Imagebank" Enum="Screen_f242" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f243" FileType="Imagebank" Enum="Screen_f243" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f244" FileType="Imagebank" Enum="Screen_f244" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f245" FileType="Imagebank" Enum="Screen_f245" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f246" FileType="Imagebank" Enum="Screen_f246" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f247" FileType="Imagebank" Enum="Screen_f247" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f248" FileType="Imagebank" Enum="Screen_f248" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f249" FileType="Imagebank" Enum="Screen_f249" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f250" FileType="Imagebank" Enum="Screen_f250" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f251" FileType="Imagebank" Enum="Screen_f251" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f252" FileType="Imagebank" Enum="Screen_f252" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f253" FileType="Imagebank" Enum="Screen_f253" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f254" FileType="Imagebank" Enum="Screen_f254" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f255" FileType="Imagebank" Enum="Screen_f255" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f256" FileType="Imagebank" Enum="Screen_f256" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f257" FileType="Imagebank" Enum="Screen_f257" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f258" FileType="Imagebank" Enum="Screen_f258" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f259" FileType="Imagebank" Enum="Screen_f259" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f260" FileType="Imagebank" Enum="Screen_f260" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f261" FileType="Imagebank" Enum="Screen_f261" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f262" FileType="Imagebank" Enum="Screen_f262" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f263" FileType="Imagebank" Enum="Screen_f263" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f264" FileType="Imagebank" Enum="Screen_f264" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f265" FileType="Imagebank" Enum="Screen_f265" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f266" FileType="Imagebank" Enum="Screen_f266" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f267" FileType="Imagebank" Enum="Screen_f267" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f268" FileType="Imagebank" Enum="Screen_f268" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f269" FileType="Imagebank" Enum="Screen_f269" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f270" FileType="Imagebank" Enum="Screen_f270" LZComp="True" TileSize="32,32"/>
+	<ArcFile FileName="SCREEN_f271" FileType="Imagebank" Enum="Screen_f271" LZComp="True" TileSize="32,32"/>
+</ArcSpec>

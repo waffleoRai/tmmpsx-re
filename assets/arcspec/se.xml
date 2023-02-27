@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArcSpec Name="SE" AudioFlag="True" IndexingType="Offset" XAStream="False">
+	<ArcFile FileName="SE_f000" FileType="Soundbank" Enum="Se_f000" LZComp="False">
+		<SubFile FileName="SE_f000_seq000"/>
+		<SubFile FileName="SE_f000_seq001"/>
+		<SubFile FileName="SE_f000_seq002"/>
+		<SubFile FileName="SE_f000_seq003"/>
+		<SubFile FileName="SE_f000_seq004"/>
+		<SubFile FileName="SE_f000_seq005"/>
+		<SubFile FileName="SE_f000_seq006"/>
+		<SubFile FileName="SE_f000_seq007"/>
+		<SubFile FileName="SE_f000_seq008"/>
+		<SubFile FileName="SE_f000_seq009"/>
+		<SubFile FileName="SE_f000_seq010"/>
+		<SubFile FileName="SE_f000_seq011"/>
+		<SubFile FileName="SE_f000_seq012"/>
+		<SubFile FileName="SE_f000_seq013"/>
+		<SubFile FileName="SE_f000_seq014"/>
+		<SubFile FileName="SE_f000_seq015"/>
+		<SubFile FileName="SE_f000_seq016"/>
+		<SubFile FileName="SE_f000_seq017"/>
+		<SubFile FileName="SE_f000_seq018"/>
+		<SubFile FileName="SE_f000_seq019"/>
+		<SubFile FileName="SE_f000_seq020"/>
+		<SubFile FileName="SE_f000_seq021"/>
+		<SubFile FileName="SE_f000_seq022"/>
+		<SubFile FileName="SE_f000_seq023"/>
+		<SubFile FileName="SE_f000_seq024"/>
+		<SubFile FileName="SE_f000_seq025"/>
+		<SubFile FileName="SE_f000_seq026"/>
+		<SubFile FileName="SE_f000_seq027"/>
+		<SubFile FileName="SE_f000_seq028"/>
+		<SubFile FileName="SE_f000_seq029"/>
+		<SubFile FileName="SE_f000_seq030"/>
+		<SubFile FileName="SE_f000_seq031"/>
+		<SubFile FileName="SE_f000_seq032"/>
+		<SubFile FileName="SE_f000_seq033"/>
+		<SubFile FileName="SE_f000_seq034"/>
+		<SubFile FileName="SE_f000_seq035"/>
+		<SubFile FileName="SE_f000_seq036"/>
+		<SubFile FileName="SE_f000_seq037"/>
+		<SubFile FileName="SE_f000_seq038"/>
+		<SubFile FileName="SE_f000_seq039"/>
+		<SubFile FileName="SE_f000_seq040"/>
+		<SubFile FileName="SE_f000_seq041"/>
+		<SubFile FileName="SE_f000_seq042"/>
+		<SubFile FileName="SE_f000_seq043"/>
+		<SubFile FileName="SE_f000_seq044"/>
+		<SubFile FileName="SE_f000_seq045"/>
+		<SubFile FileName="SE_f000_seq046"/>
+		<SubFile FileName="SE_f000_seq047"/>
+		<SubFile FileName="SE_f000_seq048"/>
+		<SubFile FileName="SE_f000_seq049"/>
+		<SubFile FileName="SE_f000_seq050"/>
+		<SubFile FileName="SE_f000_seq051"/>
+		<SubFile FileName="SE_f000_seq052"/>
+		<SubFile FileName="SE_f000_seq053"/>
+		<SubFile FileName="SE_f000_seq054"/>
+		<SubFile FileName="SE_f000_seq055"/>
+		<SubFile FileName="SE_f000_seq056"/>
+		<SubFile FileName="SE_f000_seq057"/>
+		<SubFile FileName="SE_f000_seq058"/>
+		<SubFile FileName="SE_f000_seq059"/>
+		<SubFile FileName="SE_f000_seq060"/>
+		<SubFile FileName="SE_f000_seq061"/>
+		<SubFile FileName="SE_f000_seq062"/>
+		<SubFile FileName="SE_f000_seq063"/>
+		<SubFile FileName="SE_f000_seq064"/>
+		<SubFile FileName="SE_f000_seq065"/>
+		<SubFile FileName="SE_f000_seq066"/>
+		<SubFile FileName="SE_f000_seq067"/>
+		<SubFile FileName="SE_f000_seq068"/>
+		<SubFile FileName="SE_f000_seq069"/>
+		<SubFile FileName="SE_f000_seq070"/>
+		<SubFile FileName="SE_f000_seq071"/>
+		<SubFile FileName="SE_f000_seq072"/>
+		<SubFile FileName="SE_f000_seq073"/>
+		<SubFile FileName="SE_f000_seq074"/>
+		<SubFile FileName="SE_f000_seq075"/>
+		<SubFile FileName="SE_f000_seq076"/>
+		<SubFile FileName="SE_f000_seq077"/>
+		<SubFile FileName="SE_f000_seq078"/>
+		<SubFile FileName="SE_f000_seq079"/>
+		<SubFile FileName="SE_f000_seq080"/>
+		<SubFile FileName="SE_f000_seq081"/>
+		<SubFile FileName="SE_f000_seq082"/>
+		<SubFile FileName="SE_f000_seq083"/>
+		<SubFile FileName="SE_f000_seq084"/>
+		<SubFile FileName="SE_f000_seq085"/>
+		<SubFile FileName="SE_f000_seq086"/>
+		<SubFile FileName="SE_f000_seq087"/>
+		<SubFile FileName="SE_f000_seq088"/>
+		<SubFile FileName="SE_f000_seq089"/>
+		<SubFile FileName="SE_f000_seq090"/>
+		<SubFile FileName="SE_f000_seq091"/>
+		<SubFile FileName="SE_f000_seq092"/>
+		<SubFile FileName="SE_f000_seq093"/>
+		<SubFile FileName="SE_f000_seq094"/>
+		<SubFile FileName="SE_f000_seq095"/>
+		<SubFile FileName="SE_f000_seq096"/>
+		<SubFile FileName="SE_f000_seq097"/>
+		<SubFile FileName="SE_f000_seq098"/>
+		<SubFile FileName="SE_f000_seq099"/>
+		<SubFile FileName="SE_f000_seq100"/>
+		<SubFile FileName="SE_f000_seq101"/>
+		<SubFile FileName="SE_f000_seq102"/>
+		<SubFile FileName="SE_f000_seq103"/>
+		<SubFile FileName="SE_f000_seq104"/>
+		<SubFile FileName="SE_f000_seq105"/>
+		<SubFile FileName="SE_f000_seq106"/>
+		<SubFile FileName="SE_f000_seq107"/>
+		<SubFile FileName="SE_f000_seq108"/>
+		<SubFile FileName="SE_f000_seq109"/>
+		<SubFile FileName="SE_f000_seq110"/>
+		<SubFile FileName="SE_f000_seq111"/>
+		<SubFile FileName="SE_f000_seq112"/>
+		<SubFile FileName="SE_f000_seq113"/>
+		<SubFile FileName="SE_f000_seq114"/>
+		<SubFile FileName="SE_f000_seq115"/>
+		<SubFile FileName="SE_f000_seq116"/>
+		<SubFile FileName="SE_f000_seq117"/>
+		<SubFile FileName="SE_f000_seq118"/>
+		<SubFile FileName="SE_f000_seq119"/>
+		<SubFile FileName="SE_f000_seq120"/>
+		<SubFile FileName="SE_f000_seq121"/>
+		<SubFile FileName="SE_f000_seq122"/>
+		<SubFile FileName="SE_f000_seq123"/>
+		<SubFile FileName="SE_f000_seq124"/>
+		<SubFile FileName="SE_f000_seq125"/>
+		<SubFile FileName="SE_f000_seq126"/>
+		<SubFile FileName="SE_f000_seq127"/>
+		<SubFile FileName="SE_f000_seq128"/>
+		<SubFile FileName="SE_f000_seq129"/>
+		<SubFile FileName="SE_f000_seq130"/>
+		<SubFile FileName="SE_f000_seq131"/>
+		<SubFile FileName="SE_f000_seq132"/>
+		<SubFile FileName="SE_f000_seq133"/>
+		<SubFile FileName="SE_f000_seq134"/>
+		<SubFile FileName="SE_f000_seq135"/>
+		<SubFile FileName="SE_f000_seq136"/>
+		<SubFile FileName="SE_f000_seq137"/>
+		<SubFile FileName="SE_f000_seq138"/>
+		<SubFile FileName="SE_f000_seq139"/>
+		<SubFile FileName="SE_f000_seq140"/>
+		<SubFile FileName="SE_f000_seq141"/>
+		<SubFile FileName="SE_f000_seq142"/>
+		<SubFile FileName="SE_f000_seq143"/>
+		<SubFile FileName="SE_f000_seq144"/>
+		<SubFile FileName="SE_f000_seq145"/>
+		<SubFile FileName="SE_f000_seq146"/>
+		<SubFile FileName="SE_f000_seq147"/>
+		<SubFile FileName="SE_f000_seq148"/>
+		<SubFile FileName="SE_f000_seq149"/>
+		<SubFile FileName="SE_f000_seq150"/>
+		<SubFile FileName="SE_f000_seq151"/>
+		<SubFile FileName="SE_f000_seq152"/>
+		<SubFile FileName="SE_f000_seq153"/>
+		<SubFile FileName="SE_f000_seq154"/>
+		<SubFile FileName="SE_f000_seq155"/>
+		<SubFile FileName="SE_f000_seq156"/>
+		<SubFile FileName="SE_f000_seq157"/>
+		<SubFile FileName="SE_f000_seq158"/>
+		<SubFile FileName="SE_f000_seq159"/>
+		<SubFile FileName="SE_f000_seq160"/>
+		<SubFile FileName="SE_f000_seq161"/>
+		<SubFile FileName="SE_f000_seq162"/>
+		<SubFile FileName="SE_f000_seq163"/>
+		<SubFile FileName="SE_f000_seq164"/>
+		<SubFile FileName="SE_f000_seq165"/>
+		<SubFile FileName="SE_f000_seq166"/>
+		<SubFile FileName="SE_f000_seq167"/>
+		<SubFile FileName="SE_f000_seq168"/>
+		<SubFile FileName="SE_f000_seq169"/>
+		<SubFile FileName="SE_f000_seq170"/>
+		<SubFile FileName="SE_f000_seq171"/>
+		<SubFile FileName="SE_f000_seq172"/>
+		<SubFile FileName="SE_f000_seq173"/>
+		<SubFile FileName="SE_f000_seq174"/>
+		<SubFile FileName="SE_f000_seq175"/>
+		<SubFile FileName="SE_f000_seq176"/>
+		<SubFile FileName="SE_f000_seq177"/>
+		<SubFile FileName="SE_f000_seq178"/>
+		<SubFile FileName="SE_f000_seq179"/>
+		<SubFile FileName="SE_f000_seq180"/>
+		<SubFile FileName="SE_f000_seq181"/>
+		<SubFile FileName="SE_f000_seq182"/>
+		<SubFile FileName="SE_f000_seq183"/>
+		<SubFile FileName="SE_f000_seq184"/>
+		<SubFile FileName="SE_f000_seq185"/>
+		<SubFile FileName="SE_f000_seq186"/>
+		<SubFile FileName="SE_f000_seq187"/>
+		<SubFile FileName="SE_f000_seq188"/>
+		<SubFile FileName="SE_f000_seq189"/>
+		<SubFile FileName="SE_f000_seq190"/>
+		<SubFile FileName="SE_f000_seq191"/>
+		<SubFile FileName="SE_f000_seq192"/>
+		<SubFile FileName="SE_f000_vh"/>
+		<SubFile FileName="SE_f000_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f001" FileType="Soundbank" Enum="Se_f001" LZComp="False">
+		<SubFile FileName="SE_f001_seq000"/>
+		<SubFile FileName="SE_f001_seq001"/>
+		<SubFile FileName="SE_f001_seq002"/>
+		<SubFile FileName="SE_f001_seq003"/>
+		<SubFile FileName="SE_f001_vh"/>
+		<SubFile FileName="SE_f001_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f002" FileType="Soundbank" Enum="Se_f002" LZComp="False">
+		<SubFile FileName="SE_f002_seq000"/>
+		<SubFile FileName="SE_f002_seq001"/>
+		<SubFile FileName="SE_f002_seq002"/>
+		<SubFile FileName="SE_f002_seq003"/>
+		<SubFile FileName="SE_f002_vh"/>
+		<SubFile FileName="SE_f002_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f003" FileType="Soundbank" Enum="Se_f003" LZComp="False">
+		<SubFile FileName="SE_f003_seq000"/>
+		<SubFile FileName="SE_f003_seq001"/>
+		<SubFile FileName="SE_f003_seq002"/>
+		<SubFile FileName="SE_f003_seq003"/>
+		<SubFile FileName="SE_f003_vh"/>
+		<SubFile FileName="SE_f003_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f004" FileType="Soundbank" Enum="Se_f004" LZComp="False">
+		<SubFile FileName="SE_f004_seq000"/>
+		<SubFile FileName="SE_f004_seq001"/>
+		<SubFile FileName="SE_f004_seq002"/>
+		<SubFile FileName="SE_f004_seq003"/>
+		<SubFile FileName="SE_f004_vh"/>
+		<SubFile FileName="SE_f004_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f005" FileType="Soundbank" Enum="Se_f005" LZComp="False">
+		<SubFile FileName="SE_f005_seq000"/>
+		<SubFile FileName="SE_f005_seq001"/>
+		<SubFile FileName="SE_f005_seq002"/>
+		<SubFile FileName="SE_f005_seq003"/>
+		<SubFile FileName="SE_f005_vh"/>
+		<SubFile FileName="SE_f005_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f006" FileType="Soundbank" Enum="Se_f006" LZComp="False">
+		<SubFile FileName="SE_f006_seq000"/>
+		<SubFile FileName="SE_f006_seq001"/>
+		<SubFile FileName="SE_f006_seq002"/>
+		<SubFile FileName="SE_f006_seq003"/>
+		<SubFile FileName="SE_f006_vh"/>
+		<SubFile FileName="SE_f006_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f007" FileType="Soundbank" Enum="Se_f007" LZComp="False">
+		<SubFile FileName="SE_f007_seq000"/>
+		<SubFile FileName="SE_f007_seq001"/>
+		<SubFile FileName="SE_f007_seq002"/>
+		<SubFile FileName="SE_f007_seq003"/>
+		<SubFile FileName="SE_f007_vh"/>
+		<SubFile FileName="SE_f007_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f008" FileType="Soundbank" Enum="Se_f008" LZComp="False">
+		<SubFile FileName="SE_f008_seq000"/>
+		<SubFile FileName="SE_f008_seq001"/>
+		<SubFile FileName="SE_f008_seq002"/>
+		<SubFile FileName="SE_f008_seq003"/>
+		<SubFile FileName="SE_f008_vh"/>
+		<SubFile FileName="SE_f008_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f009" FileType="Soundbank" Enum="Se_f009" LZComp="False">
+		<SubFile FileName="SE_f009_seq000"/>
+		<SubFile FileName="SE_f009_seq001"/>
+		<SubFile FileName="SE_f009_seq002"/>
+		<SubFile FileName="SE_f009_seq003"/>
+		<SubFile FileName="SE_f009_vh"/>
+		<SubFile FileName="SE_f009_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f010" FileType="Soundbank" Enum="Se_f010" LZComp="False">
+		<SubFile FileName="SE_f010_seq000"/>
+		<SubFile FileName="SE_f010_seq001"/>
+		<SubFile FileName="SE_f010_seq002"/>
+		<SubFile FileName="SE_f010_seq003"/>
+		<SubFile FileName="SE_f010_vh"/>
+		<SubFile FileName="SE_f010_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f011" FileType="Soundbank" Enum="Se_f011" LZComp="False">
+		<SubFile FileName="SE_f011_seq000"/>
+		<SubFile FileName="SE_f011_seq001"/>
+		<SubFile FileName="SE_f011_seq002"/>
+		<SubFile FileName="SE_f011_seq003"/>
+		<SubFile FileName="SE_f011_vh"/>
+		<SubFile FileName="SE_f011_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f012" FileType="Soundbank" Enum="Se_f012" LZComp="False">
+		<SubFile FileName="SE_f012_seq000"/>
+		<SubFile FileName="SE_f012_seq001"/>
+		<SubFile FileName="SE_f012_seq002"/>
+		<SubFile FileName="SE_f012_seq003"/>
+		<SubFile FileName="SE_f012_vh"/>
+		<SubFile FileName="SE_f012_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f013" FileType="Soundbank" Enum="Se_f013" LZComp="False">
+		<SubFile FileName="SE_f013_seq000"/>
+		<SubFile FileName="SE_f013_seq001"/>
+		<SubFile FileName="SE_f013_seq002"/>
+		<SubFile FileName="SE_f013_seq003"/>
+		<SubFile FileName="SE_f013_vh"/>
+		<SubFile FileName="SE_f013_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f014" FileType="Soundbank" Enum="Se_f014" LZComp="False">
+		<SubFile FileName="SE_f014_seq000"/>
+		<SubFile FileName="SE_f014_seq001"/>
+		<SubFile FileName="SE_f014_seq002"/>
+		<SubFile FileName="SE_f014_seq003"/>
+		<SubFile FileName="SE_f014_vh"/>
+		<SubFile FileName="SE_f014_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f015" FileType="Soundbank" Enum="Se_f015" LZComp="False">
+		<SubFile FileName="SE_f015_seq000"/>
+		<SubFile FileName="SE_f015_seq001"/>
+		<SubFile FileName="SE_f015_seq002"/>
+		<SubFile FileName="SE_f015_seq003"/>
+		<SubFile FileName="SE_f015_vh"/>
+		<SubFile FileName="SE_f015_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f016" FileType="Soundbank" Enum="Se_f016" LZComp="False">
+		<SubFile FileName="SE_f016_seq000"/>
+		<SubFile FileName="SE_f016_seq001"/>
+		<SubFile FileName="SE_f016_seq002"/>
+		<SubFile FileName="SE_f016_seq003"/>
+		<SubFile FileName="SE_f016_vh"/>
+		<SubFile FileName="SE_f016_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f017" FileType="Soundbank" Enum="Se_f017" LZComp="False">
+		<SubFile FileName="SE_f017_seq000"/>
+		<SubFile FileName="SE_f017_seq001"/>
+		<SubFile FileName="SE_f017_seq002"/>
+		<SubFile FileName="SE_f017_seq003"/>
+		<SubFile FileName="SE_f017_vh"/>
+		<SubFile FileName="SE_f017_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f018" FileType="Soundbank" Enum="Se_f018" LZComp="False">
+		<SubFile FileName="SE_f018_seq000"/>
+		<SubFile FileName="SE_f018_seq001"/>
+		<SubFile FileName="SE_f018_seq002"/>
+		<SubFile FileName="SE_f018_seq003"/>
+		<SubFile FileName="SE_f018_vh"/>
+		<SubFile FileName="SE_f018_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f019" FileType="Soundbank" Enum="Se_f019" LZComp="False">
+		<SubFile FileName="SE_f019_seq000"/>
+		<SubFile FileName="SE_f019_seq001"/>
+		<SubFile FileName="SE_f019_seq002"/>
+		<SubFile FileName="SE_f019_seq003"/>
+		<SubFile FileName="SE_f019_vh"/>
+		<SubFile FileName="SE_f019_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f020" FileType="Soundbank" Enum="Se_f020" LZComp="False">
+		<SubFile FileName="SE_f020_seq000"/>
+		<SubFile FileName="SE_f020_seq001"/>
+		<SubFile FileName="SE_f020_seq002"/>
+		<SubFile FileName="SE_f020_seq003"/>
+		<SubFile FileName="SE_f020_vh"/>
+		<SubFile FileName="SE_f020_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f021" FileType="Soundbank" Enum="Se_f021" LZComp="False">
+		<SubFile FileName="SE_f021_seq000"/>
+		<SubFile FileName="SE_f021_seq001"/>
+		<SubFile FileName="SE_f021_seq002"/>
+		<SubFile FileName="SE_f021_seq003"/>
+		<SubFile FileName="SE_f021_vh"/>
+		<SubFile FileName="SE_f021_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f022" FileType="Soundbank" Enum="Se_f022" LZComp="False">
+		<SubFile FileName="SE_f022_seq000"/>
+		<SubFile FileName="SE_f022_seq001"/>
+		<SubFile FileName="SE_f022_seq002"/>
+		<SubFile FileName="SE_f022_seq003"/>
+		<SubFile FileName="SE_f022_vh"/>
+		<SubFile FileName="SE_f022_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f023" FileType="Soundbank" Enum="Se_f023" LZComp="False">
+		<SubFile FileName="SE_f023_seq000"/>
+		<SubFile FileName="SE_f023_seq001"/>
+		<SubFile FileName="SE_f023_seq002"/>
+		<SubFile FileName="SE_f023_seq003"/>
+		<SubFile FileName="SE_f023_vh"/>
+		<SubFile FileName="SE_f023_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f024" FileType="Soundbank" Enum="Se_f024" LZComp="False">
+		<SubFile FileName="SE_f024_seq000"/>
+		<SubFile FileName="SE_f024_seq001"/>
+		<SubFile FileName="SE_f024_seq002"/>
+		<SubFile FileName="SE_f024_seq003"/>
+		<SubFile FileName="SE_f024_vh"/>
+		<SubFile FileName="SE_f024_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f025" FileType="Soundbank" Enum="Se_f025" LZComp="False">
+		<SubFile FileName="SE_f025_seq000"/>
+		<SubFile FileName="SE_f025_seq001"/>
+		<SubFile FileName="SE_f025_seq002"/>
+		<SubFile FileName="SE_f025_seq003"/>
+		<SubFile FileName="SE_f025_vh"/>
+		<SubFile FileName="SE_f025_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f026" FileType="Soundbank" Enum="Se_f026" LZComp="False">
+		<SubFile FileName="SE_f026_seq000"/>
+		<SubFile FileName="SE_f026_seq001"/>
+		<SubFile FileName="SE_f026_seq002"/>
+		<SubFile FileName="SE_f026_seq003"/>
+		<SubFile FileName="SE_f026_vh"/>
+		<SubFile FileName="SE_f026_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f027" FileType="Soundbank" Enum="Se_f027" LZComp="False">
+		<SubFile FileName="SE_f027_seq000"/>
+		<SubFile FileName="SE_f027_seq001"/>
+		<SubFile FileName="SE_f027_seq002"/>
+		<SubFile FileName="SE_f027_seq003"/>
+		<SubFile FileName="SE_f027_vh"/>
+		<SubFile FileName="SE_f027_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f028" FileType="Soundbank" Enum="Se_f028" LZComp="False">
+		<SubFile FileName="SE_f028_seq000"/>
+		<SubFile FileName="SE_f028_seq001"/>
+		<SubFile FileName="SE_f028_seq002"/>
+		<SubFile FileName="SE_f028_seq003"/>
+		<SubFile FileName="SE_f028_vh"/>
+		<SubFile FileName="SE_f028_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f029" FileType="Soundbank" Enum="Se_f029" LZComp="False">
+		<SubFile FileName="SE_f029_seq000"/>
+		<SubFile FileName="SE_f029_seq001"/>
+		<SubFile FileName="SE_f029_seq002"/>
+		<SubFile FileName="SE_f029_seq003"/>
+		<SubFile FileName="SE_f029_vh"/>
+		<SubFile FileName="SE_f029_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f030" FileType="Soundbank" Enum="Se_f030" LZComp="False">
+		<SubFile FileName="SE_f030_seq000"/>
+		<SubFile FileName="SE_f030_seq001"/>
+		<SubFile FileName="SE_f030_seq002"/>
+		<SubFile FileName="SE_f030_seq003"/>
+		<SubFile FileName="SE_f030_vh"/>
+		<SubFile FileName="SE_f030_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f031" FileType="Soundbank" Enum="Se_f031" LZComp="False">
+		<SubFile FileName="SE_f031_seq000"/>
+		<SubFile FileName="SE_f031_seq001"/>
+		<SubFile FileName="SE_f031_seq002"/>
+		<SubFile FileName="SE_f031_seq003"/>
+		<SubFile FileName="SE_f031_vh"/>
+		<SubFile FileName="SE_f031_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f032" FileType="Soundbank" Enum="Se_f032" LZComp="False">
+		<SubFile FileName="SE_f032_seq000"/>
+		<SubFile FileName="SE_f032_seq001"/>
+		<SubFile FileName="SE_f032_seq002"/>
+		<SubFile FileName="SE_f032_seq003"/>
+		<SubFile FileName="SE_f032_vh"/>
+		<SubFile FileName="SE_f032_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f033" FileType="Soundbank" Enum="Se_f033" LZComp="False">
+		<SubFile FileName="SE_f033_seq000"/>
+		<SubFile FileName="SE_f033_seq001"/>
+		<SubFile FileName="SE_f033_seq002"/>
+		<SubFile FileName="SE_f033_seq003"/>
+		<SubFile FileName="SE_f033_vh"/>
+		<SubFile FileName="SE_f033_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f034" FileType="Soundbank" Enum="Se_f034" LZComp="False">
+		<SubFile FileName="SE_f034_seq000"/>
+		<SubFile FileName="SE_f034_seq001"/>
+		<SubFile FileName="SE_f034_seq002"/>
+		<SubFile FileName="SE_f034_seq003"/>
+		<SubFile FileName="SE_f034_vh"/>
+		<SubFile FileName="SE_f034_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f035" FileType="Soundbank" Enum="Se_f035" LZComp="False">
+		<SubFile FileName="SE_f035_seq000"/>
+		<SubFile FileName="SE_f035_seq001"/>
+		<SubFile FileName="SE_f035_seq002"/>
+		<SubFile FileName="SE_f035_seq003"/>
+		<SubFile FileName="SE_f035_vh"/>
+		<SubFile FileName="SE_f035_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f036" FileType="Soundbank" Enum="Se_f036" LZComp="False">
+		<SubFile FileName="SE_f036_seq000"/>
+		<SubFile FileName="SE_f036_seq001"/>
+		<SubFile FileName="SE_f036_seq002"/>
+		<SubFile FileName="SE_f036_seq003"/>
+		<SubFile FileName="SE_f036_vh"/>
+		<SubFile FileName="SE_f036_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f037" FileType="Soundbank" Enum="Se_f037" LZComp="False">
+		<SubFile FileName="SE_f037_seq000"/>
+		<SubFile FileName="SE_f037_seq001"/>
+		<SubFile FileName="SE_f037_seq002"/>
+		<SubFile FileName="SE_f037_seq003"/>
+		<SubFile FileName="SE_f037_vh"/>
+		<SubFile FileName="SE_f037_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f038" FileType="Soundbank" Enum="Se_f038" LZComp="False">
+		<SubFile FileName="SE_f038_seq000"/>
+		<SubFile FileName="SE_f038_seq001"/>
+		<SubFile FileName="SE_f038_seq002"/>
+		<SubFile FileName="SE_f038_seq003"/>
+		<SubFile FileName="SE_f038_vh"/>
+		<SubFile FileName="SE_f038_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f039" FileType="Soundbank" Enum="Se_f039" LZComp="False">
+		<SubFile FileName="SE_f039_seq000"/>
+		<SubFile FileName="SE_f039_seq001"/>
+		<SubFile FileName="SE_f039_seq002"/>
+		<SubFile FileName="SE_f039_seq003"/>
+		<SubFile FileName="SE_f039_vh"/>
+		<SubFile FileName="SE_f039_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f040" FileType="Soundbank" Enum="Se_f040" LZComp="False">
+		<SubFile FileName="SE_f040_seq000"/>
+		<SubFile FileName="SE_f040_seq001"/>
+		<SubFile FileName="SE_f040_seq002"/>
+		<SubFile FileName="SE_f040_seq003"/>
+		<SubFile FileName="SE_f040_vh"/>
+		<SubFile FileName="SE_f040_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f041" FileType="Soundbank" Enum="Se_f041" LZComp="False">
+		<SubFile FileName="SE_f041_seq000"/>
+		<SubFile FileName="SE_f041_seq001"/>
+		<SubFile FileName="SE_f041_seq002"/>
+		<SubFile FileName="SE_f041_seq003"/>
+		<SubFile FileName="SE_f041_vh"/>
+		<SubFile FileName="SE_f041_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f042" FileType="Soundbank" Enum="Se_f042" LZComp="False">
+		<SubFile FileName="SE_f042_seq000"/>
+		<SubFile FileName="SE_f042_seq001"/>
+		<SubFile FileName="SE_f042_seq002"/>
+		<SubFile FileName="SE_f042_seq003"/>
+		<SubFile FileName="SE_f042_vh"/>
+		<SubFile FileName="SE_f042_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f043" FileType="Soundbank" Enum="Se_f043" LZComp="False">
+		<SubFile FileName="SE_f043_seq000"/>
+		<SubFile FileName="SE_f043_seq001"/>
+		<SubFile FileName="SE_f043_seq002"/>
+		<SubFile FileName="SE_f043_seq003"/>
+		<SubFile FileName="SE_f043_vh"/>
+		<SubFile FileName="SE_f043_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f044" FileType="Soundbank" Enum="Se_f044" LZComp="False">
+		<SubFile FileName="SE_f044_seq000"/>
+		<SubFile FileName="SE_f044_seq001"/>
+		<SubFile FileName="SE_f044_seq002"/>
+		<SubFile FileName="SE_f044_seq003"/>
+		<SubFile FileName="SE_f044_vh"/>
+		<SubFile FileName="SE_f044_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f045" FileType="Soundbank" Enum="Se_f045" LZComp="False">
+		<SubFile FileName="SE_f045_seq000"/>
+		<SubFile FileName="SE_f045_seq001"/>
+		<SubFile FileName="SE_f045_seq002"/>
+		<SubFile FileName="SE_f045_seq003"/>
+		<SubFile FileName="SE_f045_vh"/>
+		<SubFile FileName="SE_f045_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f046" FileType="Soundbank" Enum="Se_f046" LZComp="False">
+		<SubFile FileName="SE_f046_seq000"/>
+		<SubFile FileName="SE_f046_seq001"/>
+		<SubFile FileName="SE_f046_seq002"/>
+		<SubFile FileName="SE_f046_seq003"/>
+		<SubFile FileName="SE_f046_vh"/>
+		<SubFile FileName="SE_f046_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f047" FileType="Soundbank" Enum="Se_f047" LZComp="False">
+		<SubFile FileName="SE_f047_seq000"/>
+		<SubFile FileName="SE_f047_seq001"/>
+		<SubFile FileName="SE_f047_seq002"/>
+		<SubFile FileName="SE_f047_seq003"/>
+		<SubFile FileName="SE_f047_vh"/>
+		<SubFile FileName="SE_f047_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f048" FileType="Soundbank" Enum="Se_f048" LZComp="False">
+		<SubFile FileName="SE_f048_seq000"/>
+		<SubFile FileName="SE_f048_seq001"/>
+		<SubFile FileName="SE_f048_seq002"/>
+		<SubFile FileName="SE_f048_seq003"/>
+		<SubFile FileName="SE_f048_vh"/>
+		<SubFile FileName="SE_f048_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f049" FileType="Soundbank" Enum="Se_f049" LZComp="False">
+		<SubFile FileName="SE_f049_seq000"/>
+		<SubFile FileName="SE_f049_seq001"/>
+		<SubFile FileName="SE_f049_seq002"/>
+		<SubFile FileName="SE_f049_seq003"/>
+		<SubFile FileName="SE_f049_vh"/>
+		<SubFile FileName="SE_f049_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f050" FileType="Soundbank" Enum="Se_f050" LZComp="False">
+		<SubFile FileName="SE_f050_seq000"/>
+		<SubFile FileName="SE_f050_seq001"/>
+		<SubFile FileName="SE_f050_seq002"/>
+		<SubFile FileName="SE_f050_seq003"/>
+		<SubFile FileName="SE_f050_vh"/>
+		<SubFile FileName="SE_f050_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f051" FileType="Soundbank" Enum="Se_f051" LZComp="False">
+		<SubFile FileName="SE_f051_seq000"/>
+		<SubFile FileName="SE_f051_seq001"/>
+		<SubFile FileName="SE_f051_seq002"/>
+		<SubFile FileName="SE_f051_seq003"/>
+		<SubFile FileName="SE_f051_vh"/>
+		<SubFile FileName="SE_f051_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f052" FileType="Soundbank" Enum="Se_f052" LZComp="False">
+		<SubFile FileName="SE_f052_seq000"/>
+		<SubFile FileName="SE_f052_seq001"/>
+		<SubFile FileName="SE_f052_seq002"/>
+		<SubFile FileName="SE_f052_seq003"/>
+		<SubFile FileName="SE_f052_vh"/>
+		<SubFile FileName="SE_f052_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f053" FileType="Soundbank" Enum="Se_f053" LZComp="False">
+		<SubFile FileName="SE_f053_seq000"/>
+		<SubFile FileName="SE_f053_seq001"/>
+		<SubFile FileName="SE_f053_seq002"/>
+		<SubFile FileName="SE_f053_seq003"/>
+		<SubFile FileName="SE_f053_vh"/>
+		<SubFile FileName="SE_f053_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f054" FileType="Soundbank" Enum="Se_f054" LZComp="False">
+		<SubFile FileName="SE_f054_seq000"/>
+		<SubFile FileName="SE_f054_seq001"/>
+		<SubFile FileName="SE_f054_seq002"/>
+		<SubFile FileName="SE_f054_seq003"/>
+		<SubFile FileName="SE_f054_vh"/>
+		<SubFile FileName="SE_f054_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f055" FileType="Soundbank" Enum="Se_f055" LZComp="False">
+		<SubFile FileName="SE_f055_seq000"/>
+		<SubFile FileName="SE_f055_seq001"/>
+		<SubFile FileName="SE_f055_seq002"/>
+		<SubFile FileName="SE_f055_seq003"/>
+		<SubFile FileName="SE_f055_vh"/>
+		<SubFile FileName="SE_f055_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f056" FileType="Soundbank" Enum="Se_f056" LZComp="False">
+		<SubFile FileName="SE_f056_seq000"/>
+		<SubFile FileName="SE_f056_seq001"/>
+		<SubFile FileName="SE_f056_seq002"/>
+		<SubFile FileName="SE_f056_seq003"/>
+		<SubFile FileName="SE_f056_vh"/>
+		<SubFile FileName="SE_f056_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f057" FileType="Soundbank" Enum="Se_f057" LZComp="False">
+		<SubFile FileName="SE_f057_seq000"/>
+		<SubFile FileName="SE_f057_seq001"/>
+		<SubFile FileName="SE_f057_seq002"/>
+		<SubFile FileName="SE_f057_seq003"/>
+		<SubFile FileName="SE_f057_vh"/>
+		<SubFile FileName="SE_f057_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f058" FileType="Soundbank" Enum="Se_f058" LZComp="False">
+		<SubFile FileName="SE_f058_seq000"/>
+		<SubFile FileName="SE_f058_seq001"/>
+		<SubFile FileName="SE_f058_seq002"/>
+		<SubFile FileName="SE_f058_seq003"/>
+		<SubFile FileName="SE_f058_vh"/>
+		<SubFile FileName="SE_f058_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f059" FileType="Soundbank" Enum="Se_f059" LZComp="False">
+		<SubFile FileName="SE_f059_seq000"/>
+		<SubFile FileName="SE_f059_seq001"/>
+		<SubFile FileName="SE_f059_seq002"/>
+		<SubFile FileName="SE_f059_seq003"/>
+		<SubFile FileName="SE_f059_vh"/>
+		<SubFile FileName="SE_f059_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f060" FileType="Soundbank" Enum="Se_f060" LZComp="False">
+		<SubFile FileName="SE_f060_seq000"/>
+		<SubFile FileName="SE_f060_seq001"/>
+		<SubFile FileName="SE_f060_seq002"/>
+		<SubFile FileName="SE_f060_seq003"/>
+		<SubFile FileName="SE_f060_vh"/>
+		<SubFile FileName="SE_f060_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f061" FileType="Soundbank" Enum="Se_f061" LZComp="False">
+		<SubFile FileName="SE_f061_seq000"/>
+		<SubFile FileName="SE_f061_seq001"/>
+		<SubFile FileName="SE_f061_seq002"/>
+		<SubFile FileName="SE_f061_seq003"/>
+		<SubFile FileName="SE_f061_vh"/>
+		<SubFile FileName="SE_f061_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f062" FileType="Soundbank" Enum="Se_f062" LZComp="False">
+		<SubFile FileName="SE_f062_seq000"/>
+		<SubFile FileName="SE_f062_seq001"/>
+		<SubFile FileName="SE_f062_seq002"/>
+		<SubFile FileName="SE_f062_seq003"/>
+		<SubFile FileName="SE_f062_vh"/>
+		<SubFile FileName="SE_f062_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f063" FileType="Soundbank" Enum="Se_f063" LZComp="False">
+		<SubFile FileName="SE_f063_seq000"/>
+		<SubFile FileName="SE_f063_seq001"/>
+		<SubFile FileName="SE_f063_seq002"/>
+		<SubFile FileName="SE_f063_seq003"/>
+		<SubFile FileName="SE_f063_vh"/>
+		<SubFile FileName="SE_f063_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f064" FileType="Soundbank" Enum="Se_f064" LZComp="False">
+		<SubFile FileName="SE_f064_seq000"/>
+		<SubFile FileName="SE_f064_seq001"/>
+		<SubFile FileName="SE_f064_seq002"/>
+		<SubFile FileName="SE_f064_seq003"/>
+		<SubFile FileName="SE_f064_vh"/>
+		<SubFile FileName="SE_f064_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f065" FileType="Soundbank" Enum="Se_f065" LZComp="False">
+		<SubFile FileName="SE_f065_seq000"/>
+		<SubFile FileName="SE_f065_seq001"/>
+		<SubFile FileName="SE_f065_seq002"/>
+		<SubFile FileName="SE_f065_seq003"/>
+		<SubFile FileName="SE_f065_vh"/>
+		<SubFile FileName="SE_f065_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f066" FileType="Soundbank" Enum="Se_f066" LZComp="False">
+		<SubFile FileName="SE_f066_seq000"/>
+		<SubFile FileName="SE_f066_seq001"/>
+		<SubFile FileName="SE_f066_seq002"/>
+		<SubFile FileName="SE_f066_seq003"/>
+		<SubFile FileName="SE_f066_vh"/>
+		<SubFile FileName="SE_f066_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f067" FileType="Soundbank" Enum="Se_f067" LZComp="False">
+		<SubFile FileName="SE_f067_seq000"/>
+		<SubFile FileName="SE_f067_seq001"/>
+		<SubFile FileName="SE_f067_seq002"/>
+		<SubFile FileName="SE_f067_seq003"/>
+		<SubFile FileName="SE_f067_vh"/>
+		<SubFile FileName="SE_f067_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f068" FileType="Soundbank" Enum="Se_f068" LZComp="False">
+		<SubFile FileName="SE_f068_seq000"/>
+		<SubFile FileName="SE_f068_seq001"/>
+		<SubFile FileName="SE_f068_seq002"/>
+		<SubFile FileName="SE_f068_seq003"/>
+		<SubFile FileName="SE_f068_vh"/>
+		<SubFile FileName="SE_f068_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f069" FileType="Soundbank" Enum="Se_f069" LZComp="False">
+		<SubFile FileName="SE_f069_seq000"/>
+		<SubFile FileName="SE_f069_seq001"/>
+		<SubFile FileName="SE_f069_seq002"/>
+		<SubFile FileName="SE_f069_seq003"/>
+		<SubFile FileName="SE_f069_vh"/>
+		<SubFile FileName="SE_f069_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f070" FileType="Soundbank" Enum="Se_f070" LZComp="False">
+		<SubFile FileName="SE_f070_seq000"/>
+		<SubFile FileName="SE_f070_seq001"/>
+		<SubFile FileName="SE_f070_seq002"/>
+		<SubFile FileName="SE_f070_seq003"/>
+		<SubFile FileName="SE_f070_vh"/>
+		<SubFile FileName="SE_f070_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f071" FileType="Soundbank" Enum="Se_f071" LZComp="False">
+		<SubFile FileName="SE_f071_seq000"/>
+		<SubFile FileName="SE_f071_seq001"/>
+		<SubFile FileName="SE_f071_seq002"/>
+		<SubFile FileName="SE_f071_seq003"/>
+		<SubFile FileName="SE_f071_vh"/>
+		<SubFile FileName="SE_f071_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f072" FileType="Soundbank" Enum="Se_f072" LZComp="False">
+		<SubFile FileName="SE_f072_seq000"/>
+		<SubFile FileName="SE_f072_seq001"/>
+		<SubFile FileName="SE_f072_seq002"/>
+		<SubFile FileName="SE_f072_seq003"/>
+		<SubFile FileName="SE_f072_vh"/>
+		<SubFile FileName="SE_f072_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f073" FileType="Soundbank" Enum="Se_f073" LZComp="False">
+		<SubFile FileName="SE_f073_seq000"/>
+		<SubFile FileName="SE_f073_seq001"/>
+		<SubFile FileName="SE_f073_seq002"/>
+		<SubFile FileName="SE_f073_seq003"/>
+		<SubFile FileName="SE_f073_vh"/>
+		<SubFile FileName="SE_f073_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f074" FileType="Soundbank" Enum="Se_f074" LZComp="False">
+		<SubFile FileName="SE_f074_seq000"/>
+		<SubFile FileName="SE_f074_seq001"/>
+		<SubFile FileName="SE_f074_seq002"/>
+		<SubFile FileName="SE_f074_seq003"/>
+		<SubFile FileName="SE_f074_vh"/>
+		<SubFile FileName="SE_f074_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f075" FileType="Soundbank" Enum="Se_f075" LZComp="False">
+		<SubFile FileName="SE_f075_seq000"/>
+		<SubFile FileName="SE_f075_seq001"/>
+		<SubFile FileName="SE_f075_seq002"/>
+		<SubFile FileName="SE_f075_seq003"/>
+		<SubFile FileName="SE_f075_vh"/>
+		<SubFile FileName="SE_f075_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f076" FileType="Soundbank" Enum="Se_f076" LZComp="False">
+		<SubFile FileName="SE_f076_seq000"/>
+		<SubFile FileName="SE_f076_seq001"/>
+		<SubFile FileName="SE_f076_seq002"/>
+		<SubFile FileName="SE_f076_seq003"/>
+		<SubFile FileName="SE_f076_vh"/>
+		<SubFile FileName="SE_f076_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f077" FileType="Soundbank" Enum="Se_f077" LZComp="False">
+		<SubFile FileName="SE_f077_seq000"/>
+		<SubFile FileName="SE_f077_seq001"/>
+		<SubFile FileName="SE_f077_seq002"/>
+		<SubFile FileName="SE_f077_seq003"/>
+		<SubFile FileName="SE_f077_vh"/>
+		<SubFile FileName="SE_f077_vb"/>
+	</ArcFile>
+	<ArcFile FileName="SE_f078" FileType="Soundbank" Enum="Se_f078" LZComp="False">
+		<SubFile FileName="SE_f078_seq000"/>
+		<SubFile FileName="SE_f078_seq001"/>
+		<SubFile FileName="SE_f078_seq002"/>
+		<SubFile FileName="SE_f078_seq003"/>
+		<SubFile FileName="SE_f078_vh"/>
+		<SubFile FileName="SE_f078_vb"/>
+	</ArcFile>
+	<ArcFile/>
+</ArcSpec>

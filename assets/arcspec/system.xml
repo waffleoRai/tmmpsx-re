@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArcSpec Name="SYSTEM" IndexingType="File" XAStream="False">
+	<ArcFile FileName="SYS_UICommon" Enum="Sys_UI_Common" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_TitleBanner" Enum="Sys_TitleBanner" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlName" Enum="Sys_UI_Battlers" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MenuBkgA" Enum="Sys_MenuBkg_GreenWhite" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_SolidColor" Enum="Sys_SolidColors" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_TitleBkg" Enum="Sys_TitleBackground" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BattleEff" Enum="Sys_BattleEff" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MCIconBell" Enum="Sys_MCIcon_Bell" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BootLogoTakara" Enum="Sys_StartLogo_Takara" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_UITitleMenu" Enum="Sys_UI_TitleMenu" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_DiscWarning" Enum="Sys_DiscWarning" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_Test" Enum="Sys_Test" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MemBrdIco" Enum="Sys_MemoryIcons" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MemBrdBlank" Enum="Sys_MemoryPlaceholder" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MewMenu" Enum="Sys_014" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MenuBkgB" Enum="Sys_MenuBkg_TurqA" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MenuBkgC" Enum="Sys_MenuBkg_TanA" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_LoadBkg" Enum="Sys_LoadingBkg" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_SceBkg_GlenA" Enum="Sys_SceneBkg_GlenA" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MenuBkgD" Enum="Sys_MenuBkg_Yellow" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MovieColIco" Enum="Sys_UIIcon_MovieColl" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MenuBkgE" Enum="Sys_MenuBkg_Pastel" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MenuBkgF" Enum="Sys_MenuBkg_TealSpot" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_SceImg_Sleepover" Enum="Sys_SceneImg_Sleepover" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_UIFileSelect" Enum="Sys_UI_FileSelect" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BootLogoWinkysoft" Enum="Sys_StartLogo_Winkysoft" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_SceBkg_BedroomN" Enum="Sys_SceneBkg_BedroomNight" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_SceImg_YukiHug" Enum="Sys_SceneImg_RingoYuki" FileType="Imagebank" LZComp="True"/>
+	<ArcFile/>
+	<ArcFile FileName="SYS_UIIchiPush" Enum="Sys_UISprite_IchigoPush" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_UIBedAssign" Enum="Sys_UI_AssignBeds" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MCIconMasha" Enum="Sys_MCIcon_Masha" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_UIOWMap" Enum="Sys_UI_OverworldMap" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_UIAreaName" Enum="Sys_UI_AreaNames" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MapBkgD" Enum="Sys_MapBkg_Day" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MapBkgIceD" Enum="Sys_MapBkg_DayIceMnt" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MapBkgN" Enum="Sys_MapBkg_Night" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MapBkgIceN" Enum="Sys_MapBkg_NightIceMnt" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MapBorderD" Enum="Sys_MapBorder_Day" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MapBorderN" Enum="Sys_MapBorder_Night" FileType="Imagebank" LZComp="True"/>
+	<ArcFile/>
+	<ArcFile/>
+	<ArcFile/>
+	<ArcFile/>
+	<ArcFile/>
+	<ArcFile/>
+	<ArcFile/>
+	<ArcFile/>
+	<ArcFile FileName="SYS_UISoundTest" Enum="Sys_UI_SoundTest" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MenuBkgG" Enum="Sys_MenuBkg_PinkBubble" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_UIMemo" Enum="Sys_UI_Memo" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MenuBkgH" Enum="Sys_MenuBkg_Green" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MenuBkgI" Enum="Sys_MenuBkg_PinkLace" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_UIMewProfile" Enum="Sys_UI_MewProfile" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_UIKanaTabs" Enum="Sys_UI_KanaTabs" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BrightWarning" Enum="Sys_StartWarn_BrightRoom" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_UIItemEx" Enum="Sys_UI_ItemExchange" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_UIPicCostume" Enum="Sys_UI_PicCostumes" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MenuBkgJ" Enum="Sys_MenuBkg_TanB" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_MenuBkgK" Enum="Sys_MenuBkg_TurqB" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_GameOverBkg" Enum="Sys_GameOver_Bkg" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_LogoGS02" Enum="Sys_TitleLogo_GS2002" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlBkg_PoisonD1" Enum="Sys_BattleBkg_PoisonSpringD1" FileType="Imagebank" LZComp="True"/>
+	<ArcFile/>
+	<ArcFile FileName="SYS_AdWpnStr" Enum="Sys_ToyAd_WpnStawberry" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdWpnMnt" Enum="Sys_ToyAd_WpnMint" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdWpnLet" Enum="Sys_ToyAd_WpnLettuce" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdWpnPdg" Enum="Sys_ToyAd_WpnPudding" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdWpnPom" Enum="Sys_ToyAd_WpnPomegranate" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdBerryRod" Enum="Sys_ToyAd_BerryRod" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdCostumeStr" Enum="Sys_ToyAd_DressUpStrawberry" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdCostumeMnt" Enum="Sys_ToyAd_DressUpMint" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdCostumeLet" Enum="Sys_ToyAd_DressUpLettuce" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdCostumePdg" Enum="Sys_ToyAd_DressUpPudding" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdCostumePom" Enum="Sys_ToyAd_DressUpPomegranate" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdFigStr" Enum="Sys_ToyAd_FigStrawberry" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdFigMnt" Enum="Sys_ToyAd_FigMint" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdFigLet" Enum="Sys_ToyAd_FigLettuce" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdFigPdg" Enum="Sys_ToyAd_FigPudding" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdFigPom" Enum="Sys_ToyAd_FigPomegranate" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdMinidoll" Enum="Sys_ToyAd_Minidoll" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdDrinks" Enum="Sys_ToyAd_DrinkMachine" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AdTeaset" Enum="Sys_ToyAd_Teaset" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_Yuho" Enum="Sys_AreaTag_Yuho" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_CtgMori" Enum="Sys_AreaTag_CtgMori" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_Shinjitsu" Enum="Sys_AreaTag_Shinjitsu" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_Yasuragi" Enum="Sys_AreaTag_Yasuragi" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_Utakaze" Enum="Sys_AreaTag_Utakaze" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_IceMountain" Enum="Sys_AreaTag_IceMountain" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_SecretCave" Enum="Sys_AreaTag_SecretCave" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_Yamamichi" Enum="Sys_AreaTag_Yamamichi" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_MysteryCave" Enum="Sys_AreaTag_MysteryCave" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_RangerMori" Enum="Sys_AreaTag_RangerMori" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_Izumi" Enum="Sys_AreaTag_Izumi" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_Uruwashi" Enum="Sys_AreaTag_Uruwashi" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_Iyashi" Enum="Sys_AreaTag_Iyashi" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_RangerCottage" Enum="Sys_AreaTag_RangerCottage" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_AreaTag_Cottage" Enum="Sys_AreaTag_Cottage" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlBkg_KitchenD" Enum="Sys_BattleBkg_KitchenD" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlBkg_PorchN" Enum="Sys_BattleBkg_PorchN" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlBkg_ForestD" Enum="Sys_BattleBkg_ForestD" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlBkg_ForestN" Enum="Sys_BattleBkg_ForestN" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlBkg_SpringD" Enum="Sys_BattleBkg_SpringD" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlBkg_FieldD" Enum="Sys_BattleBkg_FieldD" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlBkg_IceCave" Enum="Sys_BattleBkg_IceCave" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlBkg_Cave" Enum="Sys_BattleBkg_Cave" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlBkg_MeadowD" Enum="Sys_BattleBkg_MeadowD" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlBkg_MeadowN" Enum="Sys_BattleBkg_MeadowN" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlBkg_SpringN" Enum="Sys_BattleBkg_SpringN" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlBkg_FieldN" Enum="Sys_BattleBkg_FieldN" FileType="Imagebank" LZComp="True"/>
+	<ArcFile FileName="SYS_BtlBkg_PoisonD2" Enum="Sys_BattleBkg_PoisonSpringD2" FileType="Imagebank" LZComp="True"/>
+</ArcSpec>
