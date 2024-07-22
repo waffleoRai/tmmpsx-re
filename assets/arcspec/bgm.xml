@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ArcSpec Name="BGM" AudioFlag="True" IndexingType="Offset" XAStream="False">
-	<ArcFile FileName="BGM_unk00" Enum="Bgm_Unk00" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_opening" Enum="Bgm_Opening" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_jouka" Enum="Bgm_Jouka" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk03" Enum="Bgm_Unk03" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_owakare" Enum="Bgm_Owakare" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_ringo" Enum="Bgm_Ringo" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_iyashiteagetai" Enum="Bgm_IyashiteAgetai" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_teatime" Enum="Bgm_Teatime" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_shouri" Enum="Bgm_Shouri" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_haiboku" Enum="Bgm_Haiboku" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk0a" Enum="Bgm_Unk0a" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk0b" Enum="Bgm_Unk0b" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk0c" Enum="Bgm_Unk0c" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk0d" Enum="Bgm_Unk0d" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk0e" Enum="Bgm_Unk0e" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk0f" Enum="Bgm_Unk0f" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_hirumappu" Enum="Bgm_HiruMap" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_yorumappu" Enum="Bgm_YoruMap" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_ajito" Enum="Bgm_Ajito" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_yuuhou" Enum="Bgm_Yuuhou" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_shinjitsu" Enum="Bgm_Shinjitsu" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk15" Enum="Bgm_Unk15" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_yasuragi" Enum="Bgm_Yasuragi" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_utakaze" Enum="Bgm_Utakaze" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_hyouzan" Enum="Bgm_Hyouzan" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_doukutsu" Enum="Bgm_Doukutsu" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk1a" Enum="Bgm_Unk1a" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk1b" Enum="Bgm_Unk1b" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk1c" Enum="Bgm_Unk1c" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_oshaberi" Enum="Bgm_Oshaberi" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_bakansu" Enum="Bgm_Bakansu" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_iyanayokan" Enum="Bgm_IyanaYokan" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_kanashimi" Enum="Bgm_Kanashimi" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_kimeraanima" Enum="Bgm_KimeraAnima" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_sentoutime" Enum="Bgm_SentouTime" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_yuuki" Enum="Bgm_Yuuki" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk24" Enum="Bgm_Unk24" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_gatoutema" Enum="Bgm_GatouTema" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_wana" Enum="Bgm_Wana" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk27" Enum="Bgm_Unk27" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk28" Enum="Bgm_Unk28 " FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_okowareru" Enum="Bgm_Okowareru" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk2a" Enum="Bgm_Unk2a" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk2b" Enum="Bgm_Unk2b" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk2c" Enum="Bgm_Unk2c" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk2d" Enum="Bgm_Unk2d" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk2e" Enum="Bgm_Unk2e" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk2f" Enum="Bgm_Unk2f" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_sentou" Enum="Bgm_Battle" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_kyouteki" Enum="Bgm_KyoutekiBattle" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_kisshusentou" Enum="Bgm_KisshuBattle" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_lastsentou" Enum="Bgm_LastBattle" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk34" Enum="Bgm_Unk34" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk35" Enum="Bgm_Unk35" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk36" Enum="Bgm_Unk36" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk37" Enum="Bgm_Unk37" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk38" Enum="Bgm_Unk38" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk39" Enum="Bgm_Unk39" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk3a" Enum="Bgm_Unk3a" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk3b" Enum="Bgm_Unk3b" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk3c" Enum="Bgm_Unk3c" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk3d" Enum="Bgm_Unk3d" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk3e" Enum="Bgm_Unk3e" FileType="Soundseq" LZComp="False"/>
-	<ArcFile FileName="BGM_unk3f" Enum="Bgm_Unk3f" FileType="Soundseq" LZComp="False"/>
+<ArcSpec Name="BGM" AudioFlag="True" IndexingType="Offset" XAStream="False" ForceSectorAlignment="True">
+	<ArcFile FileName="BGM_unk00" Enum="Bgm_Unk00" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_opening" Enum="Bgm_Opening" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_jouka" Enum="Bgm_Jouka" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk03" Enum="Bgm_Unk03" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_owakare" Enum="Bgm_Owakare" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_ringo" Enum="Bgm_Ringo" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_iyashiteagetai" Enum="Bgm_IyashiteAgetai" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_teatime" Enum="Bgm_Teatime" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_shouri" Enum="Bgm_Shouri" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_haiboku" Enum="Bgm_Haiboku" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk0a" Enum="Bgm_Unk0a" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk0b" Enum="Bgm_Unk0b" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk0c" Enum="Bgm_Unk0c" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk0d" Enum="Bgm_Unk0d" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk0e" Enum="Bgm_Unk0e" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk0f" Enum="Bgm_Unk0f" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_hirumappu" Enum="Bgm_HiruMap" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_yorumappu" Enum="Bgm_YoruMap" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_ajito" Enum="Bgm_Ajito" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_yuuhou" Enum="Bgm_Yuuhou" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_shinjitsu" Enum="Bgm_Shinjitsu" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk15" Enum="Bgm_Unk15" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_yasuragi" Enum="Bgm_Yasuragi" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_utakaze" Enum="Bgm_Utakaze" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_hyouzan" Enum="Bgm_Hyouzan" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_doukutsu" Enum="Bgm_Doukutsu" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk1a" Enum="Bgm_Unk1a" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk1b" Enum="Bgm_Unk1b" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk1c" Enum="Bgm_Unk1c" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_oshaberi" Enum="Bgm_Oshaberi" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_bakansu" Enum="Bgm_Bakansu" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_iyanayokan" Enum="Bgm_IyanaYokan" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_kanashimi" Enum="Bgm_Kanashimi" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_kimeraanima" Enum="Bgm_KimeraAnima" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_sentoutime" Enum="Bgm_SentouTime" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_yuuki" Enum="Bgm_Yuuki" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk24" Enum="Bgm_Unk24" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_gatoutema" Enum="Bgm_GatouTema" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_wana" Enum="Bgm_Wana" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk27" Enum="Bgm_Unk27" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk28" Enum="Bgm_Unk28 " FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_okowareru" Enum="Bgm_Okowareru" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk2a" Enum="Bgm_Unk2a" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk2b" Enum="Bgm_Unk2b" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk2c" Enum="Bgm_Unk2c" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk2d" Enum="Bgm_Unk2d" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk2e" Enum="Bgm_Unk2e" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk2f" Enum="Bgm_Unk2f" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_sentou" Enum="Bgm_Battle" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_kyouteki" Enum="Bgm_KyoutekiBattle" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_kisshusentou" Enum="Bgm_KisshuBattle" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_lastsentou" Enum="Bgm_LastBattle" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk34" Enum="Bgm_Unk34" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk35" Enum="Bgm_Unk35" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk36" Enum="Bgm_Unk36" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk37" Enum="Bgm_Unk37" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk38" Enum="Bgm_Unk38" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk39" Enum="Bgm_Unk39" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk3a" Enum="Bgm_Unk3a" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk3b" Enum="Bgm_Unk3b" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk3c" Enum="Bgm_Unk3c" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk3d" Enum="Bgm_Unk3d" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk3e" Enum="Bgm_Unk3e" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
+	<ArcFile FileName="BGM_unk3f" Enum="Bgm_Unk3f" FileType="Soundseq" LZComp="None" ForceSectorAlignment="True"/>
 </ArcSpec>

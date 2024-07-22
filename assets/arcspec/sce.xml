@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ArcSpec Name="SCE" IndexingType="File" XAStream="False">
+<ArcSpec Name="SCE" IndexingType="File" XAStream="False" ForceSectorAlignment="False" ExplicitSizeTable="False">
 	<ArcFile FileName="SCE_f000" FileType="Unknown" Enum="Sce_f000" LZComp="False"/>
 	<ArcFile FileName="SCE_f001" FileType="Unknown" Enum="Sce_f001" LZComp="False"/>
 	<ArcFile FileName="SCE_f002" FileType="Unknown" Enum="Sce_f002" LZComp="False"/>

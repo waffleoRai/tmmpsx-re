@@ -1,611 +1,611 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ArcSpec Name="EFFECT" IndexingType="File" XAStream="False">
-	<ArcFile FileName="EFFECT_f000" FileType="Imagebank" Enum="Effect_f000" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f001" FileType="Imagebank" Enum="Effect_f001" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f002" FileType="Imagebank" Enum="Effect_f002" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f003" FileType="Imagebank" Enum="Effect_f003" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f004" FileType="Imagebank" Enum="Effect_f004" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f005" FileType="Imagebank" Enum="Effect_f005" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f006" FileType="Imagebank" Enum="Effect_f006" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f007" FileType="Imagebank" Enum="Effect_f007" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f008" FileType="Imagebank" Enum="Effect_f008" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f009" FileType="Imagebank" Enum="Effect_f009" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f010" FileType="Imagebank" Enum="Effect_f010" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f011" FileType="Imagebank" Enum="Effect_f011" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f012" FileType="Imagebank" Enum="Effect_f012" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f013" FileType="Imagebank" Enum="Effect_f013" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f014" FileType="Imagebank" Enum="Effect_f014" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f015" FileType="Imagebank" Enum="Effect_f015" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f016" FileType="Imagebank" Enum="Effect_f016" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f017" FileType="Imagebank" Enum="Effect_f017" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f018" FileType="Imagebank" Enum="Effect_f018" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f019" FileType="Imagebank" Enum="Effect_f019" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f020" FileType="Imagebank" Enum="Effect_f020" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f021" FileType="Imagebank" Enum="Effect_f021" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f022" FileType="Imagebank" Enum="Effect_f022" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f023" FileType="Imagebank" Enum="Effect_f023" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f024" FileType="Imagebank" Enum="Effect_f024" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f025" FileType="Imagebank" Enum="Effect_f025" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f026" FileType="Imagebank" Enum="Effect_f026" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f027" FileType="Imagebank" Enum="Effect_f027" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f028" FileType="Imagebank" Enum="Effect_f028" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f029" FileType="Imagebank" Enum="Effect_f029" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f030" FileType="Imagebank" Enum="Effect_f030" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f031" FileType="Imagebank" Enum="Effect_f031" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f032" FileType="Imagebank" Enum="Effect_f032" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f033" FileType="Imagebank" Enum="Effect_f033" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f034" FileType="Imagebank" Enum="Effect_f034" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f035" FileType="Imagebank" Enum="Effect_f035" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f036" FileType="Imagebank" Enum="Effect_f036" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f037" FileType="Imagebank" Enum="Effect_f037" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f038" FileType="Imagebank" Enum="Effect_f038" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f039" FileType="Imagebank" Enum="Effect_f039" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f040" FileType="Imagebank" Enum="Effect_f040" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f041" FileType="Imagebank" Enum="Effect_f041" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f042" FileType="Imagebank" Enum="Effect_f042" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f043" FileType="Imagebank" Enum="Effect_f043" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f044" FileType="Imagebank" Enum="Effect_f044" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f045" FileType="Imagebank" Enum="Effect_f045" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f046" FileType="Imagebank" Enum="Effect_f046" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f047" FileType="Imagebank" Enum="Effect_f047" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f048" FileType="Imagebank" Enum="Effect_f048" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f049" FileType="Imagebank" Enum="Effect_f049" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f050" FileType="Imagebank" Enum="Effect_f050" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f051" FileType="Imagebank" Enum="Effect_f051" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f052" FileType="Imagebank" Enum="Effect_f052" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f053" FileType="Imagebank" Enum="Effect_f053" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f054" FileType="Imagebank" Enum="Effect_f054" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f055" FileType="Imagebank" Enum="Effect_f055" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f056" FileType="Imagebank" Enum="Effect_f056" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f057" FileType="Imagebank" Enum="Effect_f057" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f058" FileType="Imagebank" Enum="Effect_f058" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f059" FileType="Imagebank" Enum="Effect_f059" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f060" FileType="Imagebank" Enum="Effect_f060" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f061" FileType="Imagebank" Enum="Effect_f061" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f062" FileType="Imagebank" Enum="Effect_f062" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f063" FileType="Imagebank" Enum="Effect_f063" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f064" FileType="Imagebank" Enum="Effect_f064" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f065" FileType="Imagebank" Enum="Effect_f065" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f066" FileType="Imagebank" Enum="Effect_f066" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f067" FileType="Imagebank" Enum="Effect_f067" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f068" FileType="Imagebank" Enum="Effect_f068" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f069" FileType="Imagebank" Enum="Effect_f069" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f070" FileType="Imagebank" Enum="Effect_f070" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f071" FileType="Imagebank" Enum="Effect_f071" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f072" FileType="Imagebank" Enum="Effect_f072" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f073" FileType="Imagebank" Enum="Effect_f073" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f074" FileType="Imagebank" Enum="Effect_f074" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f075" FileType="Imagebank" Enum="Effect_f075" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f076" FileType="Imagebank" Enum="Effect_f076" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f077" FileType="Imagebank" Enum="Effect_f077" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f078" FileType="Imagebank" Enum="Effect_f078" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f079" FileType="Imagebank" Enum="Effect_f079" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f080" FileType="Imagebank" Enum="Effect_f080" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f081" FileType="Imagebank" Enum="Effect_f081" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f082" FileType="Imagebank" Enum="Effect_f082" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f083" FileType="Imagebank" Enum="Effect_f083" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f084" FileType="Imagebank" Enum="Effect_f084" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f085" FileType="Imagebank" Enum="Effect_f085" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f086" FileType="Imagebank" Enum="Effect_f086" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f087" FileType="Imagebank" Enum="Effect_f087" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f088" FileType="Imagebank" Enum="Effect_f088" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f089" FileType="Imagebank" Enum="Effect_f089" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f090" FileType="Imagebank" Enum="Effect_f090" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f091" FileType="Imagebank" Enum="Effect_f091" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f092" FileType="Imagebank" Enum="Effect_f092" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f093" FileType="Imagebank" Enum="Effect_f093" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f094" FileType="Imagebank" Enum="Effect_f094" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f095" FileType="Imagebank" Enum="Effect_f095" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f096" FileType="Imagebank" Enum="Effect_f096" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f097" FileType="Imagebank" Enum="Effect_f097" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f098" FileType="Imagebank" Enum="Effect_f098" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f099" FileType="Imagebank" Enum="Effect_f099" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f100" FileType="Imagebank" Enum="Effect_f100" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f101" FileType="Imagebank" Enum="Effect_f101" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f102" FileType="Imagebank" Enum="Effect_f102" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f103" FileType="Imagebank" Enum="Effect_f103" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f104" FileType="Imagebank" Enum="Effect_f104" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f105" FileType="Imagebank" Enum="Effect_f105" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f106" FileType="Imagebank" Enum="Effect_f106" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f107" FileType="Imagebank" Enum="Effect_f107" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f108" FileType="Imagebank" Enum="Effect_f108" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f109" FileType="Imagebank" Enum="Effect_f109" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f110" FileType="Imagebank" Enum="Effect_f110" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f111" FileType="Imagebank" Enum="Effect_f111" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f112" FileType="Imagebank" Enum="Effect_f112" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f113" FileType="Imagebank" Enum="Effect_f113" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f114" FileType="Imagebank" Enum="Effect_f114" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f115" FileType="Imagebank" Enum="Effect_f115" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f116" FileType="Imagebank" Enum="Effect_f116" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f117" FileType="Imagebank" Enum="Effect_f117" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f118" FileType="Imagebank" Enum="Effect_f118" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f119" FileType="Imagebank" Enum="Effect_f119" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f120" FileType="Imagebank" Enum="Effect_f120" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f121" FileType="Imagebank" Enum="Effect_f121" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f122" FileType="Imagebank" Enum="Effect_f122" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f123" FileType="Imagebank" Enum="Effect_f123" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f124" FileType="Imagebank" Enum="Effect_f124" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f125" FileType="Imagebank" Enum="Effect_f125" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f126" FileType="Imagebank" Enum="Effect_f126" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f127" FileType="Imagebank" Enum="Effect_f127" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f128" FileType="Imagebank" Enum="Effect_f128" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f129" FileType="Imagebank" Enum="Effect_f129" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f130" FileType="Imagebank" Enum="Effect_f130" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f131" FileType="Imagebank" Enum="Effect_f131" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f132" FileType="Imagebank" Enum="Effect_f132" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f133" FileType="Imagebank" Enum="Effect_f133" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f134" FileType="Imagebank" Enum="Effect_f134" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f135" FileType="Imagebank" Enum="Effect_f135" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f136" FileType="Imagebank" Enum="Effect_f136" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f137" FileType="Imagebank" Enum="Effect_f137" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f138" FileType="Imagebank" Enum="Effect_f138" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f139" FileType="Imagebank" Enum="Effect_f139" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f140" FileType="Imagebank" Enum="Effect_f140" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f141" FileType="Imagebank" Enum="Effect_f141" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f142" FileType="Imagebank" Enum="Effect_f142" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f143" FileType="Imagebank" Enum="Effect_f143" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f144" FileType="Imagebank" Enum="Effect_f144" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f145" FileType="Imagebank" Enum="Effect_f145" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f146" FileType="Imagebank" Enum="Effect_f146" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f147" FileType="Imagebank" Enum="Effect_f147" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f148" FileType="Imagebank" Enum="Effect_f148" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f149" FileType="Imagebank" Enum="Effect_f149" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f150" FileType="Imagebank" Enum="Effect_f150" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f151" FileType="Imagebank" Enum="Effect_f151" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f152" FileType="Imagebank" Enum="Effect_f152" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f153" FileType="Imagebank" Enum="Effect_f153" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f154" FileType="Imagebank" Enum="Effect_f154" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f155" FileType="Imagebank" Enum="Effect_f155" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f156" FileType="Imagebank" Enum="Effect_f156" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f157" FileType="Imagebank" Enum="Effect_f157" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f158" FileType="Imagebank" Enum="Effect_f158" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f159" FileType="Imagebank" Enum="Effect_f159" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f160" FileType="Imagebank" Enum="Effect_f160" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f161" FileType="Imagebank" Enum="Effect_f161" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f162" FileType="Imagebank" Enum="Effect_f162" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f163" FileType="Imagebank" Enum="Effect_f163" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f164" FileType="Imagebank" Enum="Effect_f164" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f165" FileType="Imagebank" Enum="Effect_f165" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f166" FileType="Imagebank" Enum="Effect_f166" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f167" FileType="Imagebank" Enum="Effect_f167" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f168" FileType="Imagebank" Enum="Effect_f168" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f169" FileType="Imagebank" Enum="Effect_f169" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f170" FileType="Imagebank" Enum="Effect_f170" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f171" FileType="Imagebank" Enum="Effect_f171" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f172" FileType="Imagebank" Enum="Effect_f172" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f173" FileType="Imagebank" Enum="Effect_f173" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f174" FileType="Imagebank" Enum="Effect_f174" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f175" FileType="Imagebank" Enum="Effect_f175" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f176" FileType="Imagebank" Enum="Effect_f176" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f177" FileType="Imagebank" Enum="Effect_f177" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f178" FileType="Imagebank" Enum="Effect_f178" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f179" FileType="Imagebank" Enum="Effect_f179" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f180" FileType="Imagebank" Enum="Effect_f180" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f181" FileType="Imagebank" Enum="Effect_f181" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f182" FileType="Imagebank" Enum="Effect_f182" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f183" FileType="Imagebank" Enum="Effect_f183" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f184" FileType="Imagebank" Enum="Effect_f184" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f185" FileType="Imagebank" Enum="Effect_f185" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f186" FileType="Imagebank" Enum="Effect_f186" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f187" FileType="Imagebank" Enum="Effect_f187" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f188" FileType="Imagebank" Enum="Effect_f188" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f189" FileType="Imagebank" Enum="Effect_f189" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f190" FileType="Imagebank" Enum="Effect_f190" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f191" FileType="Imagebank" Enum="Effect_f191" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f192" FileType="Imagebank" Enum="Effect_f192" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f193" FileType="Imagebank" Enum="Effect_f193" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f194" FileType="Imagebank" Enum="Effect_f194" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f195" FileType="Imagebank" Enum="Effect_f195" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f196" FileType="Imagebank" Enum="Effect_f196" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f197" FileType="Imagebank" Enum="Effect_f197" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f198" FileType="Imagebank" Enum="Effect_f198" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f199" FileType="Imagebank" Enum="Effect_f199" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f200" FileType="Imagebank" Enum="Effect_f200" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f201" FileType="Imagebank" Enum="Effect_f201" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f202" FileType="Imagebank" Enum="Effect_f202" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f203" FileType="Imagebank" Enum="Effect_f203" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f204" FileType="Imagebank" Enum="Effect_f204" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f205" FileType="Imagebank" Enum="Effect_f205" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f206" FileType="Imagebank" Enum="Effect_f206" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f207" FileType="Imagebank" Enum="Effect_f207" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f208" FileType="Imagebank" Enum="Effect_f208" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f209" FileType="Imagebank" Enum="Effect_f209" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f210" FileType="Imagebank" Enum="Effect_f210" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f211" FileType="Imagebank" Enum="Effect_f211" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f212" FileType="Imagebank" Enum="Effect_f212" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f213" FileType="Imagebank" Enum="Effect_f213" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f214" FileType="Imagebank" Enum="Effect_f214" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f215" FileType="Imagebank" Enum="Effect_f215" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f216" FileType="Imagebank" Enum="Effect_f216" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f217" FileType="Imagebank" Enum="Effect_f217" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f218" FileType="Imagebank" Enum="Effect_f218" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f219" FileType="Imagebank" Enum="Effect_f219" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f220" FileType="Imagebank" Enum="Effect_f220" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f221" FileType="Imagebank" Enum="Effect_f221" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f222" FileType="Imagebank" Enum="Effect_f222" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f223" FileType="Imagebank" Enum="Effect_f223" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f224" FileType="Imagebank" Enum="Effect_f224" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f225" FileType="Imagebank" Enum="Effect_f225" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f226" FileType="Imagebank" Enum="Effect_f226" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f227" FileType="Imagebank" Enum="Effect_f227" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f228" FileType="Imagebank" Enum="Effect_f228" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f229" FileType="Imagebank" Enum="Effect_f229" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f230" FileType="Imagebank" Enum="Effect_f230" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f231" FileType="Imagebank" Enum="Effect_f231" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f232" FileType="Imagebank" Enum="Effect_f232" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f233" FileType="Imagebank" Enum="Effect_f233" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f234" FileType="Imagebank" Enum="Effect_f234" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f235" FileType="Imagebank" Enum="Effect_f235" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f236" FileType="Imagebank" Enum="Effect_f236" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f237" FileType="Imagebank" Enum="Effect_f237" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f238" FileType="Imagebank" Enum="Effect_f238" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f239" FileType="Imagebank" Enum="Effect_f239" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f240" FileType="Imagebank" Enum="Effect_f240" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f241" FileType="Imagebank" Enum="Effect_f241" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f242" FileType="Imagebank" Enum="Effect_f242" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f243" FileType="Imagebank" Enum="Effect_f243" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f244" FileType="Imagebank" Enum="Effect_f244" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f245" FileType="Imagebank" Enum="Effect_f245" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f246" FileType="Imagebank" Enum="Effect_f246" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f247" FileType="Imagebank" Enum="Effect_f247" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f248" FileType="Imagebank" Enum="Effect_f248" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f249" FileType="Imagebank" Enum="Effect_f249" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f250" FileType="Imagebank" Enum="Effect_f250" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f251" FileType="Imagebank" Enum="Effect_f251" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f252" FileType="Imagebank" Enum="Effect_f252" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f253" FileType="Imagebank" Enum="Effect_f253" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f254" FileType="Imagebank" Enum="Effect_f254" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f255" FileType="Imagebank" Enum="Effect_f255" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f256" FileType="Imagebank" Enum="Effect_f256" LZComp="True" TileSize="32,32"/>
-	<ArcFile FileName="EFFECT_f257" FileType="Imagebank" Enum="Effect_f257" LZComp="True" TileSize="32,32"/>
-	<ArcFile FileName="EFFECT_f258" FileType="Imagebank" Enum="Effect_f258" LZComp="True" TileSize="32,32"/>
-	<ArcFile FileName="EFFECT_f259" FileType="Imagebank" Enum="Effect_f259" LZComp="True" TileSize="32,32"/>
-	<ArcFile FileName="EFFECT_f260" FileType="Imagebank" Enum="Effect_f260" LZComp="True" TileSize="32,32"/>
-	<ArcFile FileName="EFFECT_f261" FileType="Imagebank" Enum="Effect_f261" LZComp="True" TileSize="32,32"/>
-	<ArcFile FileName="EFFECT_f262" FileType="Imagebank" Enum="Effect_f262" LZComp="True" TileSize="32,32"/>
-	<ArcFile FileName="EFFECT_f263" FileType="Imagebank" Enum="Effect_f263" LZComp="True" TileSize="32,32"/>
-	<ArcFile FileName="EFFECT_f264" FileType="Imagebank" Enum="Effect_f264" LZComp="True" TileSize="32,32"/>
-	<ArcFile FileName="EFFECT_f265" FileType="Imagebank" Enum="Effect_f265" LZComp="True" TileSize="32,32"/>
-	<ArcFile FileName="EFFECT_f266" FileType="Imagebank" Enum="Effect_f266" LZComp="True" TileSize="32,32"/>
-	<ArcFile FileName="EFFECT_f267" FileType="Imagebank" Enum="Effect_f267" LZComp="True" TileSize="32,32"/>
-	<ArcFile FileName="EFFECT_f268" FileType="Imagebank" Enum="Effect_f268" LZComp="True" TileSize="32,32"/>
-	<ArcFile FileName="EFFECT_f269" FileType="Imagebank" Enum="Effect_f269" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f270" FileType="Imagebank" Enum="Effect_f270" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f271" FileType="Imagebank" Enum="Effect_f271" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f272" FileType="Imagebank" Enum="Effect_f272" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f273" FileType="Imagebank" Enum="Effect_f273" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f274" FileType="Imagebank" Enum="Effect_f274" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f275" FileType="Imagebank" Enum="Effect_f275" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f276" FileType="Imagebank" Enum="Effect_f276" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f277" FileType="Imagebank" Enum="Effect_f277" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f278" FileType="Imagebank" Enum="Effect_f278" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f279" FileType="Imagebank" Enum="Effect_f279" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f280" FileType="Imagebank" Enum="Effect_f280" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f281" FileType="Imagebank" Enum="Effect_f281" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f282" FileType="Imagebank" Enum="Effect_f282" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f283" FileType="Imagebank" Enum="Effect_f283" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f284" FileType="Imagebank" Enum="Effect_f284" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f285" FileType="Imagebank" Enum="Effect_f285" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f286" FileType="Imagebank" Enum="Effect_f286" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f287" FileType="Imagebank" Enum="Effect_f287" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f288" FileType="Imagebank" Enum="Effect_f288" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f289" FileType="Imagebank" Enum="Effect_f289" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f290" FileType="Imagebank" Enum="Effect_f290" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f291" FileType="Imagebank" Enum="Effect_f291" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f292" FileType="Imagebank" Enum="Effect_f292" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f293" FileType="Imagebank" Enum="Effect_f293" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f294" FileType="Imagebank" Enum="Effect_f294" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f295" FileType="Imagebank" Enum="Effect_f295" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f296" FileType="Imagebank" Enum="Effect_f296" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f297" FileType="Imagebank" Enum="Effect_f297" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f298" FileType="Imagebank" Enum="Effect_f298" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f299" FileType="Imagebank" Enum="Effect_f299" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f300" FileType="Imagebank" Enum="Effect_f300" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f301" FileType="Imagebank" Enum="Effect_f301" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f302" FileType="Imagebank" Enum="Effect_f302" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f303" FileType="Imagebank" Enum="Effect_f303" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f304" FileType="Imagebank" Enum="Effect_f304" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f305" FileType="Imagebank" Enum="Effect_f305" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f306" FileType="Imagebank" Enum="Effect_f306" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f307" FileType="Imagebank" Enum="Effect_f307" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f308" FileType="Imagebank" Enum="Effect_f308" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f309" FileType="Imagebank" Enum="Effect_f309" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f310" FileType="Imagebank" Enum="Effect_f310" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f311" FileType="Imagebank" Enum="Effect_f311" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f312" FileType="Imagebank" Enum="Effect_f312" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f313" FileType="Imagebank" Enum="Effect_f313" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f314" FileType="Imagebank" Enum="Effect_f314" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f315" FileType="Imagebank" Enum="Effect_f315" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f316" FileType="Imagebank" Enum="Effect_f316" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f317" FileType="Imagebank" Enum="Effect_f317" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f318" FileType="Imagebank" Enum="Effect_f318" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f319" FileType="Imagebank" Enum="Effect_f319" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f320" FileType="Imagebank" Enum="Effect_f320" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f321" FileType="Imagebank" Enum="Effect_f321" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f322" FileType="Imagebank" Enum="Effect_f322" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f323" FileType="Imagebank" Enum="Effect_f323" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f324" FileType="Imagebank" Enum="Effect_f324" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f325" FileType="Imagebank" Enum="Effect_f325" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f326" FileType="Imagebank" Enum="Effect_f326" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f327" FileType="Imagebank" Enum="Effect_f327" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f328" FileType="Imagebank" Enum="Effect_f328" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f329" FileType="Imagebank" Enum="Effect_f329" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f330" FileType="Imagebank" Enum="Effect_f330" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f331" FileType="Imagebank" Enum="Effect_f331" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f332" FileType="Imagebank" Enum="Effect_f332" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f333" FileType="Imagebank" Enum="Effect_f333" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f334" FileType="Imagebank" Enum="Effect_f334" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f335" FileType="Imagebank" Enum="Effect_f335" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f336" FileType="Imagebank" Enum="Effect_f336" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f337" FileType="Imagebank" Enum="Effect_f337" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f338" FileType="Imagebank" Enum="Effect_f338" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f339" FileType="Imagebank" Enum="Effect_f339" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f340" FileType="Imagebank" Enum="Effect_f340" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f341" FileType="Imagebank" Enum="Effect_f341" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f342" FileType="Imagebank" Enum="Effect_f342" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f343" FileType="Imagebank" Enum="Effect_f343" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f344" FileType="Imagebank" Enum="Effect_f344" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f345" FileType="Imagebank" Enum="Effect_f345" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f346" FileType="Imagebank" Enum="Effect_f346" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f347" FileType="Imagebank" Enum="Effect_f347" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f348" FileType="Imagebank" Enum="Effect_f348" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f349" FileType="Imagebank" Enum="Effect_f349" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f350" FileType="Imagebank" Enum="Effect_f350" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f351" FileType="Imagebank" Enum="Effect_f351" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f352" FileType="Imagebank" Enum="Effect_f352" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f353" FileType="Imagebank" Enum="Effect_f353" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f354" FileType="Imagebank" Enum="Effect_f354" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f355" FileType="Imagebank" Enum="Effect_f355" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f356" FileType="Imagebank" Enum="Effect_f356" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f357" FileType="Imagebank" Enum="Effect_f357" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f358" FileType="Imagebank" Enum="Effect_f358" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f359" FileType="Imagebank" Enum="Effect_f359" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f360" FileType="Imagebank" Enum="Effect_f360" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f361" FileType="Imagebank" Enum="Effect_f361" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f362" FileType="Imagebank" Enum="Effect_f362" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f363" FileType="Imagebank" Enum="Effect_f363" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f364" FileType="Imagebank" Enum="Effect_f364" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f365" FileType="Imagebank" Enum="Effect_f365" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f366" FileType="Imagebank" Enum="Effect_f366" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f367" FileType="Imagebank" Enum="Effect_f367" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f368" FileType="Imagebank" Enum="Effect_f368" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f369" FileType="Imagebank" Enum="Effect_f369" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f370" FileType="Imagebank" Enum="Effect_f370" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f371" FileType="Imagebank" Enum="Effect_f371" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f372" FileType="Imagebank" Enum="Effect_f372" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f373" FileType="Imagebank" Enum="Effect_f373" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f374" FileType="Imagebank" Enum="Effect_f374" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f375" FileType="Imagebank" Enum="Effect_f375" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f376" FileType="Imagebank" Enum="Effect_f376" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f377" FileType="Imagebank" Enum="Effect_f377" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f378" FileType="Imagebank" Enum="Effect_f378" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f379" FileType="Imagebank" Enum="Effect_f379" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f380" FileType="Imagebank" Enum="Effect_f380" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f381" FileType="Imagebank" Enum="Effect_f381" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f382" FileType="Imagebank" Enum="Effect_f382" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f383" FileType="Imagebank" Enum="Effect_f383" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f384" FileType="Imagebank" Enum="Effect_f384" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f385" FileType="Imagebank" Enum="Effect_f385" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f386" FileType="Imagebank" Enum="Effect_f386" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f387" FileType="Imagebank" Enum="Effect_f387" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f388" FileType="Imagebank" Enum="Effect_f388" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f389" FileType="Imagebank" Enum="Effect_f389" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f390" FileType="Imagebank" Enum="Effect_f390" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f391" FileType="Imagebank" Enum="Effect_f391" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f392" FileType="Imagebank" Enum="Effect_f392" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f393" FileType="Imagebank" Enum="Effect_f393" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f394" FileType="Imagebank" Enum="Effect_f394" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f395" FileType="Imagebank" Enum="Effect_f395" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f396" FileType="Imagebank" Enum="Effect_f396" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f397" FileType="Imagebank" Enum="Effect_f397" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f398" FileType="Imagebank" Enum="Effect_f398" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f399" FileType="Imagebank" Enum="Effect_f399" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f400" FileType="Imagebank" Enum="Effect_f400" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f401" FileType="Imagebank" Enum="Effect_f401" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f402" FileType="Imagebank" Enum="Effect_f402" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f403" FileType="Imagebank" Enum="Effect_f403" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f404" FileType="Imagebank" Enum="Effect_f404" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f405" FileType="Imagebank" Enum="Effect_f405" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f406" FileType="Imagebank" Enum="Effect_f406" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f407" FileType="Imagebank" Enum="Effect_f407" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f408" FileType="Imagebank" Enum="Effect_f408" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f409" FileType="Imagebank" Enum="Effect_f409" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f410" FileType="Imagebank" Enum="Effect_f410" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f411" FileType="Imagebank" Enum="Effect_f411" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f412" FileType="Imagebank" Enum="Effect_f412" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f413" FileType="Imagebank" Enum="Effect_f413" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f414" FileType="Imagebank" Enum="Effect_f414" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f415" FileType="Imagebank" Enum="Effect_f415" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f416" FileType="Imagebank" Enum="Effect_f416" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f417" FileType="Imagebank" Enum="Effect_f417" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f418" FileType="Imagebank" Enum="Effect_f418" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f419" FileType="Imagebank" Enum="Effect_f419" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f420" FileType="Imagebank" Enum="Effect_f420" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f421" FileType="Imagebank" Enum="Effect_f421" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f422" FileType="Imagebank" Enum="Effect_f422" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f423" FileType="Imagebank" Enum="Effect_f423" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f424" FileType="Imagebank" Enum="Effect_f424" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f425" FileType="Imagebank" Enum="Effect_f425" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f426" FileType="Imagebank" Enum="Effect_f426" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f427" FileType="Imagebank" Enum="Effect_f427" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f428" FileType="Imagebank" Enum="Effect_f428" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f429" FileType="Imagebank" Enum="Effect_f429" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f430" FileType="Imagebank" Enum="Effect_f430" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f431" FileType="Imagebank" Enum="Effect_f431" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f432" FileType="Imagebank" Enum="Effect_f432" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f433" FileType="Imagebank" Enum="Effect_f433" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f434" FileType="Imagebank" Enum="Effect_f434" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f435" FileType="Imagebank" Enum="Effect_f435" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f436" FileType="Imagebank" Enum="Effect_f436" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f437" FileType="Imagebank" Enum="Effect_f437" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f438" FileType="Imagebank" Enum="Effect_f438" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f439" FileType="Imagebank" Enum="Effect_f439" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f440" FileType="Imagebank" Enum="Effect_f440" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f441" FileType="Imagebank" Enum="Effect_f441" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f442" FileType="Imagebank" Enum="Effect_f442" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f443" FileType="Imagebank" Enum="Effect_f443" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f444" FileType="Imagebank" Enum="Effect_f444" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f445" FileType="Imagebank" Enum="Effect_f445" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f446" FileType="Imagebank" Enum="Effect_f446" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f447" FileType="Imagebank" Enum="Effect_f447" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f448" FileType="Imagebank" Enum="Effect_f448" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f449" FileType="Imagebank" Enum="Effect_f449" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f450" FileType="Imagebank" Enum="Effect_f450" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f451" FileType="Imagebank" Enum="Effect_f451" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f452" FileType="Imagebank" Enum="Effect_f452" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f453" FileType="Imagebank" Enum="Effect_f453" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f454" FileType="Imagebank" Enum="Effect_f454" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f455" FileType="Imagebank" Enum="Effect_f455" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f456" FileType="Imagebank" Enum="Effect_f456" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f457" FileType="Imagebank" Enum="Effect_f457" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f458" FileType="Imagebank" Enum="Effect_f458" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f459" FileType="Imagebank" Enum="Effect_f459" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f460" FileType="Imagebank" Enum="Effect_f460" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f461" FileType="Imagebank" Enum="Effect_f461" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f462" FileType="Imagebank" Enum="Effect_f462" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f463" FileType="Imagebank" Enum="Effect_f463" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f464" FileType="Imagebank" Enum="Effect_f464" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f465" FileType="Imagebank" Enum="Effect_f465" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f466" FileType="Imagebank" Enum="Effect_f466" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f467" FileType="Imagebank" Enum="Effect_f467" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f468" FileType="Imagebank" Enum="Effect_f468" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f469" FileType="Imagebank" Enum="Effect_f469" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f470" FileType="Imagebank" Enum="Effect_f470" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f471" FileType="Imagebank" Enum="Effect_f471" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f472" FileType="Imagebank" Enum="Effect_f472" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f473" FileType="Imagebank" Enum="Effect_f473" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f474" FileType="Imagebank" Enum="Effect_f474" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f475" FileType="Imagebank" Enum="Effect_f475" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f476" FileType="Imagebank" Enum="Effect_f476" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f477" FileType="Imagebank" Enum="Effect_f477" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f478" FileType="Imagebank" Enum="Effect_f478" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f479" FileType="Imagebank" Enum="Effect_f479" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f480" FileType="Imagebank" Enum="Effect_f480" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f481" FileType="Imagebank" Enum="Effect_f481" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f482" FileType="Imagebank" Enum="Effect_f482" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f483" FileType="Imagebank" Enum="Effect_f483" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f484" FileType="Imagebank" Enum="Effect_f484" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f485" FileType="Imagebank" Enum="Effect_f485" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f486" FileType="Imagebank" Enum="Effect_f486" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f487" FileType="Imagebank" Enum="Effect_f487" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f488" FileType="Imagebank" Enum="Effect_f488" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f489" FileType="Imagebank" Enum="Effect_f489" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f490" FileType="Imagebank" Enum="Effect_f490" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f491" FileType="Imagebank" Enum="Effect_f491" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f492" FileType="Imagebank" Enum="Effect_f492" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f493" FileType="Imagebank" Enum="Effect_f493" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f494" FileType="Imagebank" Enum="Effect_f494" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f495" FileType="Imagebank" Enum="Effect_f495" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f496" FileType="Imagebank" Enum="Effect_f496" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f497" FileType="Imagebank" Enum="Effect_f497" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f498" FileType="Imagebank" Enum="Effect_f498" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f499" FileType="Imagebank" Enum="Effect_f499" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f500" FileType="Imagebank" Enum="Effect_f500" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f501" FileType="Imagebank" Enum="Effect_f501" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f502" FileType="Imagebank" Enum="Effect_f502" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f503" FileType="Imagebank" Enum="Effect_f503" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f504" FileType="Imagebank" Enum="Effect_f504" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f505" FileType="Imagebank" Enum="Effect_f505" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f506" FileType="Imagebank" Enum="Effect_f506" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f507" FileType="Imagebank" Enum="Effect_f507" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f508" FileType="Imagebank" Enum="Effect_f508" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f509" FileType="Imagebank" Enum="Effect_f509" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f510" FileType="Imagebank" Enum="Effect_f510" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f511" FileType="Imagebank" Enum="Effect_f511" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f512" FileType="Imagebank" Enum="Effect_f512" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f513" FileType="Imagebank" Enum="Effect_f513" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f514" FileType="Imagebank" Enum="Effect_f514" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f515" FileType="Imagebank" Enum="Effect_f515" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f516" FileType="Imagebank" Enum="Effect_f516" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f517" FileType="Imagebank" Enum="Effect_f517" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f518" FileType="Imagebank" Enum="Effect_f518" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f519" FileType="Imagebank" Enum="Effect_f519" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f520" FileType="Imagebank" Enum="Effect_f520" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f521" FileType="Imagebank" Enum="Effect_f521" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f522" FileType="Imagebank" Enum="Effect_f522" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f523" FileType="Imagebank" Enum="Effect_f523" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f524" FileType="Imagebank" Enum="Effect_f524" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f525" FileType="Imagebank" Enum="Effect_f525" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f526" FileType="Imagebank" Enum="Effect_f526" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f527" FileType="Imagebank" Enum="Effect_f527" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f528" FileType="Imagebank" Enum="Effect_f528" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f529" FileType="Imagebank" Enum="Effect_f529" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f530" FileType="Imagebank" Enum="Effect_f530" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f531" FileType="Imagebank" Enum="Effect_f531" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f532" FileType="Imagebank" Enum="Effect_f532" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f533" FileType="Imagebank" Enum="Effect_f533" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f534" FileType="Imagebank" Enum="Effect_f534" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f535" FileType="Imagebank" Enum="Effect_f535" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f536" FileType="Imagebank" Enum="Effect_f536" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f537" FileType="Imagebank" Enum="Effect_f537" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f538" FileType="Imagebank" Enum="Effect_f538" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f539" FileType="Imagebank" Enum="Effect_f539" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f540" FileType="Imagebank" Enum="Effect_f540" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f541" FileType="Imagebank" Enum="Effect_f541" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f542" FileType="Imagebank" Enum="Effect_f542" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f543" FileType="Imagebank" Enum="Effect_f543" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f544" FileType="Imagebank" Enum="Effect_f544" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f545" FileType="Imagebank" Enum="Effect_f545" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f546" FileType="Imagebank" Enum="Effect_f546" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f547" FileType="Imagebank" Enum="Effect_f547" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f548" FileType="Imagebank" Enum="Effect_f548" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f549" FileType="Imagebank" Enum="Effect_f549" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f550" FileType="Imagebank" Enum="Effect_f550" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f551" FileType="Imagebank" Enum="Effect_f551" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f552" FileType="Imagebank" Enum="Effect_f552" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f553" FileType="Imagebank" Enum="Effect_f553" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f554" FileType="Imagebank" Enum="Effect_f554" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f555" FileType="Imagebank" Enum="Effect_f555" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f556" FileType="Imagebank" Enum="Effect_f556" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f557" FileType="Imagebank" Enum="Effect_f557" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f558" FileType="Imagebank" Enum="Effect_f558" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f559" FileType="Imagebank" Enum="Effect_f559" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f560" FileType="Imagebank" Enum="Effect_f560" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f561" FileType="Imagebank" Enum="Effect_f561" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f562" FileType="Imagebank" Enum="Effect_f562" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f563" FileType="Imagebank" Enum="Effect_f563" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f564" FileType="Imagebank" Enum="Effect_f564" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f565" FileType="Imagebank" Enum="Effect_f565" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f566" FileType="Imagebank" Enum="Effect_f566" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f567" FileType="Imagebank" Enum="Effect_f567" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f568" FileType="Imagebank" Enum="Effect_f568" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f569" FileType="Imagebank" Enum="Effect_f569" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f570" FileType="Imagebank" Enum="Effect_f570" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f571" FileType="Imagebank" Enum="Effect_f571" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f572" FileType="Imagebank" Enum="Effect_f572" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f573" FileType="Imagebank" Enum="Effect_f573" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f574" FileType="Imagebank" Enum="Effect_f574" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f575" FileType="Imagebank" Enum="Effect_f575" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f576" FileType="Imagebank" Enum="Effect_f576" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f577" FileType="Imagebank" Enum="Effect_f577" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f578" FileType="Imagebank" Enum="Effect_f578" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f579" FileType="Imagebank" Enum="Effect_f579" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f580" FileType="Imagebank" Enum="Effect_f580" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f581" FileType="Imagebank" Enum="Effect_f581" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f582" FileType="Imagebank" Enum="Effect_f582" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f583" FileType="Imagebank" Enum="Effect_f583" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f584" FileType="Imagebank" Enum="Effect_f584" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f585" FileType="Imagebank" Enum="Effect_f585" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f586" FileType="Imagebank" Enum="Effect_f586" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f587" FileType="Imagebank" Enum="Effect_f587" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f588" FileType="Imagebank" Enum="Effect_f588" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f589" FileType="Imagebank" Enum="Effect_f589" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f590" FileType="Imagebank" Enum="Effect_f590" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f591" FileType="Imagebank" Enum="Effect_f591" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f592" FileType="Imagebank" Enum="Effect_f592" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f593" FileType="Imagebank" Enum="Effect_f593" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f594" FileType="Imagebank" Enum="Effect_f594" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f595" FileType="Imagebank" Enum="Effect_f595" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f596" FileType="Imagebank" Enum="Effect_f596" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f597" FileType="Imagebank" Enum="Effect_f597" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f598" FileType="Imagebank" Enum="Effect_f598" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f599" FileType="Imagebank" Enum="Effect_f599" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f600" FileType="Imagebank" Enum="Effect_f600" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f601" FileType="Imagebank" Enum="Effect_f601" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f602" FileType="Imagebank" Enum="Effect_f602" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f603" FileType="Imagebank" Enum="Effect_f603" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f604" FileType="Imagebank" Enum="Effect_f604" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f605" FileType="Imagebank" Enum="Effect_f605" LZComp="True"/>
-	<ArcFile FileName="EFFECT_f606" FileType="Imagebank" Enum="Effect_f606" LZComp="True"/>
+<ArcSpec Name="EFFECT" IndexingType="File" XAStream="False" ForceSectorAlignment="False">
+	<ArcFile FileName="EFFECT_f000" FileType="Imagebank" Enum="Effect_f000" LZComp="Best" BufferOverflow="./match/BufferGarbage068.bin"/>
+	<ArcFile FileName="EFFECT_f001" FileType="Imagebank" Enum="Effect_f001" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f002" FileType="Imagebank" Enum="Effect_f002" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f003" FileType="Imagebank" Enum="Effect_f003" LZComp="Best" BufferOverflow="Z280"/>
+	<ArcFile FileName="EFFECT_f004" FileType="Imagebank" Enum="Effect_f004" LZComp="Best" BufferOverflow="./match/BufferGarbage064.bin"/>
+	<ArcFile FileName="EFFECT_f005" FileType="Imagebank" Enum="Effect_f005" LZComp="Best" BufferOverflow="Z724"/>
+	<ArcFile FileName="EFFECT_f006" FileType="Imagebank" Enum="Effect_f006" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f007" FileType="Imagebank" Enum="Effect_f007" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f008" FileType="Imagebank" Enum="Effect_f008" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f009" FileType="Imagebank" Enum="Effect_f009" LZComp="Best" BufferOverflow="Z416"/>
+	<ArcFile FileName="EFFECT_f010" FileType="Imagebank" Enum="Effect_f010" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f011" FileType="Imagebank" Enum="Effect_f011" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f012" FileType="Imagebank" Enum="Effect_f012" LZComp="Best" BufferOverflow="Z88;Nffffff7fffff3e;Z1;N3e;Z1;N0e;Z1;N0e;Z7;Nf0f414;Z9"/>
+	<ArcFile FileName="EFFECT_f013" FileType="Imagebank" Enum="Effect_f013" LZComp="Best" BufferOverflow="./match/BufferGarbage060.bin"/>
+	<ArcFile FileName="EFFECT_f014" FileType="Imagebank" Enum="Effect_f014" LZComp="Best" BufferOverflow="Z280"/>
+	<ArcFile FileName="EFFECT_f015" FileType="Imagebank" Enum="Effect_f015" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f016" FileType="Imagebank" Enum="Effect_f016" LZComp="Best" BufferOverflow="Z536"/>
+	<ArcFile FileName="EFFECT_f017" FileType="Imagebank" Enum="Effect_f017" LZComp="Best" BufferOverflow="Z312"/>
+	<ArcFile FileName="EFFECT_f018" FileType="Imagebank" Enum="Effect_f018" LZComp="Best" BufferOverflow="./match/BufferGarbage066.bin"/>
+	<ArcFile FileName="EFFECT_f019" FileType="Imagebank" Enum="Effect_f019" LZComp="Best" BufferOverflow="Z208"/>
+	<ArcFile FileName="EFFECT_f020" FileType="Imagebank" Enum="Effect_f020" LZComp="Best" BufferOverflow="./match/BufferGarbage052.bin"/>
+	<ArcFile FileName="EFFECT_f021" FileType="Imagebank" Enum="Effect_f021" LZComp="Best" BufferOverflow="./match/BufferGarbage071.bin"/>
+	<ArcFile FileName="EFFECT_f022" FileType="Imagebank" Enum="Effect_f022" LZComp="Best" BufferOverflow="Z224"/>
+	<ArcFile FileName="EFFECT_f023" FileType="Imagebank" Enum="Effect_f023" LZComp="Best" BufferOverflow="Z528"/>
+	<ArcFile FileName="EFFECT_f024" FileType="Imagebank" Enum="Effect_f024" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f025" FileType="Imagebank" Enum="Effect_f025" LZComp="Best" BufferOverflow="Z184"/>
+	<ArcFile FileName="EFFECT_f026" FileType="Imagebank" Enum="Effect_f026" LZComp="Best" BufferOverflow="Z224"/>
+	<ArcFile FileName="EFFECT_f027" FileType="Imagebank" Enum="Effect_f027" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f028" FileType="Imagebank" Enum="Effect_f028" LZComp="Best" BufferOverflow="Z408"/>
+	<ArcFile FileName="EFFECT_f029" FileType="Imagebank" Enum="Effect_f029" LZComp="Best" BufferOverflow="./match/BufferGarbage079.bin"/>
+	<ArcFile FileName="EFFECT_f030" FileType="Imagebank" Enum="Effect_f030" LZComp="Best" BufferOverflow="./match/BufferGarbage055.bin"/>
+	<ArcFile FileName="EFFECT_f031" FileType="Imagebank" Enum="Effect_f031" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f032" FileType="Imagebank" Enum="Effect_f032" LZComp="Best" BufferOverflow="Z72"/>
+	<ArcFile FileName="EFFECT_f033" FileType="Imagebank" Enum="Effect_f033" LZComp="Best" BufferOverflow="Z400"/>
+	<ArcFile FileName="EFFECT_f034" FileType="Imagebank" Enum="Effect_f034" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f035" FileType="Imagebank" Enum="Effect_f035" LZComp="Best" BufferOverflow="Z132;N050b09010704;Z1;N090b0b0b0b0904;Z30"/>
+	<ArcFile FileName="EFFECT_f036" FileType="Imagebank" Enum="Effect_f036" LZComp="Best" BufferOverflow="Z636"/>
+	<ArcFile FileName="EFFECT_f037" FileType="Imagebank" Enum="Effect_f037" LZComp="Best" BufferOverflow="./match/BufferGarbage054.bin"/>
+	<ArcFile FileName="EFFECT_f038" FileType="Imagebank" Enum="Effect_f038" LZComp="Best" BufferOverflow="Z304"/>
+	<ArcFile FileName="EFFECT_f039" FileType="Imagebank" Enum="Effect_f039" LZComp="Best" BufferOverflow="./match/BufferGarbage073.bin"/>
+	<ArcFile FileName="EFFECT_f040" FileType="Imagebank" Enum="Effect_f040" LZComp="Best" BufferOverflow="./match/BufferGarbage077.bin"/>
+	<ArcFile FileName="EFFECT_f041" FileType="Imagebank" Enum="Effect_f041" LZComp="Best" BufferOverflow="Z376"/>
+	<ArcFile FileName="EFFECT_f042" FileType="Imagebank" Enum="Effect_f042" LZComp="Best" BufferOverflow="Z552"/>
+	<ArcFile FileName="EFFECT_f043" FileType="Imagebank" Enum="Effect_f043" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f044" FileType="Imagebank" Enum="Effect_f044" LZComp="Best" BufferOverflow="Z240"/>
+	<ArcFile FileName="EFFECT_f045" FileType="Imagebank" Enum="Effect_f045" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f046" FileType="Imagebank" Enum="Effect_f046" LZComp="Best" BufferOverflow="Z240"/>
+	<ArcFile FileName="EFFECT_f047" FileType="Imagebank" Enum="Effect_f047" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f048" FileType="Imagebank" Enum="Effect_f048" LZComp="Best" BufferOverflow="Z240"/>
+	<ArcFile FileName="EFFECT_f049" FileType="Imagebank" Enum="Effect_f049" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f050" FileType="Imagebank" Enum="Effect_f050" LZComp="Best" BufferOverflow="Z240"/>
+	<ArcFile FileName="EFFECT_f051" FileType="Imagebank" Enum="Effect_f051" LZComp="Best" BufferOverflow="./match/BufferGarbage069.bin"/>
+	<ArcFile FileName="EFFECT_f052" FileType="Imagebank" Enum="Effect_f052" LZComp="Best" BufferOverflow="Z396"/>
+	<ArcFile FileName="EFFECT_f053" FileType="Imagebank" Enum="Effect_f053" LZComp="Best" BufferOverflow="Z484"/>
+	<ArcFile FileName="EFFECT_f054" FileType="Imagebank" Enum="Effect_f054" LZComp="Best" BufferOverflow="Z560"/>
+	<ArcFile FileName="EFFECT_f055" FileType="Imagebank" Enum="Effect_f055" LZComp="Best" BufferOverflow="./match/BufferGarbage072.bin"/>
+	<ArcFile FileName="EFFECT_f056" FileType="Imagebank" Enum="Effect_f056" LZComp="Best" BufferOverflow="Z208"/>
+	<ArcFile FileName="EFFECT_f057" FileType="Imagebank" Enum="Effect_f057" LZComp="Best" BufferOverflow="Z120"/>
+	<ArcFile FileName="EFFECT_f058" FileType="Imagebank" Enum="Effect_f058" LZComp="Best" BufferOverflow="Z416"/>
+	<ArcFile FileName="EFFECT_f059" FileType="Imagebank" Enum="Effect_f059" LZComp="Best" BufferOverflow="./match/BufferGarbage051.bin"/>
+	<ArcFile FileName="EFFECT_f060" FileType="Imagebank" Enum="Effect_f060" LZComp="Best" BufferOverflow="Z160"/>
+	<ArcFile FileName="EFFECT_f061" FileType="Imagebank" Enum="Effect_f061" LZComp="Best" BufferOverflow="Z184"/>
+	<ArcFile FileName="EFFECT_f062" FileType="Imagebank" Enum="Effect_f062" LZComp="Best" BufferOverflow="Z296"/>
+	<ArcFile FileName="EFFECT_f063" FileType="Imagebank" Enum="Effect_f063" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f064" FileType="Imagebank" Enum="Effect_f064" LZComp="Best" BufferOverflow="Z216"/>
+	<ArcFile FileName="EFFECT_f065" FileType="Imagebank" Enum="Effect_f065" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f066" FileType="Imagebank" Enum="Effect_f066" LZComp="Best" BufferOverflow="./match/BufferGarbage074.bin"/>
+	<ArcFile FileName="EFFECT_f067" FileType="Imagebank" Enum="Effect_f067" LZComp="Best" BufferOverflow="./match/BufferGarbage060.bin"/>
+	<ArcFile FileName="EFFECT_f068" FileType="Imagebank" Enum="Effect_f068" LZComp="Best" BufferOverflow="Z280"/>
+	<ArcFile FileName="EFFECT_f069" FileType="Imagebank" Enum="Effect_f069" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f070" FileType="Imagebank" Enum="Effect_f070" LZComp="Best" BufferOverflow="./match/BufferGarbage056.bin"/>
+	<ArcFile FileName="EFFECT_f071" FileType="Imagebank" Enum="Effect_f071" LZComp="Best" BufferOverflow="Z312"/>
+	<ArcFile FileName="EFFECT_f072" FileType="Imagebank" Enum="Effect_f072" LZComp="Best" BufferOverflow="./match/BufferGarbage066.bin"/>
+	<ArcFile FileName="EFFECT_f073" FileType="Imagebank" Enum="Effect_f073" LZComp="Best" BufferOverflow="Z208"/>
+	<ArcFile FileName="EFFECT_f074" FileType="Imagebank" Enum="Effect_f074" LZComp="Best" BufferOverflow="./match/BufferGarbage052.bin"/>
+	<ArcFile FileName="EFFECT_f075" FileType="Imagebank" Enum="Effect_f075" LZComp="Best" BufferOverflow="./match/BufferGarbage071.bin"/>
+	<ArcFile FileName="EFFECT_f076" FileType="Imagebank" Enum="Effect_f076" LZComp="Best" BufferOverflow="Z224"/>
+	<ArcFile FileName="EFFECT_f077" FileType="Imagebank" Enum="Effect_f077" LZComp="Best" BufferOverflow="Z528"/>
+	<ArcFile FileName="EFFECT_f078" FileType="Imagebank" Enum="Effect_f078" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f079" FileType="Imagebank" Enum="Effect_f079" LZComp="Best" BufferOverflow="Z184"/>
+	<ArcFile FileName="EFFECT_f080" FileType="Imagebank" Enum="Effect_f080" LZComp="Best" BufferOverflow="Z224"/>
+	<ArcFile FileName="EFFECT_f081" FileType="Imagebank" Enum="Effect_f081" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f082" FileType="Imagebank" Enum="Effect_f082" LZComp="Best" BufferOverflow="Z408"/>
+	<ArcFile FileName="EFFECT_f083" FileType="Imagebank" Enum="Effect_f083" LZComp="Best" BufferOverflow="./match/BufferGarbage079.bin"/>
+	<ArcFile FileName="EFFECT_f084" FileType="Imagebank" Enum="Effect_f084" LZComp="Best" BufferOverflow="./match/BufferGarbage055.bin"/>
+	<ArcFile FileName="EFFECT_f085" FileType="Imagebank" Enum="Effect_f085" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f086" FileType="Imagebank" Enum="Effect_f086" LZComp="Best" BufferOverflow="Z72"/>
+	<ArcFile FileName="EFFECT_f087" FileType="Imagebank" Enum="Effect_f087" LZComp="Best" BufferOverflow="Z400"/>
+	<ArcFile FileName="EFFECT_f088" FileType="Imagebank" Enum="Effect_f088" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f089" FileType="Imagebank" Enum="Effect_f089" LZComp="Best" BufferOverflow="Z132;N050b09010704;Z1;N090b0b0b0b0904;Z30"/>
+	<ArcFile FileName="EFFECT_f090" FileType="Imagebank" Enum="Effect_f090" LZComp="Best" BufferOverflow="Z636"/>
+	<ArcFile FileName="EFFECT_f091" FileType="Imagebank" Enum="Effect_f091" LZComp="Best" BufferOverflow="./match/BufferGarbage054.bin"/>
+	<ArcFile FileName="EFFECT_f092" FileType="Imagebank" Enum="Effect_f092" LZComp="Best" BufferOverflow="Z304"/>
+	<ArcFile FileName="EFFECT_f093" FileType="Imagebank" Enum="Effect_f093" LZComp="Best" BufferOverflow="./match/BufferGarbage073.bin"/>
+	<ArcFile FileName="EFFECT_f094" FileType="Imagebank" Enum="Effect_f094" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f095" FileType="Imagebank" Enum="Effect_f095" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f096" FileType="Imagebank" Enum="Effect_f096" LZComp="Best" BufferOverflow="Z484"/>
+	<ArcFile FileName="EFFECT_f097" FileType="Imagebank" Enum="Effect_f097" LZComp="Best" BufferOverflow="Z560"/>
+	<ArcFile FileName="EFFECT_f098" FileType="Imagebank" Enum="Effect_f098" LZComp="Best" BufferOverflow="./match/BufferGarbage072.bin"/>
+	<ArcFile FileName="EFFECT_f099" FileType="Imagebank" Enum="Effect_f099" LZComp="Best" BufferOverflow="Z208"/>
+	<ArcFile FileName="EFFECT_f100" FileType="Imagebank" Enum="Effect_f100" LZComp="Best" BufferOverflow="Z120"/>
+	<ArcFile FileName="EFFECT_f101" FileType="Imagebank" Enum="Effect_f101" LZComp="Best" BufferOverflow="Z416"/>
+	<ArcFile FileName="EFFECT_f102" FileType="Imagebank" Enum="Effect_f102" LZComp="Best" BufferOverflow="./match/BufferGarbage051.bin"/>
+	<ArcFile FileName="EFFECT_f103" FileType="Imagebank" Enum="Effect_f103" LZComp="Best" BufferOverflow="Z160"/>
+	<ArcFile FileName="EFFECT_f104" FileType="Imagebank" Enum="Effect_f104" LZComp="Best" BufferOverflow="Z184"/>
+	<ArcFile FileName="EFFECT_f105" FileType="Imagebank" Enum="Effect_f105" LZComp="Best" BufferOverflow="Z296"/>
+	<ArcFile FileName="EFFECT_f106" FileType="Imagebank" Enum="Effect_f106" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f107" FileType="Imagebank" Enum="Effect_f107" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f108" FileType="Imagebank" Enum="Effect_f108" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f109" FileType="Imagebank" Enum="Effect_f109" LZComp="Best" BufferOverflow="Z208"/>
+	<ArcFile FileName="EFFECT_f110" FileType="Imagebank" Enum="Effect_f110" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f111" FileType="Imagebank" Enum="Effect_f111" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f112" FileType="Imagebank" Enum="Effect_f112" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f113" FileType="Imagebank" Enum="Effect_f113" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f114" FileType="Imagebank" Enum="Effect_f114" LZComp="Best" BufferOverflow="./match/BufferGarbage050.bin"/>
+	<ArcFile FileName="EFFECT_f115" FileType="Imagebank" Enum="Effect_f115" LZComp="Best" BufferOverflow="Z256"/>
+	<ArcFile FileName="EFFECT_f116" FileType="Imagebank" Enum="Effect_f116" LZComp="Best" BufferOverflow="./match/BufferGarbage067.bin"/>
+	<ArcFile FileName="EFFECT_f117" FileType="Imagebank" Enum="Effect_f117" LZComp="Best" BufferOverflow="./match/BufferGarbage058.bin"/>
+	<ArcFile FileName="EFFECT_f118" FileType="Imagebank" Enum="Effect_f118" LZComp="Best" BufferOverflow="Z440"/>
+	<ArcFile FileName="EFFECT_f119" FileType="Imagebank" Enum="Effect_f119" LZComp="Best" BufferOverflow="Z352"/>
+	<ArcFile FileName="EFFECT_f120" FileType="Imagebank" Enum="Effect_f120" LZComp="Best" BufferOverflow="./match/BufferGarbage078.bin"/>
+	<ArcFile FileName="EFFECT_f121" FileType="Imagebank" Enum="Effect_f121" LZComp="Best" BufferOverflow="./match/BufferGarbage049.bin"/>
+	<ArcFile FileName="EFFECT_f122" FileType="Imagebank" Enum="Effect_f122" LZComp="Best" BufferOverflow="Z236;Nac;Z1;Na4;Z1;N95016b02;Z1;N10;Z2;Nc08914;Z1;N48f214;Z9"/>
+	<ArcFile FileName="EFFECT_f123" FileType="Imagebank" Enum="Effect_f123" LZComp="Best" BufferOverflow="Z756"/>
+	<ArcFile FileName="EFFECT_f124" FileType="Imagebank" Enum="Effect_f124" LZComp="Best" BufferOverflow="./match/BufferGarbage070.bin"/>
+	<ArcFile FileName="EFFECT_f125" FileType="Imagebank" Enum="Effect_f125" LZComp="Best" BufferOverflow="Z392"/>
+	<ArcFile FileName="EFFECT_f126" FileType="Imagebank" Enum="Effect_f126" LZComp="Best" BufferOverflow="./match/BufferGarbage059.bin"/>
+	<ArcFile FileName="EFFECT_f127" FileType="Imagebank" Enum="Effect_f127" LZComp="Best" BufferOverflow="Z144"/>
+	<ArcFile FileName="EFFECT_f128" FileType="Imagebank" Enum="Effect_f128" LZComp="Best" BufferOverflow="./match/BufferGarbage063.bin"/>
+	<ArcFile FileName="EFFECT_f129" FileType="Imagebank" Enum="Effect_f129" LZComp="Best" BufferOverflow="Z416"/>
+	<ArcFile FileName="EFFECT_f130" FileType="Imagebank" Enum="Effect_f130" LZComp="Best" BufferOverflow="./match/BufferGarbage061.bin"/>
+	<ArcFile FileName="EFFECT_f131" FileType="Imagebank" Enum="Effect_f131" LZComp="Best" BufferOverflow="./match/BufferGarbage065.bin"/>
+	<ArcFile FileName="EFFECT_f132" FileType="Imagebank" Enum="Effect_f132" LZComp="Best" BufferOverflow="Z144"/>
+	<ArcFile FileName="EFFECT_f133" FileType="Imagebank" Enum="Effect_f133" LZComp="Best" BufferOverflow="./match/BufferGarbage057.bin"/>
+	<ArcFile FileName="EFFECT_f134" FileType="Imagebank" Enum="Effect_f134" LZComp="Best" BufferOverflow="Z680"/>
+	<ArcFile FileName="EFFECT_f135" FileType="Imagebank" Enum="Effect_f135" LZComp="Best" BufferOverflow="./match/BufferGarbage061.bin"/>
+	<ArcFile FileName="EFFECT_f136" FileType="Imagebank" Enum="Effect_f136" LZComp="Best" BufferOverflow="Z144"/>
+	<ArcFile FileName="EFFECT_f137" FileType="Imagebank" Enum="Effect_f137" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f138" FileType="Imagebank" Enum="Effect_f138" LZComp="Best" BufferOverflow="./match/BufferGarbage075.bin"/>
+	<ArcFile FileName="EFFECT_f139" FileType="Imagebank" Enum="Effect_f139" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f140" FileType="Imagebank" Enum="Effect_f140" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f141" FileType="Imagebank" Enum="Effect_f141" LZComp="Best" BufferOverflow="./match/BufferGarbage062.bin"/>
+	<ArcFile FileName="EFFECT_f142" FileType="Imagebank" Enum="Effect_f142" LZComp="Best" BufferOverflow="./match/BufferGarbage053.bin"/>
+	<ArcFile FileName="EFFECT_f143" FileType="Imagebank" Enum="Effect_f143" LZComp="Best" BufferOverflow="Z400"/>
+	<ArcFile FileName="EFFECT_f144" FileType="Imagebank" Enum="Effect_f144" LZComp="Best" BufferOverflow="./match/BufferGarbage076.bin"/>
+	<ArcFile FileName="EFFECT_f145" FileType="Imagebank" Enum="Effect_f145" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f146" FileType="Imagebank" Enum="Effect_f146" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f147" FileType="Imagebank" Enum="Effect_f147" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f148" FileType="Imagebank" Enum="Effect_f148" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f149" FileType="Imagebank" Enum="Effect_f149" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f150" FileType="Imagebank" Enum="Effect_f150" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f151" FileType="Imagebank" Enum="Effect_f151" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f152" FileType="Imagebank" Enum="Effect_f152" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f153" FileType="Imagebank" Enum="Effect_f153" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f154" FileType="Imagebank" Enum="Effect_f154" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f155" FileType="Imagebank" Enum="Effect_f155" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f156" FileType="Imagebank" Enum="Effect_f156" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f157" FileType="Imagebank" Enum="Effect_f157" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f158" FileType="Imagebank" Enum="Effect_f158" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f159" FileType="Imagebank" Enum="Effect_f159" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f160" FileType="Imagebank" Enum="Effect_f160" LZComp="Best" BufferOverflow="Z112"/>
+	<ArcFile FileName="EFFECT_f161" FileType="Imagebank" Enum="Effect_f161" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f162" FileType="Imagebank" Enum="Effect_f162" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f163" FileType="Imagebank" Enum="Effect_f163" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f164" FileType="Imagebank" Enum="Effect_f164" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f165" FileType="Imagebank" Enum="Effect_f165" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f166" FileType="Imagebank" Enum="Effect_f166" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f167" FileType="Imagebank" Enum="Effect_f167" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f168" FileType="Imagebank" Enum="Effect_f168" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f169" FileType="Imagebank" Enum="Effect_f169" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f170" FileType="Imagebank" Enum="Effect_f170" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f171" FileType="Imagebank" Enum="Effect_f171" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f172" FileType="Imagebank" Enum="Effect_f172" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f173" FileType="Imagebank" Enum="Effect_f173" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f174" FileType="Imagebank" Enum="Effect_f174" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f175" FileType="Imagebank" Enum="Effect_f175" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f176" FileType="Imagebank" Enum="Effect_f176" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f177" FileType="Imagebank" Enum="Effect_f177" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f178" FileType="Imagebank" Enum="Effect_f178" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f179" FileType="Imagebank" Enum="Effect_f179" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f180" FileType="Imagebank" Enum="Effect_f180" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f181" FileType="Imagebank" Enum="Effect_f181" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f182" FileType="Imagebank" Enum="Effect_f182" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f183" FileType="Imagebank" Enum="Effect_f183" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f184" FileType="Imagebank" Enum="Effect_f184" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f185" FileType="Imagebank" Enum="Effect_f185" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f186" FileType="Imagebank" Enum="Effect_f186" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f187" FileType="Imagebank" Enum="Effect_f187" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f188" FileType="Imagebank" Enum="Effect_f188" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f189" FileType="Imagebank" Enum="Effect_f189" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f190" FileType="Imagebank" Enum="Effect_f190" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f191" FileType="Imagebank" Enum="Effect_f191" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f192" FileType="Imagebank" Enum="Effect_f192" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f193" FileType="Imagebank" Enum="Effect_f193" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f194" FileType="Imagebank" Enum="Effect_f194" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f195" FileType="Imagebank" Enum="Effect_f195" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f196" FileType="Imagebank" Enum="Effect_f196" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f197" FileType="Imagebank" Enum="Effect_f197" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f198" FileType="Imagebank" Enum="Effect_f198" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f199" FileType="Imagebank" Enum="Effect_f199" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f200" FileType="Imagebank" Enum="Effect_f200" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f201" FileType="Imagebank" Enum="Effect_f201" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f202" FileType="Imagebank" Enum="Effect_f202" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f203" FileType="Imagebank" Enum="Effect_f203" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f204" FileType="Imagebank" Enum="Effect_f204" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f205" FileType="Imagebank" Enum="Effect_f205" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f206" FileType="Imagebank" Enum="Effect_f206" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f207" FileType="Imagebank" Enum="Effect_f207" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f208" FileType="Imagebank" Enum="Effect_f208" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f209" FileType="Imagebank" Enum="Effect_f209" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f210" FileType="Imagebank" Enum="Effect_f210" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f211" FileType="Imagebank" Enum="Effect_f211" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f212" FileType="Imagebank" Enum="Effect_f212" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f213" FileType="Imagebank" Enum="Effect_f213" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f214" FileType="Imagebank" Enum="Effect_f214" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f215" FileType="Imagebank" Enum="Effect_f215" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f216" FileType="Imagebank" Enum="Effect_f216" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f217" FileType="Imagebank" Enum="Effect_f217" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f218" FileType="Imagebank" Enum="Effect_f218" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f219" FileType="Imagebank" Enum="Effect_f219" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f220" FileType="Imagebank" Enum="Effect_f220" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f221" FileType="Imagebank" Enum="Effect_f221" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f222" FileType="Imagebank" Enum="Effect_f222" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f223" FileType="Imagebank" Enum="Effect_f223" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f224" FileType="Imagebank" Enum="Effect_f224" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f225" FileType="Imagebank" Enum="Effect_f225" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f226" FileType="Imagebank" Enum="Effect_f226" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f227" FileType="Imagebank" Enum="Effect_f227" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f228" FileType="Imagebank" Enum="Effect_f228" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f229" FileType="Imagebank" Enum="Effect_f229" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f230" FileType="Imagebank" Enum="Effect_f230" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f231" FileType="Imagebank" Enum="Effect_f231" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f232" FileType="Imagebank" Enum="Effect_f232" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f233" FileType="Imagebank" Enum="Effect_f233" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f234" FileType="Imagebank" Enum="Effect_f234" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f235" FileType="Imagebank" Enum="Effect_f235" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f236" FileType="Imagebank" Enum="Effect_f236" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f237" FileType="Imagebank" Enum="Effect_f237" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f238" FileType="Imagebank" Enum="Effect_f238" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f239" FileType="Imagebank" Enum="Effect_f239" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f240" FileType="Imagebank" Enum="Effect_f240" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f241" FileType="Imagebank" Enum="Effect_f241" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f242" FileType="Imagebank" Enum="Effect_f242" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f243" FileType="Imagebank" Enum="Effect_f243" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f244" FileType="Imagebank" Enum="Effect_f244" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f245" FileType="Imagebank" Enum="Effect_f245" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f246" FileType="Imagebank" Enum="Effect_f246" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f247" FileType="Imagebank" Enum="Effect_f247" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f248" FileType="Imagebank" Enum="Effect_f248" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f249" FileType="Imagebank" Enum="Effect_f249" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f250" FileType="Imagebank" Enum="Effect_f250" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f251" FileType="Imagebank" Enum="Effect_f251" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f252" FileType="Imagebank" Enum="Effect_f252" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f253" FileType="Imagebank" Enum="Effect_f253" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f254" FileType="Imagebank" Enum="Effect_f254" LZComp="Best" BufferOverflow="./match/BufferGarbage043.bin"/>
+	<ArcFile FileName="EFFECT_f255" FileType="Imagebank" Enum="Effect_f255" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f256" FileType="Imagebank" Enum="Effect_f256" LZComp="Best" TileSize="32,32"/>
+	<ArcFile FileName="EFFECT_f257" FileType="Imagebank" Enum="Effect_f257" LZComp="Best" TileSize="32,32"/>
+	<ArcFile FileName="EFFECT_f258" FileType="Imagebank" Enum="Effect_f258" LZComp="Best" TileSize="32,32"/>
+	<ArcFile FileName="EFFECT_f259" FileType="Imagebank" Enum="Effect_f259" LZComp="Best" TileSize="32,32"/>
+	<ArcFile FileName="EFFECT_f260" FileType="Imagebank" Enum="Effect_f260" LZComp="Best" TileSize="32,32"/>
+	<ArcFile FileName="EFFECT_f261" FileType="Imagebank" Enum="Effect_f261" LZComp="Best" TileSize="32,32"/>
+	<ArcFile FileName="EFFECT_f262" FileType="Imagebank" Enum="Effect_f262" LZComp="Best" TileSize="32,32"/>
+	<ArcFile FileName="EFFECT_f263" FileType="Imagebank" Enum="Effect_f263" LZComp="Best" TileSize="32,32"/>
+	<ArcFile FileName="EFFECT_f264" FileType="Imagebank" Enum="Effect_f264" LZComp="Best" TileSize="32,32"/>
+	<ArcFile FileName="EFFECT_f265" FileType="Imagebank" Enum="Effect_f265" LZComp="Best" TileSize="32,32"/>
+	<ArcFile FileName="EFFECT_f266" FileType="Imagebank" Enum="Effect_f266" LZComp="Best" TileSize="32,32"/>
+	<ArcFile FileName="EFFECT_f267" FileType="Imagebank" Enum="Effect_f267" LZComp="Best" TileSize="32,32"/>
+	<ArcFile FileName="EFFECT_f268" FileType="Imagebank" Enum="Effect_f268" LZComp="Best" TileSize="32,32"/>
+	<ArcFile FileName="EFFECT_f269" FileType="Imagebank" Enum="Effect_f269" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f270" FileType="Imagebank" Enum="Effect_f270" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f271" FileType="Imagebank" Enum="Effect_f271" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f272" FileType="Imagebank" Enum="Effect_f272" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f273" FileType="Imagebank" Enum="Effect_f273" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f274" FileType="Imagebank" Enum="Effect_f274" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f275" FileType="Imagebank" Enum="Effect_f275" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f276" FileType="Imagebank" Enum="Effect_f276" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f277" FileType="Imagebank" Enum="Effect_f277" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f278" FileType="Imagebank" Enum="Effect_f278" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f279" FileType="Imagebank" Enum="Effect_f279" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f280" FileType="Imagebank" Enum="Effect_f280" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f281" FileType="Imagebank" Enum="Effect_f281" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f282" FileType="Imagebank" Enum="Effect_f282" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f283" FileType="Imagebank" Enum="Effect_f283" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f284" FileType="Imagebank" Enum="Effect_f284" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f285" FileType="Imagebank" Enum="Effect_f285" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f286" FileType="Imagebank" Enum="Effect_f286" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f287" FileType="Imagebank" Enum="Effect_f287" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f288" FileType="Imagebank" Enum="Effect_f288" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f289" FileType="Imagebank" Enum="Effect_f289" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f290" FileType="Imagebank" Enum="Effect_f290" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f291" FileType="Imagebank" Enum="Effect_f291" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f292" FileType="Imagebank" Enum="Effect_f292" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f293" FileType="Imagebank" Enum="Effect_f293" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f294" FileType="Imagebank" Enum="Effect_f294" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f295" FileType="Imagebank" Enum="Effect_f295" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f296" FileType="Imagebank" Enum="Effect_f296" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f297" FileType="Imagebank" Enum="Effect_f297" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f298" FileType="Imagebank" Enum="Effect_f298" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f299" FileType="Imagebank" Enum="Effect_f299" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f300" FileType="Imagebank" Enum="Effect_f300" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f301" FileType="Imagebank" Enum="Effect_f301" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f302" FileType="Imagebank" Enum="Effect_f302" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f303" FileType="Imagebank" Enum="Effect_f303" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f304" FileType="Imagebank" Enum="Effect_f304" LZComp="Best" BufferOverflow="./match/BufferGarbage043.bin"/>
+	<ArcFile FileName="EFFECT_f305" FileType="Imagebank" Enum="Effect_f305" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f306" FileType="Imagebank" Enum="Effect_f306" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f307" FileType="Imagebank" Enum="Effect_f307" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f308" FileType="Imagebank" Enum="Effect_f308" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f309" FileType="Imagebank" Enum="Effect_f309" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f310" FileType="Imagebank" Enum="Effect_f310" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f311" FileType="Imagebank" Enum="Effect_f311" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f312" FileType="Imagebank" Enum="Effect_f312" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f313" FileType="Imagebank" Enum="Effect_f313" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f314" FileType="Imagebank" Enum="Effect_f314" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f315" FileType="Imagebank" Enum="Effect_f315" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f316" FileType="Imagebank" Enum="Effect_f316" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f317" FileType="Imagebank" Enum="Effect_f317" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f318" FileType="Imagebank" Enum="Effect_f318" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f319" FileType="Imagebank" Enum="Effect_f319" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f320" FileType="Imagebank" Enum="Effect_f320" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f321" FileType="Imagebank" Enum="Effect_f321" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f322" FileType="Imagebank" Enum="Effect_f322" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f323" FileType="Imagebank" Enum="Effect_f323" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f324" FileType="Imagebank" Enum="Effect_f324" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f325" FileType="Imagebank" Enum="Effect_f325" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f326" FileType="Imagebank" Enum="Effect_f326" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f327" FileType="Imagebank" Enum="Effect_f327" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f328" FileType="Imagebank" Enum="Effect_f328" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f329" FileType="Imagebank" Enum="Effect_f329" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f330" FileType="Imagebank" Enum="Effect_f330" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f331" FileType="Imagebank" Enum="Effect_f331" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f332" FileType="Imagebank" Enum="Effect_f332" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f333" FileType="Imagebank" Enum="Effect_f333" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f334" FileType="Imagebank" Enum="Effect_f334" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f335" FileType="Imagebank" Enum="Effect_f335" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f336" FileType="Imagebank" Enum="Effect_f336" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f337" FileType="Imagebank" Enum="Effect_f337" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f338" FileType="Imagebank" Enum="Effect_f338" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f339" FileType="Imagebank" Enum="Effect_f339" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f340" FileType="Imagebank" Enum="Effect_f340" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f341" FileType="Imagebank" Enum="Effect_f341" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f342" FileType="Imagebank" Enum="Effect_f342" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f343" FileType="Imagebank" Enum="Effect_f343" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f344" FileType="Imagebank" Enum="Effect_f344" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f345" FileType="Imagebank" Enum="Effect_f345" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f346" FileType="Imagebank" Enum="Effect_f346" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f347" FileType="Imagebank" Enum="Effect_f347" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f348" FileType="Imagebank" Enum="Effect_f348" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f349" FileType="Imagebank" Enum="Effect_f349" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f350" FileType="Imagebank" Enum="Effect_f350" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f351" FileType="Imagebank" Enum="Effect_f351" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f352" FileType="Imagebank" Enum="Effect_f352" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f353" FileType="Imagebank" Enum="Effect_f353" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f354" FileType="Imagebank" Enum="Effect_f354" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f355" FileType="Imagebank" Enum="Effect_f355" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f356" FileType="Imagebank" Enum="Effect_f356" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f357" FileType="Imagebank" Enum="Effect_f357" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f358" FileType="Imagebank" Enum="Effect_f358" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f359" FileType="Imagebank" Enum="Effect_f359" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f360" FileType="Imagebank" Enum="Effect_f360" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f361" FileType="Imagebank" Enum="Effect_f361" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f362" FileType="Imagebank" Enum="Effect_f362" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f363" FileType="Imagebank" Enum="Effect_f363" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f364" FileType="Imagebank" Enum="Effect_f364" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f365" FileType="Imagebank" Enum="Effect_f365" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f366" FileType="Imagebank" Enum="Effect_f366" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f367" FileType="Imagebank" Enum="Effect_f367" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f368" FileType="Imagebank" Enum="Effect_f368" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f369" FileType="Imagebank" Enum="Effect_f369" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f370" FileType="Imagebank" Enum="Effect_f370" LZComp="Best" BufferOverflow="./match/BufferGarbage047.bin"/>
+	<ArcFile FileName="EFFECT_f371" FileType="Imagebank" Enum="Effect_f371" LZComp="Best" BufferOverflow="./match/BufferGarbage047.bin"/>
+	<ArcFile FileName="EFFECT_f372" FileType="Imagebank" Enum="Effect_f372" LZComp="Best" BufferOverflow="./match/BufferGarbage044.bin"/>
+	<ArcFile FileName="EFFECT_f373" FileType="Imagebank" Enum="Effect_f373" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f374" FileType="Imagebank" Enum="Effect_f374" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f375" FileType="Imagebank" Enum="Effect_f375" LZComp="Best" BufferOverflow="./match/BufferGarbage044.bin"/>
+	<ArcFile FileName="EFFECT_f376" FileType="Imagebank" Enum="Effect_f376" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f377" FileType="Imagebank" Enum="Effect_f377" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f378" FileType="Imagebank" Enum="Effect_f378" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f379" FileType="Imagebank" Enum="Effect_f379" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f380" FileType="Imagebank" Enum="Effect_f380" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f381" FileType="Imagebank" Enum="Effect_f381" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f382" FileType="Imagebank" Enum="Effect_f382" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f383" FileType="Imagebank" Enum="Effect_f383" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f384" FileType="Imagebank" Enum="Effect_f384" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f385" FileType="Imagebank" Enum="Effect_f385" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f386" FileType="Imagebank" Enum="Effect_f386" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f387" FileType="Imagebank" Enum="Effect_f387" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f388" FileType="Imagebank" Enum="Effect_f388" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f389" FileType="Imagebank" Enum="Effect_f389" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f390" FileType="Imagebank" Enum="Effect_f390" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f391" FileType="Imagebank" Enum="Effect_f391" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f392" FileType="Imagebank" Enum="Effect_f392" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f393" FileType="Imagebank" Enum="Effect_f393" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f394" FileType="Imagebank" Enum="Effect_f394" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f395" FileType="Imagebank" Enum="Effect_f395" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f396" FileType="Imagebank" Enum="Effect_f396" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f397" FileType="Imagebank" Enum="Effect_f397" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f398" FileType="Imagebank" Enum="Effect_f398" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f399" FileType="Imagebank" Enum="Effect_f399" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f400" FileType="Imagebank" Enum="Effect_f400" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f401" FileType="Imagebank" Enum="Effect_f401" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f402" FileType="Imagebank" Enum="Effect_f402" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f403" FileType="Imagebank" Enum="Effect_f403" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f404" FileType="Imagebank" Enum="Effect_f404" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f405" FileType="Imagebank" Enum="Effect_f405" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f406" FileType="Imagebank" Enum="Effect_f406" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f407" FileType="Imagebank" Enum="Effect_f407" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f408" FileType="Imagebank" Enum="Effect_f408" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f409" FileType="Imagebank" Enum="Effect_f409" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f410" FileType="Imagebank" Enum="Effect_f410" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f411" FileType="Imagebank" Enum="Effect_f411" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f412" FileType="Imagebank" Enum="Effect_f412" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f413" FileType="Imagebank" Enum="Effect_f413" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f414" FileType="Imagebank" Enum="Effect_f414" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f415" FileType="Imagebank" Enum="Effect_f415" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f416" FileType="Imagebank" Enum="Effect_f416" LZComp="Best" BufferOverflow="./match/BufferGarbage040.bin"/>
+	<ArcFile FileName="EFFECT_f417" FileType="Imagebank" Enum="Effect_f417" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f418" FileType="Imagebank" Enum="Effect_f418" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f419" FileType="Imagebank" Enum="Effect_f419" LZComp="Best" BufferOverflow="./match/BufferGarbage041.bin"/>
+	<ArcFile FileName="EFFECT_f420" FileType="Imagebank" Enum="Effect_f420" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f421" FileType="Imagebank" Enum="Effect_f421" LZComp="Best" BufferOverflow="./match/BufferGarbage027.bin"/>
+	<ArcFile FileName="EFFECT_f422" FileType="Imagebank" Enum="Effect_f422" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f423" FileType="Imagebank" Enum="Effect_f423" LZComp="Best" BufferOverflow="Z104"/>
+	<ArcFile FileName="EFFECT_f424" FileType="Imagebank" Enum="Effect_f424" LZComp="Best" BufferOverflow="Z208"/>
+	<ArcFile FileName="EFFECT_f425" FileType="Imagebank" Enum="Effect_f425" LZComp="Best" BufferOverflow="./match/BufferGarbage033.bin"/>
+	<ArcFile FileName="EFFECT_f426" FileType="Imagebank" Enum="Effect_f426" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f427" FileType="Imagebank" Enum="Effect_f427" LZComp="Best" BufferOverflow="Z112"/>
+	<ArcFile FileName="EFFECT_f428" FileType="Imagebank" Enum="Effect_f428" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f429" FileType="Imagebank" Enum="Effect_f429" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f430" FileType="Imagebank" Enum="Effect_f430" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f431" FileType="Imagebank" Enum="Effect_f431" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f432" FileType="Imagebank" Enum="Effect_f432" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f433" FileType="Imagebank" Enum="Effect_f433" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f434" FileType="Imagebank" Enum="Effect_f434" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f435" FileType="Imagebank" Enum="Effect_f435" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f436" FileType="Imagebank" Enum="Effect_f436" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f437" FileType="Imagebank" Enum="Effect_f437" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f438" FileType="Imagebank" Enum="Effect_f438" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f439" FileType="Imagebank" Enum="Effect_f439" LZComp="Best" BufferOverflow="Z64"/>
+	<ArcFile FileName="EFFECT_f440" FileType="Imagebank" Enum="Effect_f440" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f441" FileType="Imagebank" Enum="Effect_f441" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f442" FileType="Imagebank" Enum="Effect_f442" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f443" FileType="Imagebank" Enum="Effect_f443" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f444" FileType="Imagebank" Enum="Effect_f444" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f445" FileType="Imagebank" Enum="Effect_f445" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f446" FileType="Imagebank" Enum="Effect_f446" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f447" FileType="Imagebank" Enum="Effect_f447" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f448" FileType="Imagebank" Enum="Effect_f448" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f449" FileType="Imagebank" Enum="Effect_f449" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f450" FileType="Imagebank" Enum="Effect_f450" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f451" FileType="Imagebank" Enum="Effect_f451" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f452" FileType="Imagebank" Enum="Effect_f452" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f453" FileType="Imagebank" Enum="Effect_f453" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f454" FileType="Imagebank" Enum="Effect_f454" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f455" FileType="Imagebank" Enum="Effect_f455" LZComp="Best" BufferOverflow="./match/BufferGarbage048.bin"/>
+	<ArcFile FileName="EFFECT_f456" FileType="Imagebank" Enum="Effect_f456" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f457" FileType="Imagebank" Enum="Effect_f457" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f458" FileType="Imagebank" Enum="Effect_f458" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f459" FileType="Imagebank" Enum="Effect_f459" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f460" FileType="Imagebank" Enum="Effect_f460" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f461" FileType="Imagebank" Enum="Effect_f461" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f462" FileType="Imagebank" Enum="Effect_f462" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f463" FileType="Imagebank" Enum="Effect_f463" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f464" FileType="Imagebank" Enum="Effect_f464" LZComp="Best" BufferOverflow="Z768"/>
+	<ArcFile FileName="EFFECT_f465" FileType="Imagebank" Enum="Effect_f465" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f466" FileType="Imagebank" Enum="Effect_f466" LZComp="Best" BufferOverflow="./match/BufferGarbage037.bin"/>
+	<ArcFile FileName="EFFECT_f467" FileType="Imagebank" Enum="Effect_f467" LZComp="Best" BufferOverflow="./match/BufferGarbage032.bin"/>
+	<ArcFile FileName="EFFECT_f468" FileType="Imagebank" Enum="Effect_f468" LZComp="Best" BufferOverflow="Z512"/>
+	<ArcFile FileName="EFFECT_f469" FileType="Imagebank" Enum="Effect_f469" LZComp="Best" BufferOverflow="Z144"/>
+	<ArcFile FileName="EFFECT_f470" FileType="Imagebank" Enum="Effect_f470" LZComp="Best" BufferOverflow="./match/BufferGarbage038.bin"/>
+	<ArcFile FileName="EFFECT_f471" FileType="Imagebank" Enum="Effect_f471" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f472" FileType="Imagebank" Enum="Effect_f472" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f473" FileType="Imagebank" Enum="Effect_f473" LZComp="Best" BufferOverflow="Z936"/>
+	<ArcFile FileName="EFFECT_f474" FileType="Imagebank" Enum="Effect_f474" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f475" FileType="Imagebank" Enum="Effect_f475" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f476" FileType="Imagebank" Enum="Effect_f476" LZComp="Best" BufferOverflow="./match/BufferGarbage024.bin"/>
+	<ArcFile FileName="EFFECT_f477" FileType="Imagebank" Enum="Effect_f477" LZComp="Best" BufferOverflow="./match/BufferGarbage045.bin"/>
+	<ArcFile FileName="EFFECT_f478" FileType="Imagebank" Enum="Effect_f478" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f479" FileType="Imagebank" Enum="Effect_f479" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f480" FileType="Imagebank" Enum="Effect_f480" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f481" FileType="Imagebank" Enum="Effect_f481" LZComp="Best" BufferOverflow="Z256"/>
+	<ArcFile FileName="EFFECT_f482" FileType="Imagebank" Enum="Effect_f482" LZComp="Best" BufferOverflow="Z16;Nac;Z1;Na4;Z1;N7d;Z1;N8307;Z1;N10;Z2;Na00413;Z1;Na00413;Z221"/>
+	<ArcFile FileName="EFFECT_f483" FileType="Imagebank" Enum="Effect_f483" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f484" FileType="Imagebank" Enum="Effect_f484" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f485" FileType="Imagebank" Enum="Effect_f485" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f486" FileType="Imagebank" Enum="Effect_f486" LZComp="Best" BufferOverflow="./match/BufferGarbage028.bin"/>
+	<ArcFile FileName="EFFECT_f487" FileType="Imagebank" Enum="Effect_f487" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f488" FileType="Imagebank" Enum="Effect_f488" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f489" FileType="Imagebank" Enum="Effect_f489" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f490" FileType="Imagebank" Enum="Effect_f490" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f491" FileType="Imagebank" Enum="Effect_f491" LZComp="Best" BufferOverflow="Z96"/>
+	<ArcFile FileName="EFFECT_f492" FileType="Imagebank" Enum="Effect_f492" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f493" FileType="Imagebank" Enum="Effect_f493" LZComp="Best" BufferOverflow="Z88"/>
+	<ArcFile FileName="EFFECT_f494" FileType="Imagebank" Enum="Effect_f494" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f495" FileType="Imagebank" Enum="Effect_f495" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f496" FileType="Imagebank" Enum="Effect_f496" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f497" FileType="Imagebank" Enum="Effect_f497" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f498" FileType="Imagebank" Enum="Effect_f498" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f499" FileType="Imagebank" Enum="Effect_f499" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f500" FileType="Imagebank" Enum="Effect_f500" LZComp="Best" BufferOverflow="Z96"/>
+	<ArcFile FileName="EFFECT_f501" FileType="Imagebank" Enum="Effect_f501" LZComp="Best" BufferOverflow="Z312"/>
+	<ArcFile FileName="EFFECT_f502" FileType="Imagebank" Enum="Effect_f502" LZComp="Best" BufferOverflow="Z320"/>
+	<ArcFile FileName="EFFECT_f503" FileType="Imagebank" Enum="Effect_f503" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f504" FileType="Imagebank" Enum="Effect_f504" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f505" FileType="Imagebank" Enum="Effect_f505" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f506" FileType="Imagebank" Enum="Effect_f506" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f507" FileType="Imagebank" Enum="Effect_f507" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f508" FileType="Imagebank" Enum="Effect_f508" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f509" FileType="Imagebank" Enum="Effect_f509" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f510" FileType="Imagebank" Enum="Effect_f510" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f511" FileType="Imagebank" Enum="Effect_f511" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f512" FileType="Imagebank" Enum="Effect_f512" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f513" FileType="Imagebank" Enum="Effect_f513" LZComp="Best" BufferOverflow="Z160"/>
+	<ArcFile FileName="EFFECT_f514" FileType="Imagebank" Enum="Effect_f514" LZComp="Best" BufferOverflow="Z32"/>
+	<ArcFile FileName="EFFECT_f515" FileType="Imagebank" Enum="Effect_f515" LZComp="Best" BufferOverflow="Z32"/>
+	<ArcFile FileName="EFFECT_f516" FileType="Imagebank" Enum="Effect_f516" LZComp="Best" BufferOverflow="Z88"/>
+	<ArcFile FileName="EFFECT_f517" FileType="Imagebank" Enum="Effect_f517" LZComp="Best" BufferOverflow="Z88"/>
+	<ArcFile FileName="EFFECT_f518" FileType="Imagebank" Enum="Effect_f518" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f519" FileType="Imagebank" Enum="Effect_f519" LZComp="Best" BufferOverflow="Z336"/>
+	<ArcFile FileName="EFFECT_f520" FileType="Imagebank" Enum="Effect_f520" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f521" FileType="Imagebank" Enum="Effect_f521" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f522" FileType="Imagebank" Enum="Effect_f522" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f523" FileType="Imagebank" Enum="Effect_f523" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f524" FileType="Imagebank" Enum="Effect_f524" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f525" FileType="Imagebank" Enum="Effect_f525" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f526" FileType="Imagebank" Enum="Effect_f526" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f527" FileType="Imagebank" Enum="Effect_f527" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f528" FileType="Imagebank" Enum="Effect_f528" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f529" FileType="Imagebank" Enum="Effect_f529" LZComp="Best" BufferOverflow="Z272"/>
+	<ArcFile FileName="EFFECT_f530" FileType="Imagebank" Enum="Effect_f530" LZComp="Best" BufferOverflow="Z272"/>
+	<ArcFile FileName="EFFECT_f531" FileType="Imagebank" Enum="Effect_f531" LZComp="Best" BufferOverflow="Z336"/>
+	<ArcFile FileName="EFFECT_f532" FileType="Imagebank" Enum="Effect_f532" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f533" FileType="Imagebank" Enum="Effect_f533" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f534" FileType="Imagebank" Enum="Effect_f534" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f535" FileType="Imagebank" Enum="Effect_f535" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f536" FileType="Imagebank" Enum="Effect_f536" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f537" FileType="Imagebank" Enum="Effect_f537" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f538" FileType="Imagebank" Enum="Effect_f538" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f539" FileType="Imagebank" Enum="Effect_f539" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f540" FileType="Imagebank" Enum="Effect_f540" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f541" FileType="Imagebank" Enum="Effect_f541" LZComp="Best" BufferOverflow="Z464"/>
+	<ArcFile FileName="EFFECT_f542" FileType="Imagebank" Enum="Effect_f542" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f543" FileType="Imagebank" Enum="Effect_f543" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f544" FileType="Imagebank" Enum="Effect_f544" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f545" FileType="Imagebank" Enum="Effect_f545" LZComp="Best" BufferOverflow="Z392"/>
+	<ArcFile FileName="EFFECT_f546" FileType="Imagebank" Enum="Effect_f546" LZComp="Best" BufferOverflow="Z1192"/>
+	<ArcFile FileName="EFFECT_f547" FileType="Imagebank" Enum="Effect_f547" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f548" FileType="Imagebank" Enum="Effect_f548" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f549" FileType="Imagebank" Enum="Effect_f549" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f550" FileType="Imagebank" Enum="Effect_f550" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f551" FileType="Imagebank" Enum="Effect_f551" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f552" FileType="Imagebank" Enum="Effect_f552" LZComp="Best" BufferOverflow="Z64"/>
+	<ArcFile FileName="EFFECT_f553" FileType="Imagebank" Enum="Effect_f553" LZComp="Best" BufferOverflow="./match/BufferGarbage046.bin"/>
+	<ArcFile FileName="EFFECT_f554" FileType="Imagebank" Enum="Effect_f554" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f555" FileType="Imagebank" Enum="Effect_f555" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f556" FileType="Imagebank" Enum="Effect_f556" LZComp="Best"/>
+	<ArcFile FileName="EFFECT_f557" FileType="Imagebank" Enum="Effect_f557" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f558" FileType="Imagebank" Enum="Effect_f558" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f559" FileType="Imagebank" Enum="Effect_f559" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f560" FileType="Imagebank" Enum="Effect_f560" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f561" FileType="Imagebank" Enum="Effect_f561" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f562" FileType="Imagebank" Enum="Effect_f562" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f563" FileType="Imagebank" Enum="Effect_f563" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f564" FileType="Imagebank" Enum="Effect_f564" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f565" FileType="Imagebank" Enum="Effect_f565" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f566" FileType="Imagebank" Enum="Effect_f566" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f567" FileType="Imagebank" Enum="Effect_f567" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f568" FileType="Imagebank" Enum="Effect_f568" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f569" FileType="Imagebank" Enum="Effect_f569" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f570" FileType="Imagebank" Enum="Effect_f570" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f571" FileType="Imagebank" Enum="Effect_f571" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f572" FileType="Imagebank" Enum="Effect_f572" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f573" FileType="Imagebank" Enum="Effect_f573" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f574" FileType="Imagebank" Enum="Effect_f574" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f575" FileType="Imagebank" Enum="Effect_f575" LZComp="Best" BufferOverflow="N33bcbbbdbbbbbbdb333333bc3dcddc634495879797a845062652877777a75966"/>
+	<ArcFile FileName="EFFECT_f576" FileType="Imagebank" Enum="Effect_f576" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f577" FileType="Imagebank" Enum="Effect_f577" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f578" FileType="Imagebank" Enum="Effect_f578" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f579" FileType="Imagebank" Enum="Effect_f579" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f580" FileType="Imagebank" Enum="Effect_f580" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f581" FileType="Imagebank" Enum="Effect_f581" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f582" FileType="Imagebank" Enum="Effect_f582" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f583" FileType="Imagebank" Enum="Effect_f583" LZComp="Best" BufferOverflow="Z1240"/>
+	<ArcFile FileName="EFFECT_f584" FileType="Imagebank" Enum="Effect_f584" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f585" FileType="Imagebank" Enum="Effect_f585" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f586" FileType="Imagebank" Enum="Effect_f586" LZComp="Best" BufferOverflow="Z360"/>
+	<ArcFile FileName="EFFECT_f587" FileType="Imagebank" Enum="Effect_f587" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f588" FileType="Imagebank" Enum="Effect_f588" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f589" FileType="Imagebank" Enum="Effect_f589" LZComp="Best" BufferOverflow="Z84;Nac;Z1;Na4;Z1;N3a020f0b;Z1;N10;Z2;Nb8;Z1;N14;Z1;Nd0f415;Z9"/>
+	<ArcFile FileName="EFFECT_f590" FileType="Imagebank" Enum="Effect_f590" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f591" FileType="Imagebank" Enum="Effect_f591" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f592" FileType="Imagebank" Enum="Effect_f592" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f593" FileType="Imagebank" Enum="Effect_f593" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f594" FileType="Imagebank" Enum="Effect_f594" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f595" FileType="Imagebank" Enum="Effect_f595" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f596" FileType="Imagebank" Enum="Effect_f596" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f597" FileType="Imagebank" Enum="Effect_f597" LZComp="Best" BufferOverflow="Z288"/>
+	<ArcFile FileName="EFFECT_f598" FileType="Imagebank" Enum="Effect_f598" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f599" FileType="Imagebank" Enum="Effect_f599" LZComp="Best" BufferOverflow="Z88"/>
+	<ArcFile FileName="EFFECT_f600" FileType="Imagebank" Enum="Effect_f600" LZComp="Best" BufferOverflow="Z456"/>
+	<ArcFile FileName="EFFECT_f601" FileType="Imagebank" Enum="Effect_f601" LZComp="Best" BufferOverflow="Z88"/>
+	<ArcFile FileName="EFFECT_f602" FileType="Imagebank" Enum="Effect_f602" LZComp="Best" BufferOverflow="Z1564"/>
+	<ArcFile FileName="EFFECT_f603" FileType="Imagebank" Enum="Effect_f603" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f604" FileType="Imagebank" Enum="Effect_f604" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f605" FileType="Imagebank" Enum="Effect_f605" LZComp="Best" BufferOverflow="Z40"/>
+	<ArcFile FileName="EFFECT_f606" FileType="Imagebank" Enum="Effect_f606" LZComp="Best" BufferOverflow="Z40"/>
 	<ArcFile/>
 </ArcSpec>

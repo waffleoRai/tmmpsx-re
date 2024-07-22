@@ -1,195 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ArcSpec Name="FIELD" IndexingType="File" XAStream="False">
-	<ArcFile FileName="FIELD_f000" FileType="Unknown" Enum="Field_f000" LZComp="True"/>
-	<ArcFile FileName="FIELD_f001" FileType="Unknown" Enum="Field_f001" LZComp="True"/>
-	<ArcFile FileName="FIELD_f002" FileType="Unknown" Enum="Field_f002" LZComp="True"/>
-	<ArcFile FileName="FIELD_f003" FileType="Unknown" Enum="Field_f003" LZComp="True"/>
-	<ArcFile FileName="FIELD_f004" FileType="Unknown" Enum="Field_f004" LZComp="True"/>
-	<ArcFile FileName="FIELD_f005" FileType="Unknown" Enum="Field_f005" LZComp="True"/>
-	<ArcFile FileName="FIELD_f006" FileType="Unknown" Enum="Field_f006" LZComp="True"/>
-	<ArcFile FileName="FIELD_f007" FileType="Unknown" Enum="Field_f007" LZComp="True"/>
-	<ArcFile FileName="FIELD_f008" FileType="Unknown" Enum="Field_f008" LZComp="True"/>
-	<ArcFile FileName="FIELD_f009" FileType="Unknown" Enum="Field_f009" LZComp="True"/>
-	<ArcFile FileName="FIELD_f010" FileType="Unknown" Enum="Field_f010" LZComp="True"/>
-	<ArcFile FileName="FIELD_f011" FileType="Unknown" Enum="Field_f011" LZComp="True"/>
-	<ArcFile FileName="FIELD_f012" FileType="Unknown" Enum="Field_f012" LZComp="True"/>
-	<ArcFile FileName="FIELD_f013" FileType="Unknown" Enum="Field_f013" LZComp="True"/>
-	<ArcFile FileName="FIELD_f014" FileType="Unknown" Enum="Field_f014" LZComp="True"/>
-	<ArcFile FileName="FIELD_f015" FileType="Unknown" Enum="Field_f015" LZComp="True"/>
-	<ArcFile FileName="FIELD_f016" FileType="Unknown" Enum="Field_f016" LZComp="True"/>
-	<ArcFile FileName="FIELD_f017" FileType="Unknown" Enum="Field_f017" LZComp="True"/>
-	<ArcFile FileName="FIELD_f018" FileType="Unknown" Enum="Field_f018" LZComp="True"/>
-	<ArcFile FileName="FIELD_f019" FileType="Unknown" Enum="Field_f019" LZComp="True"/>
-	<ArcFile FileName="FIELD_f020" FileType="Unknown" Enum="Field_f020" LZComp="True"/>
-	<ArcFile FileName="FIELD_f021" FileType="Unknown" Enum="Field_f021" LZComp="True"/>
-	<ArcFile FileName="FIELD_f022" FileType="Unknown" Enum="Field_f022" LZComp="True"/>
-	<ArcFile FileName="FIELD_f023" FileType="Unknown" Enum="Field_f023" LZComp="True"/>
-	<ArcFile FileName="FIELD_f024" FileType="Unknown" Enum="Field_f024" LZComp="True"/>
-	<ArcFile FileName="FIELD_f025" FileType="Unknown" Enum="Field_f025" LZComp="True"/>
-	<ArcFile FileName="FIELD_f026" FileType="Unknown" Enum="Field_f026" LZComp="True"/>
-	<ArcFile FileName="FIELD_f027" FileType="Unknown" Enum="Field_f027" LZComp="True"/>
-	<ArcFile FileName="FIELD_f028" FileType="Unknown" Enum="Field_f028" LZComp="True"/>
-	<ArcFile FileName="FIELD_f029" FileType="Unknown" Enum="Field_f029" LZComp="True"/>
-	<ArcFile FileName="FIELD_f030" FileType="Unknown" Enum="Field_f030" LZComp="True"/>
-	<ArcFile FileName="FIELD_f031" FileType="Unknown" Enum="Field_f031" LZComp="True"/>
-	<ArcFile FileName="FIELD_f032" FileType="Unknown" Enum="Field_f032" LZComp="True"/>
-	<ArcFile FileName="FIELD_f033" FileType="Unknown" Enum="Field_f033" LZComp="True"/>
-	<ArcFile FileName="FIELD_f034" FileType="Unknown" Enum="Field_f034" LZComp="True"/>
-	<ArcFile FileName="FIELD_f035" FileType="Unknown" Enum="Field_f035" LZComp="True"/>
-	<ArcFile FileName="FIELD_f036" FileType="Unknown" Enum="Field_f036" LZComp="True"/>
-	<ArcFile FileName="FIELD_f037" FileType="Unknown" Enum="Field_f037" LZComp="True"/>
-	<ArcFile FileName="FIELD_f038" FileType="Unknown" Enum="Field_f038" LZComp="True"/>
-	<ArcFile FileName="FIELD_f039" FileType="Unknown" Enum="Field_f039" LZComp="True"/>
-	<ArcFile FileName="FIELD_f040" FileType="Unknown" Enum="Field_f040" LZComp="True"/>
-	<ArcFile FileName="FIELD_f041" FileType="Unknown" Enum="Field_f041" LZComp="True"/>
-	<ArcFile FileName="FIELD_f042" FileType="Unknown" Enum="Field_f042" LZComp="True"/>
-	<ArcFile FileName="FIELD_f043" FileType="Unknown" Enum="Field_f043" LZComp="True"/>
-	<ArcFile FileName="FIELD_f044" FileType="Unknown" Enum="Field_f044" LZComp="True"/>
-	<ArcFile FileName="FIELD_f045" FileType="Unknown" Enum="Field_f045" LZComp="True"/>
-	<ArcFile FileName="FIELD_f046" FileType="Unknown" Enum="Field_f046" LZComp="True"/>
-	<ArcFile FileName="FIELD_f047" FileType="Unknown" Enum="Field_f047" LZComp="True"/>
-	<ArcFile FileName="FIELD_f048" FileType="Unknown" Enum="Field_f048" LZComp="True"/>
-	<ArcFile FileName="FIELD_f049" FileType="Unknown" Enum="Field_f049" LZComp="True"/>
-	<ArcFile FileName="FIELD_f050" FileType="Unknown" Enum="Field_f050" LZComp="True"/>
-	<ArcFile FileName="FIELD_f051" FileType="Unknown" Enum="Field_f051" LZComp="True"/>
-	<ArcFile FileName="FIELD_f052" FileType="Unknown" Enum="Field_f052" LZComp="True"/>
-	<ArcFile FileName="FIELD_f053" FileType="Unknown" Enum="Field_f053" LZComp="True"/>
-	<ArcFile FileName="FIELD_f054" FileType="Unknown" Enum="Field_f054" LZComp="True"/>
-	<ArcFile FileName="FIELD_f055" FileType="Unknown" Enum="Field_f055" LZComp="True"/>
-	<ArcFile FileName="FIELD_f056" FileType="Unknown" Enum="Field_f056" LZComp="True"/>
-	<ArcFile FileName="FIELD_f057" FileType="Unknown" Enum="Field_f057" LZComp="True"/>
-	<ArcFile FileName="FIELD_f058" FileType="Unknown" Enum="Field_f058" LZComp="True"/>
-	<ArcFile FileName="FIELD_f059" FileType="Unknown" Enum="Field_f059" LZComp="True"/>
-	<ArcFile FileName="FIELD_f060" FileType="Unknown" Enum="Field_f060" LZComp="True"/>
-	<ArcFile FileName="FIELD_f061" FileType="Unknown" Enum="Field_f061" LZComp="True"/>
-	<ArcFile FileName="FIELD_f062" FileType="Unknown" Enum="Field_f062" LZComp="True"/>
-	<ArcFile FileName="FIELD_f063" FileType="Unknown" Enum="Field_f063" LZComp="True"/>
-	<ArcFile FileName="FIELD_f064" FileType="Unknown" Enum="Field_f064" LZComp="True"/>
-	<ArcFile FileName="FIELD_f065" FileType="Unknown" Enum="Field_f065" LZComp="True"/>
-	<ArcFile FileName="FIELD_f066" FileType="Unknown" Enum="Field_f066" LZComp="True"/>
-	<ArcFile FileName="FIELD_f067" FileType="Unknown" Enum="Field_f067" LZComp="True"/>
-	<ArcFile FileName="FIELD_f068" FileType="Unknown" Enum="Field_f068" LZComp="True"/>
-	<ArcFile FileName="FIELD_f069" FileType="Unknown" Enum="Field_f069" LZComp="True"/>
-	<ArcFile FileName="FIELD_f070" FileType="Unknown" Enum="Field_f070" LZComp="True"/>
-	<ArcFile FileName="FIELD_f071" FileType="Unknown" Enum="Field_f071" LZComp="True"/>
-	<ArcFile FileName="FIELD_f072" FileType="Unknown" Enum="Field_f072" LZComp="True"/>
-	<ArcFile FileName="FIELD_f073" FileType="Unknown" Enum="Field_f073" LZComp="True"/>
-	<ArcFile FileName="FIELD_f074" FileType="Unknown" Enum="Field_f074" LZComp="True"/>
-	<ArcFile FileName="FIELD_f075" FileType="Unknown" Enum="Field_f075" LZComp="True"/>
-	<ArcFile FileName="FIELD_f076" FileType="Unknown" Enum="Field_f076" LZComp="True"/>
-	<ArcFile FileName="FIELD_f077" FileType="Unknown" Enum="Field_f077" LZComp="True"/>
-	<ArcFile FileName="FIELD_f078" FileType="Unknown" Enum="Field_f078" LZComp="True"/>
-	<ArcFile FileName="FIELD_f079" FileType="Unknown" Enum="Field_f079" LZComp="True"/>
-	<ArcFile FileName="FIELD_f080" FileType="Unknown" Enum="Field_f080" LZComp="True"/>
-	<ArcFile FileName="FIELD_f081" FileType="Unknown" Enum="Field_f081" LZComp="True"/>
-	<ArcFile FileName="FIELD_f082" FileType="Unknown" Enum="Field_f082" LZComp="True"/>
-	<ArcFile FileName="FIELD_f083" FileType="Unknown" Enum="Field_f083" LZComp="True"/>
-	<ArcFile FileName="FIELD_f084" FileType="Unknown" Enum="Field_f084" LZComp="True"/>
-	<ArcFile FileName="FIELD_f085" FileType="Unknown" Enum="Field_f085" LZComp="True"/>
-	<ArcFile FileName="FIELD_f086" FileType="Unknown" Enum="Field_f086" LZComp="True"/>
-	<ArcFile FileName="FIELD_f087" FileType="Unknown" Enum="Field_f087" LZComp="True"/>
-	<ArcFile FileName="FIELD_f088" FileType="Unknown" Enum="Field_f088" LZComp="True"/>
-	<ArcFile FileName="FIELD_f089" FileType="Unknown" Enum="Field_f089" LZComp="True"/>
-	<ArcFile FileName="FIELD_f090" FileType="Unknown" Enum="Field_f090" LZComp="True"/>
-	<ArcFile FileName="FIELD_f091" FileType="Unknown" Enum="Field_f091" LZComp="True"/>
-	<ArcFile FileName="FIELD_f092" FileType="Unknown" Enum="Field_f092" LZComp="True"/>
-	<ArcFile FileName="FIELD_f093" FileType="Unknown" Enum="Field_f093" LZComp="True"/>
-	<ArcFile FileName="FIELD_f094" FileType="Unknown" Enum="Field_f094" LZComp="True"/>
-	<ArcFile FileName="FIELD_f095" FileType="Unknown" Enum="Field_f095" LZComp="True"/>
-	<ArcFile FileName="FIELD_f096" FileType="Unknown" Enum="Field_f096" LZComp="True"/>
-	<ArcFile FileName="FIELD_f097" FileType="Unknown" Enum="Field_f097" LZComp="True"/>
-	<ArcFile FileName="FIELD_f098" FileType="Unknown" Enum="Field_f098" LZComp="True"/>
-	<ArcFile FileName="FIELD_f099" FileType="Unknown" Enum="Field_f099" LZComp="True"/>
-	<ArcFile FileName="FIELD_f100" FileType="Unknown" Enum="Field_f100" LZComp="True"/>
-	<ArcFile FileName="FIELD_f101" FileType="Unknown" Enum="Field_f101" LZComp="True"/>
-	<ArcFile FileName="FIELD_f102" FileType="Unknown" Enum="Field_f102" LZComp="True"/>
-	<ArcFile FileName="FIELD_f103" FileType="Unknown" Enum="Field_f103" LZComp="True"/>
-	<ArcFile FileName="FIELD_f104" FileType="Unknown" Enum="Field_f104" LZComp="True"/>
-	<ArcFile FileName="FIELD_f105" FileType="Unknown" Enum="Field_f105" LZComp="True"/>
-	<ArcFile FileName="FIELD_f106" FileType="Unknown" Enum="Field_f106" LZComp="True"/>
-	<ArcFile FileName="FIELD_f107" FileType="Unknown" Enum="Field_f107" LZComp="True"/>
-	<ArcFile FileName="FIELD_f108" FileType="Unknown" Enum="Field_f108" LZComp="True"/>
-	<ArcFile FileName="FIELD_f109" FileType="Unknown" Enum="Field_f109" LZComp="True"/>
-	<ArcFile FileName="FIELD_f110" FileType="Unknown" Enum="Field_f110" LZComp="True"/>
-	<ArcFile FileName="FIELD_f111" FileType="Unknown" Enum="Field_f111" LZComp="True"/>
-	<ArcFile FileName="FIELD_f112" FileType="Unknown" Enum="Field_f112" LZComp="True"/>
-	<ArcFile FileName="FIELD_f113" FileType="Unknown" Enum="Field_f113" LZComp="True"/>
-	<ArcFile FileName="FIELD_f114" FileType="Unknown" Enum="Field_f114" LZComp="True"/>
-	<ArcFile FileName="FIELD_f115" FileType="Unknown" Enum="Field_f115" LZComp="True"/>
-	<ArcFile FileName="FIELD_f116" FileType="Unknown" Enum="Field_f116" LZComp="True"/>
-	<ArcFile FileName="FIELD_f117" FileType="Unknown" Enum="Field_f117" LZComp="True"/>
-	<ArcFile FileName="FIELD_f118" FileType="Unknown" Enum="Field_f118" LZComp="True"/>
-	<ArcFile FileName="FIELD_f119" FileType="Unknown" Enum="Field_f119" LZComp="True"/>
-	<ArcFile FileName="FIELD_f120" FileType="Unknown" Enum="Field_f120" LZComp="True"/>
-	<ArcFile FileName="FIELD_f121" FileType="Unknown" Enum="Field_f121" LZComp="True"/>
-	<ArcFile FileName="FIELD_f122" FileType="Unknown" Enum="Field_f122" LZComp="True"/>
-	<ArcFile FileName="FIELD_f123" FileType="Unknown" Enum="Field_f123" LZComp="True"/>
-	<ArcFile FileName="FIELD_f124" FileType="Unknown" Enum="Field_f124" LZComp="True"/>
-	<ArcFile FileName="FIELD_f125" FileType="Unknown" Enum="Field_f125" LZComp="True"/>
-	<ArcFile FileName="FIELD_f126" FileType="Unknown" Enum="Field_f126" LZComp="True"/>
-	<ArcFile FileName="FIELD_f127" FileType="Unknown" Enum="Field_f127" LZComp="True"/>
-	<ArcFile FileName="FIELD_f128" FileType="Unknown" Enum="Field_f128" LZComp="True"/>
-	<ArcFile FileName="FIELD_f129" FileType="Unknown" Enum="Field_f129" LZComp="True"/>
-	<ArcFile FileName="FIELD_f130" FileType="Unknown" Enum="Field_f130" LZComp="True"/>
-	<ArcFile FileName="FIELD_f131" FileType="Unknown" Enum="Field_f131" LZComp="True"/>
-	<ArcFile FileName="FIELD_f132" FileType="Unknown" Enum="Field_f132" LZComp="True"/>
-	<ArcFile FileName="FIELD_f133" FileType="Unknown" Enum="Field_f133" LZComp="True"/>
-	<ArcFile FileName="FIELD_f134" FileType="Unknown" Enum="Field_f134" LZComp="True"/>
-	<ArcFile FileName="FIELD_f135" FileType="Unknown" Enum="Field_f135" LZComp="True"/>
-	<ArcFile FileName="FIELD_f136" FileType="Unknown" Enum="Field_f136" LZComp="True"/>
-	<ArcFile FileName="FIELD_f137" FileType="Unknown" Enum="Field_f137" LZComp="True"/>
-	<ArcFile FileName="FIELD_f138" FileType="Unknown" Enum="Field_f138" LZComp="True"/>
-	<ArcFile FileName="FIELD_f139" FileType="Unknown" Enum="Field_f139" LZComp="True"/>
-	<ArcFile FileName="FIELD_f140" FileType="Unknown" Enum="Field_f140" LZComp="True"/>
-	<ArcFile FileName="FIELD_f141" FileType="Unknown" Enum="Field_f141" LZComp="True"/>
-	<ArcFile FileName="FIELD_f142" FileType="Unknown" Enum="Field_f142" LZComp="True"/>
-	<ArcFile FileName="FIELD_f143" FileType="Unknown" Enum="Field_f143" LZComp="True"/>
-	<ArcFile FileName="FIELD_f144" FileType="Unknown" Enum="Field_f144" LZComp="True"/>
-	<ArcFile FileName="FIELD_f145" FileType="Unknown" Enum="Field_f145" LZComp="True"/>
-	<ArcFile FileName="FIELD_f146" FileType="Unknown" Enum="Field_f146" LZComp="True"/>
-	<ArcFile FileName="FIELD_f147" FileType="Unknown" Enum="Field_f147" LZComp="True"/>
-	<ArcFile FileName="FIELD_f148" FileType="Unknown" Enum="Field_f148" LZComp="True"/>
-	<ArcFile FileName="FIELD_f149" FileType="Unknown" Enum="Field_f149" LZComp="True"/>
-	<ArcFile FileName="FIELD_f150" FileType="Unknown" Enum="Field_f150" LZComp="True"/>
-	<ArcFile FileName="FIELD_f151" FileType="Unknown" Enum="Field_f151" LZComp="True"/>
-	<ArcFile FileName="FIELD_f152" FileType="Unknown" Enum="Field_f152" LZComp="True"/>
-	<ArcFile FileName="FIELD_f153" FileType="Unknown" Enum="Field_f153" LZComp="True"/>
-	<ArcFile FileName="FIELD_f154" FileType="Unknown" Enum="Field_f154" LZComp="True"/>
-	<ArcFile FileName="FIELD_f155" FileType="Unknown" Enum="Field_f155" LZComp="True"/>
-	<ArcFile FileName="FIELD_f156" FileType="Unknown" Enum="Field_f156" LZComp="True"/>
-	<ArcFile FileName="FIELD_f157" FileType="Unknown" Enum="Field_f157" LZComp="True"/>
-	<ArcFile FileName="FIELD_f158" FileType="Unknown" Enum="Field_f158" LZComp="True"/>
-	<ArcFile FileName="FIELD_f159" FileType="Unknown" Enum="Field_f159" LZComp="True"/>
-	<ArcFile FileName="FIELD_f160" FileType="Unknown" Enum="Field_f160" LZComp="True"/>
-	<ArcFile FileName="FIELD_f161" FileType="Unknown" Enum="Field_f161" LZComp="True"/>
-	<ArcFile FileName="FIELD_f162" FileType="Unknown" Enum="Field_f162" LZComp="True"/>
-	<ArcFile FileName="FIELD_f163" FileType="Unknown" Enum="Field_f163" LZComp="True"/>
-	<ArcFile FileName="FIELD_f164" FileType="Unknown" Enum="Field_f164" LZComp="True"/>
-	<ArcFile FileName="FIELD_f165" FileType="Unknown" Enum="Field_f165" LZComp="True"/>
-	<ArcFile FileName="FIELD_f166" FileType="Unknown" Enum="Field_f166" LZComp="True"/>
-	<ArcFile FileName="FIELD_f167" FileType="Unknown" Enum="Field_f167" LZComp="True"/>
-	<ArcFile FileName="FIELD_f168" FileType="Unknown" Enum="Field_f168" LZComp="True"/>
-	<ArcFile FileName="FIELD_f169" FileType="Unknown" Enum="Field_f169" LZComp="True"/>
-	<ArcFile FileName="FIELD_f170" FileType="Unknown" Enum="Field_f170" LZComp="True"/>
-	<ArcFile FileName="FIELD_f171" FileType="Unknown" Enum="Field_f171" LZComp="True"/>
-	<ArcFile FileName="FIELD_f172" FileType="Unknown" Enum="Field_f172" LZComp="True"/>
-	<ArcFile FileName="FIELD_f173" FileType="Unknown" Enum="Field_f173" LZComp="True"/>
-	<ArcFile FileName="FIELD_f174" FileType="Unknown" Enum="Field_f174" LZComp="True"/>
-	<ArcFile FileName="FIELD_f175" FileType="Unknown" Enum="Field_f175" LZComp="True"/>
-	<ArcFile FileName="FIELD_f176" FileType="Unknown" Enum="Field_f176" LZComp="True"/>
-	<ArcFile FileName="FIELD_f177" FileType="Unknown" Enum="Field_f177" LZComp="True"/>
-	<ArcFile FileName="FIELD_f178" FileType="Unknown" Enum="Field_f178" LZComp="True"/>
-	<ArcFile FileName="FIELD_f179" FileType="Unknown" Enum="Field_f179" LZComp="True"/>
-	<ArcFile FileName="FIELD_f180" FileType="Unknown" Enum="Field_f180" LZComp="True"/>
-	<ArcFile FileName="FIELD_f181" FileType="Unknown" Enum="Field_f181" LZComp="True"/>
-	<ArcFile FileName="FIELD_f182" FileType="Unknown" Enum="Field_f182" LZComp="True"/>
-	<ArcFile FileName="FIELD_f183" FileType="Unknown" Enum="Field_f183" LZComp="True"/>
-	<ArcFile FileName="FIELD_f184" FileType="Unknown" Enum="Field_f184" LZComp="True"/>
-	<ArcFile FileName="FIELD_f185" FileType="Unknown" Enum="Field_f185" LZComp="True"/>
-	<ArcFile FileName="FIELD_f186" FileType="Unknown" Enum="Field_f186" LZComp="True"/>
-	<ArcFile FileName="FIELD_f187" FileType="Unknown" Enum="Field_f187" LZComp="True"/>
-	<ArcFile FileName="FIELD_f188" FileType="Unknown" Enum="Field_f188" LZComp="True"/>
-	<ArcFile FileName="FIELD_f189" FileType="Unknown" Enum="Field_f189" LZComp="True"/>
-	<ArcFile FileName="FIELD_f190" FileType="Unknown" Enum="Field_f190" LZComp="True"/>
+<ArcSpec Name="FIELD" IndexingType="File" XAStream="False" ForceSectorAlignment="False" FFLTablePath="./match/fieldLit.zip">
+	<ArcFile FileName="FIELD_f000" FileType="Unknown" Enum="Field_f000" LZComp="FastForceLit" LitTableId="0"/>
+	<ArcFile FileName="FIELD_f001" FileType="Unknown" Enum="Field_f001" LZComp="FastForceLit" LitTableId="1"/>
+	<ArcFile FileName="FIELD_f002" FileType="Unknown" Enum="Field_f002" LZComp="FastForceLit" LitTableId="2"/>
+	<ArcFile FileName="FIELD_f003" FileType="Unknown" Enum="Field_f003" LZComp="FastForceLit" LitTableId="3"/>
+	<ArcFile FileName="FIELD_f004" FileType="Unknown" Enum="Field_f004" LZComp="FastForceLit" LitTableId="4"/>
+	<ArcFile FileName="FIELD_f005" FileType="Unknown" Enum="Field_f005" LZComp="FastForceLit" LitTableId="5"/>
+	<ArcFile FileName="FIELD_f006" FileType="Unknown" Enum="Field_f006" LZComp="FastForceLit" LitTableId="6"/>
+	<ArcFile FileName="FIELD_f007" FileType="Unknown" Enum="Field_f007" LZComp="FastForceLit" LitTableId="7"/>
+	<ArcFile FileName="FIELD_f008" FileType="Unknown" Enum="Field_f008" LZComp="FastForceLit" LitTableId="8"/>
+	<ArcFile FileName="FIELD_f009" FileType="Unknown" Enum="Field_f009" LZComp="FastForceLit" LitTableId="9"/>
+	<ArcFile FileName="FIELD_f010" FileType="Unknown" Enum="Field_f010" LZComp="FastForceLit" LitTableId="10"/>
+	<ArcFile FileName="FIELD_f011" FileType="Unknown" Enum="Field_f011" LZComp="FastForceLit" LitTableId="11"/>
+	<ArcFile FileName="FIELD_f012" FileType="Unknown" Enum="Field_f012" LZComp="FastForceLit" LitTableId="12"/>
+	<ArcFile FileName="FIELD_f013" FileType="Unknown" Enum="Field_f013" LZComp="FastForceLit" LitTableId="13"/>
+	<ArcFile FileName="FIELD_f014" FileType="Unknown" Enum="Field_f014" LZComp="FastForceLit" LitTableId="14"/>
+	<ArcFile FileName="FIELD_f015" FileType="Unknown" Enum="Field_f015" LZComp="FastForceLit" LitTableId="15"/>
+	<ArcFile FileName="FIELD_f016" FileType="Unknown" Enum="Field_f016" LZComp="FastForceLit" LitTableId="16"/>
+	<ArcFile FileName="FIELD_f017" FileType="Unknown" Enum="Field_f017" LZComp="FastForceLit" LitTableId="17"/>
+	<ArcFile FileName="FIELD_f018" FileType="Unknown" Enum="Field_f018" LZComp="FastForceLit" LitTableId="18"/>
+	<ArcFile FileName="FIELD_f019" FileType="Unknown" Enum="Field_f019" LZComp="FastForceLit" LitTableId="19"/>
+	<ArcFile FileName="FIELD_f020" FileType="Unknown" Enum="Field_f020" LZComp="FastForceLit" LitTableId="20"/>
+	<ArcFile FileName="FIELD_f021" FileType="Unknown" Enum="Field_f021" LZComp="FastForceLit" LitTableId="21"/>
+	<ArcFile FileName="FIELD_f022" FileType="Unknown" Enum="Field_f022" LZComp="FastForceLit" LitTableId="22"/>
+	<ArcFile FileName="FIELD_f023" FileType="Unknown" Enum="Field_f023" LZComp="FastForceLit" LitTableId="23"/>
+	<ArcFile FileName="FIELD_f024" FileType="Unknown" Enum="Field_f024" LZComp="FastForceLit" LitTableId="24"/>
+	<ArcFile FileName="FIELD_f025" FileType="Unknown" Enum="Field_f025" LZComp="FastForceLit" LitTableId="25"/>
+	<ArcFile FileName="FIELD_f026" FileType="Unknown" Enum="Field_f026" LZComp="FastForceLit" LitTableId="26"/>
+	<ArcFile FileName="FIELD_f027" FileType="Unknown" Enum="Field_f027" LZComp="FastForceLit" LitTableId="27"/>
+	<ArcFile FileName="FIELD_f028" FileType="Unknown" Enum="Field_f028" LZComp="FastForceLit" LitTableId="28"/>
+	<ArcFile FileName="FIELD_f029" FileType="Unknown" Enum="Field_f029" LZComp="FastForceLit" LitTableId="29"/>
+	<ArcFile FileName="FIELD_f030" FileType="Unknown" Enum="Field_f030" LZComp="FastForceLit" LitTableId="30"/>
+	<ArcFile FileName="FIELD_f031" FileType="Unknown" Enum="Field_f031" LZComp="FastForceLit" LitTableId="31"/>
+	<ArcFile FileName="FIELD_f032" FileType="Unknown" Enum="Field_f032" LZComp="FastForceLit" LitTableId="32"/>
+	<ArcFile FileName="FIELD_f033" FileType="Unknown" Enum="Field_f033" LZComp="FastForceLit" LitTableId="33"/>
+	<ArcFile FileName="FIELD_f034" FileType="Unknown" Enum="Field_f034" LZComp="FastForceLit" LitTableId="34"/>
+	<ArcFile FileName="FIELD_f035" FileType="Unknown" Enum="Field_f035" LZComp="FastForceLit" LitTableId="35"/>
+	<ArcFile FileName="FIELD_f036" FileType="Unknown" Enum="Field_f036" LZComp="FastForceLit" LitTableId="36"/>
+	<ArcFile FileName="FIELD_f037" FileType="Unknown" Enum="Field_f037" LZComp="FastForceLit" LitTableId="37"/>
+	<ArcFile FileName="FIELD_f038" FileType="Unknown" Enum="Field_f038" LZComp="FastForceLit" LitTableId="38"/>
+	<ArcFile FileName="FIELD_f039" FileType="Unknown" Enum="Field_f039" LZComp="FastForceLit" LitTableId="39"/>
+	<ArcFile FileName="FIELD_f040" FileType="Unknown" Enum="Field_f040" LZComp="FastForceLit" LitTableId="40"/>
+	<ArcFile FileName="FIELD_f041" FileType="Unknown" Enum="Field_f041" LZComp="FastForceLit" LitTableId="41"/>
+	<ArcFile FileName="FIELD_f042" FileType="Unknown" Enum="Field_f042" LZComp="FastForceLit" LitTableId="42"/>
+	<ArcFile FileName="FIELD_f043" FileType="Unknown" Enum="Field_f043" LZComp="FastForceLit" LitTableId="43"/>
+	<ArcFile FileName="FIELD_f044" FileType="Unknown" Enum="Field_f044" LZComp="FastForceLit" LitTableId="44"/>
+	<ArcFile FileName="FIELD_f045" FileType="Unknown" Enum="Field_f045" LZComp="FastForceLit" LitTableId="45"/>
+	<ArcFile FileName="FIELD_f046" FileType="Unknown" Enum="Field_f046" LZComp="FastForceLit" LitTableId="46"/>
+	<ArcFile FileName="FIELD_f047" FileType="Unknown" Enum="Field_f047" LZComp="FastForceLit" LitTableId="47"/>
+	<ArcFile FileName="FIELD_f048" FileType="Unknown" Enum="Field_f048" LZComp="FastForceLit" LitTableId="48"/>
+	<ArcFile FileName="FIELD_f049" FileType="Unknown" Enum="Field_f049" LZComp="FastForceLit" LitTableId="49"/>
+	<ArcFile FileName="FIELD_f050" FileType="Unknown" Enum="Field_f050" LZComp="FastForceLit" LitTableId="50"/>
+	<ArcFile FileName="FIELD_f051" FileType="Unknown" Enum="Field_f051" LZComp="FastForceLit" LitTableId="51"/>
+	<ArcFile FileName="FIELD_f052" FileType="Unknown" Enum="Field_f052" LZComp="FastForceLit" LitTableId="52"/>
+	<ArcFile FileName="FIELD_f053" FileType="Unknown" Enum="Field_f053" LZComp="FastForceLit" LitTableId="53"/>
+	<ArcFile FileName="FIELD_f054" FileType="Unknown" Enum="Field_f054" LZComp="FastForceLit" LitTableId="54"/>
+	<ArcFile FileName="FIELD_f055" FileType="Unknown" Enum="Field_f055" LZComp="FastForceLit" LitTableId="55"/>
+	<ArcFile FileName="FIELD_f056" FileType="Unknown" Enum="Field_f056" LZComp="FastForceLit" LitTableId="56"/>
+	<ArcFile FileName="FIELD_f057" FileType="Unknown" Enum="Field_f057" LZComp="FastForceLit" LitTableId="57"/>
+	<ArcFile FileName="FIELD_f058" FileType="Unknown" Enum="Field_f058" LZComp="FastForceLit" LitTableId="58"/>
+	<ArcFile FileName="FIELD_f059" FileType="Unknown" Enum="Field_f059" LZComp="FastForceLit" LitTableId="59"/>
+	<ArcFile FileName="FIELD_f060" FileType="Unknown" Enum="Field_f060" LZComp="FastForceLit" LitTableId="60"/>
+	<ArcFile FileName="FIELD_f061" FileType="Unknown" Enum="Field_f061" LZComp="FastForceLit" LitTableId="61"/>
+	<ArcFile FileName="FIELD_f062" FileType="Unknown" Enum="Field_f062" LZComp="FastForceLit" LitTableId="62"/>
+	<ArcFile FileName="FIELD_f063" FileType="Unknown" Enum="Field_f063" LZComp="FastForceLit" LitTableId="63"/>
+	<ArcFile FileName="FIELD_f064" FileType="Unknown" Enum="Field_f064" LZComp="FastForceLit" LitTableId="64"/>
+	<ArcFile FileName="FIELD_f065" FileType="Unknown" Enum="Field_f065" LZComp="FastForceLit" LitTableId="65"/>
+	<ArcFile FileName="FIELD_f066" FileType="Unknown" Enum="Field_f066" LZComp="FastForceLit" LitTableId="66"/>
+	<ArcFile FileName="FIELD_f067" FileType="Unknown" Enum="Field_f067" LZComp="FastForceLit" LitTableId="67"/>
+	<ArcFile FileName="FIELD_f068" FileType="Unknown" Enum="Field_f068" LZComp="FastForceLit" LitTableId="68"/>
+	<ArcFile FileName="FIELD_f069" FileType="Unknown" Enum="Field_f069" LZComp="FastForceLit" LitTableId="69"/>
+	<ArcFile FileName="FIELD_f070" FileType="Unknown" Enum="Field_f070" LZComp="FastForceLit" LitTableId="70"/>
+	<ArcFile FileName="FIELD_f071" FileType="Unknown" Enum="Field_f071" LZComp="FastForceLit" LitTableId="71"/>
+	<ArcFile FileName="FIELD_f072" FileType="Unknown" Enum="Field_f072" LZComp="FastForceLit" LitTableId="72"/>
+	<ArcFile FileName="FIELD_f073" FileType="Unknown" Enum="Field_f073" LZComp="FastForceLit" LitTableId="73"/>
+	<ArcFile FileName="FIELD_f074" FileType="Unknown" Enum="Field_f074" LZComp="FastForceLit" LitTableId="74"/>
+	<ArcFile FileName="FIELD_f075" FileType="Unknown" Enum="Field_f075" LZComp="FastForceLit" LitTableId="75"/>
+	<ArcFile FileName="FIELD_f076" FileType="Unknown" Enum="Field_f076" LZComp="FastForceLit" LitTableId="76"/>
+	<ArcFile FileName="FIELD_f077" FileType="Unknown" Enum="Field_f077" LZComp="FastForceLit" LitTableId="77"/>
+	<ArcFile FileName="FIELD_f078" FileType="Unknown" Enum="Field_f078" LZComp="FastForceLit" LitTableId="78"/>
+	<ArcFile FileName="FIELD_f079" FileType="Unknown" Enum="Field_f079" LZComp="FastForceLit" LitTableId="79"/>
+	<ArcFile FileName="FIELD_f080" FileType="Unknown" Enum="Field_f080" LZComp="FastForceLit" LitTableId="80"/>
+	<ArcFile FileName="FIELD_f081" FileType="Unknown" Enum="Field_f081" LZComp="FastForceLit" LitTableId="81"/>
+	<ArcFile FileName="FIELD_f082" FileType="Unknown" Enum="Field_f082" LZComp="FastForceLit" LitTableId="82"/>
+	<ArcFile FileName="FIELD_f083" FileType="Unknown" Enum="Field_f083" LZComp="FastForceLit" LitTableId="83"/>
+	<ArcFile FileName="FIELD_f084" FileType="Unknown" Enum="Field_f084" LZComp="FastForceLit" LitTableId="84"/>
+	<ArcFile FileName="FIELD_f085" FileType="Unknown" Enum="Field_f085" LZComp="FastForceLit" LitTableId="85"/>
+	<ArcFile FileName="FIELD_f086" FileType="Unknown" Enum="Field_f086" LZComp="FastForceLit" LitTableId="86"/>
+	<ArcFile FileName="FIELD_f087" FileType="Unknown" Enum="Field_f087" LZComp="FastForceLit" LitTableId="87"/>
+	<ArcFile FileName="FIELD_f088" FileType="Unknown" Enum="Field_f088" LZComp="FastForceLit" LitTableId="88"/>
+	<ArcFile FileName="FIELD_f089" FileType="Unknown" Enum="Field_f089" LZComp="FastForceLit" LitTableId="89"/>
+	<ArcFile FileName="FIELD_f090" FileType="Unknown" Enum="Field_f090" LZComp="FastForceLit" LitTableId="90"/>
+	<ArcFile FileName="FIELD_f091" FileType="Unknown" Enum="Field_f091" LZComp="FastForceLit" LitTableId="91"/>
+	<ArcFile FileName="FIELD_f092" FileType="Unknown" Enum="Field_f092" LZComp="FastForceLit" LitTableId="92"/>
+	<ArcFile FileName="FIELD_f093" FileType="Unknown" Enum="Field_f093" LZComp="FastForceLit" LitTableId="93"/>
+	<ArcFile FileName="FIELD_f094" FileType="Unknown" Enum="Field_f094" LZComp="FastForceLit" LitTableId="94"/>
+	<ArcFile FileName="FIELD_f095" FileType="Unknown" Enum="Field_f095" LZComp="FastForceLit" LitTableId="95"/>
+	<ArcFile FileName="FIELD_f096" FileType="Unknown" Enum="Field_f096" LZComp="FastForceLit" LitTableId="96"/>
+	<ArcFile FileName="FIELD_f097" FileType="Unknown" Enum="Field_f097" LZComp="FastForceLit" LitTableId="97"/>
+	<ArcFile FileName="FIELD_f098" FileType="Unknown" Enum="Field_f098" LZComp="FastForceLit" LitTableId="98"/>
+	<ArcFile FileName="FIELD_f099" FileType="Unknown" Enum="Field_f099" LZComp="FastForceLit" LitTableId="99"/>
+	<ArcFile FileName="FIELD_f100" FileType="Unknown" Enum="Field_f100" LZComp="FastForceLit" LitTableId="100"/>
+	<ArcFile FileName="FIELD_f101" FileType="Unknown" Enum="Field_f101" LZComp="FastForceLit" LitTableId="101"/>
+	<ArcFile FileName="FIELD_f102" FileType="Unknown" Enum="Field_f102" LZComp="FastForceLit" LitTableId="102"/>
+	<ArcFile FileName="FIELD_f103" FileType="Unknown" Enum="Field_f103" LZComp="FastForceLit" LitTableId="103"/>
+	<ArcFile FileName="FIELD_f104" FileType="Unknown" Enum="Field_f104" LZComp="FastForceLit" LitTableId="104"/>
+	<ArcFile FileName="FIELD_f105" FileType="Unknown" Enum="Field_f105" LZComp="FastForceLit" LitTableId="105"/>
+	<ArcFile FileName="FIELD_f106" FileType="Unknown" Enum="Field_f106" LZComp="FastForceLit" LitTableId="106"/>
+	<ArcFile FileName="FIELD_f107" FileType="Unknown" Enum="Field_f107" LZComp="FastForceLit" LitTableId="107"/>
+	<ArcFile FileName="FIELD_f108" FileType="Unknown" Enum="Field_f108" LZComp="FastForceLit" LitTableId="108"/>
+	<ArcFile FileName="FIELD_f109" FileType="Unknown" Enum="Field_f109" LZComp="FastForceLit" LitTableId="109"/>
+	<ArcFile FileName="FIELD_f110" FileType="Unknown" Enum="Field_f110" LZComp="FastForceLit" LitTableId="110"/>
+	<ArcFile FileName="FIELD_f111" FileType="Unknown" Enum="Field_f111" LZComp="FastForceLit" LitTableId="111"/>
+	<ArcFile FileName="FIELD_f112" FileType="Unknown" Enum="Field_f112" LZComp="FastForceLit" LitTableId="112"/>
+	<ArcFile FileName="FIELD_f113" FileType="Unknown" Enum="Field_f113" LZComp="FastForceLit" LitTableId="113"/>
+	<ArcFile FileName="FIELD_f114" FileType="Unknown" Enum="Field_f114" LZComp="FastForceLit" LitTableId="114"/>
+	<ArcFile FileName="FIELD_f115" FileType="Unknown" Enum="Field_f115" LZComp="FastForceLit" LitTableId="115"/>
+	<ArcFile FileName="FIELD_f116" FileType="Unknown" Enum="Field_f116" LZComp="FastForceLit" LitTableId="116"/>
+	<ArcFile FileName="FIELD_f117" FileType="Unknown" Enum="Field_f117" LZComp="FastForceLit" LitTableId="117"/>
+	<ArcFile FileName="FIELD_f118" FileType="Unknown" Enum="Field_f118" LZComp="FastForceLit" LitTableId="118"/>
+	<ArcFile FileName="FIELD_f119" FileType="Unknown" Enum="Field_f119" LZComp="FastForceLit" LitTableId="119"/>
+	<ArcFile FileName="FIELD_f120" FileType="Unknown" Enum="Field_f120" LZComp="FastForceLit" LitTableId="120"/>
+	<ArcFile FileName="FIELD_f121" FileType="Unknown" Enum="Field_f121" LZComp="FastForceLit" LitTableId="121"/>
+	<ArcFile FileName="FIELD_f122" FileType="Unknown" Enum="Field_f122" LZComp="FastForceLit" LitTableId="122"/>
+	<ArcFile FileName="FIELD_f123" FileType="Unknown" Enum="Field_f123" LZComp="FastForceLit" LitTableId="123"/>
+	<ArcFile FileName="FIELD_f124" FileType="Unknown" Enum="Field_f124" LZComp="FastForceLit" LitTableId="124"/>
+	<ArcFile FileName="FIELD_f125" FileType="Unknown" Enum="Field_f125" LZComp="FastForceLit" LitTableId="125"/>
+	<ArcFile FileName="FIELD_f126" FileType="Unknown" Enum="Field_f126" LZComp="FastForceLit" LitTableId="126"/>
+	<ArcFile FileName="FIELD_f127" FileType="Unknown" Enum="Field_f127" LZComp="FastForceLit" LitTableId="127"/>
+	<ArcFile FileName="FIELD_f128" FileType="Unknown" Enum="Field_f128" LZComp="FastForceLit" LitTableId="128"/>
+	<ArcFile FileName="FIELD_f129" FileType="Unknown" Enum="Field_f129" LZComp="FastForceLit" LitTableId="129"/>
+	<ArcFile FileName="FIELD_f130" FileType="Unknown" Enum="Field_f130" LZComp="FastForceLit" LitTableId="130"/>
+	<ArcFile FileName="FIELD_f131" FileType="Unknown" Enum="Field_f131" LZComp="FastForceLit" LitTableId="131"/>
+	<ArcFile FileName="FIELD_f132" FileType="Unknown" Enum="Field_f132" LZComp="FastForceLit" LitTableId="132"/>
+	<ArcFile FileName="FIELD_f133" FileType="Unknown" Enum="Field_f133" LZComp="FastForceLit" LitTableId="133"/>
+	<ArcFile FileName="FIELD_f134" FileType="Unknown" Enum="Field_f134" LZComp="FastForceLit" LitTableId="134"/>
+	<ArcFile FileName="FIELD_f135" FileType="Unknown" Enum="Field_f135" LZComp="FastForceLit" LitTableId="135"/>
+	<ArcFile FileName="FIELD_f136" FileType="Unknown" Enum="Field_f136" LZComp="FastForceLit" LitTableId="136"/>
+	<ArcFile FileName="FIELD_f137" FileType="Unknown" Enum="Field_f137" LZComp="FastForceLit" LitTableId="137"/>
+	<ArcFile FileName="FIELD_f138" FileType="Unknown" Enum="Field_f138" LZComp="FastForceLit" LitTableId="138"/>
+	<ArcFile FileName="FIELD_f139" FileType="Unknown" Enum="Field_f139" LZComp="FastForceLit" LitTableId="139"/>
+	<ArcFile FileName="FIELD_f140" FileType="Unknown" Enum="Field_f140" LZComp="FastForceLit" LitTableId="140"/>
+	<ArcFile FileName="FIELD_f141" FileType="Unknown" Enum="Field_f141" LZComp="FastForceLit" LitTableId="141"/>
+	<ArcFile FileName="FIELD_f142" FileType="Unknown" Enum="Field_f142" LZComp="FastForceLit" LitTableId="142"/>
+	<ArcFile FileName="FIELD_f143" FileType="Unknown" Enum="Field_f143" LZComp="FastForceLit" LitTableId="143"/>
+	<ArcFile FileName="FIELD_f144" FileType="Unknown" Enum="Field_f144" LZComp="FastForceLit" LitTableId="144"/>
+	<ArcFile FileName="FIELD_f145" FileType="Unknown" Enum="Field_f145" LZComp="FastForceLit" LitTableId="145"/>
+	<ArcFile FileName="FIELD_f146" FileType="Unknown" Enum="Field_f146" LZComp="FastForceLit" LitTableId="146"/>
+	<ArcFile FileName="FIELD_f147" FileType="Unknown" Enum="Field_f147" LZComp="FastForceLit" LitTableId="147"/>
+	<ArcFile FileName="FIELD_f148" FileType="Unknown" Enum="Field_f148" LZComp="FastForceLit" LitTableId="148"/>
+	<ArcFile FileName="FIELD_f149" FileType="Unknown" Enum="Field_f149" LZComp="FastForceLit" LitTableId="149"/>
+	<ArcFile FileName="FIELD_f150" FileType="Unknown" Enum="Field_f150" LZComp="FastForceLit" LitTableId="150"/>
+	<ArcFile FileName="FIELD_f151" FileType="Unknown" Enum="Field_f151" LZComp="FastForceLit" LitTableId="151"/>
+	<ArcFile FileName="FIELD_f152" FileType="Unknown" Enum="Field_f152" LZComp="FastForceLit" LitTableId="152"/>
+	<ArcFile FileName="FIELD_f153" FileType="Unknown" Enum="Field_f153" LZComp="FastForceLit" LitTableId="153"/>
+	<ArcFile FileName="FIELD_f154" FileType="Unknown" Enum="Field_f154" LZComp="FastForceLit" LitTableId="154"/>
+	<ArcFile FileName="FIELD_f155" FileType="Unknown" Enum="Field_f155" LZComp="FastForceLit" LitTableId="155"/>
+	<ArcFile FileName="FIELD_f156" FileType="Unknown" Enum="Field_f156" LZComp="FastForceLit" LitTableId="156"/>
+	<ArcFile FileName="FIELD_f157" FileType="Unknown" Enum="Field_f157" LZComp="FastForceLit" LitTableId="157"/>
+	<ArcFile FileName="FIELD_f158" FileType="Unknown" Enum="Field_f158" LZComp="FastForceLit" LitTableId="158"/>
+	<ArcFile FileName="FIELD_f159" FileType="Unknown" Enum="Field_f159" LZComp="FastForceLit" LitTableId="159"/>
+	<ArcFile FileName="FIELD_f160" FileType="Unknown" Enum="Field_f160" LZComp="FastForceLit" LitTableId="160"/>
+	<ArcFile FileName="FIELD_f161" FileType="Unknown" Enum="Field_f161" LZComp="FastForceLit" LitTableId="161"/>
+	<ArcFile FileName="FIELD_f162" FileType="Unknown" Enum="Field_f162" LZComp="FastForceLit" LitTableId="162"/>
+	<ArcFile FileName="FIELD_f163" FileType="Unknown" Enum="Field_f163" LZComp="FastForceLit" LitTableId="163"/>
+	<ArcFile FileName="FIELD_f164" FileType="Unknown" Enum="Field_f164" LZComp="FastForceLit" LitTableId="164"/>
+	<ArcFile FileName="FIELD_f165" FileType="Unknown" Enum="Field_f165" LZComp="FastForceLit" LitTableId="165"/>
+	<ArcFile FileName="FIELD_f166" FileType="Unknown" Enum="Field_f166" LZComp="FastForceLit" LitTableId="166"/>
+	<ArcFile FileName="FIELD_f167" FileType="Unknown" Enum="Field_f167" LZComp="FastForceLit" LitTableId="167"/>
+	<ArcFile FileName="FIELD_f168" FileType="Unknown" Enum="Field_f168" LZComp="FastForceLit" LitTableId="168"/>
+	<ArcFile FileName="FIELD_f169" FileType="Unknown" Enum="Field_f169" LZComp="FastForceLit" LitTableId="169"/>
+	<ArcFile FileName="FIELD_f170" FileType="Unknown" Enum="Field_f170" LZComp="FastForceLit" LitTableId="170"/>
+	<ArcFile FileName="FIELD_f171" FileType="Unknown" Enum="Field_f171" LZComp="FastForceLit" LitTableId="171"/>
+	<ArcFile FileName="FIELD_f172" FileType="Unknown" Enum="Field_f172" LZComp="FastForceLit" LitTableId="172"/>
+	<ArcFile FileName="FIELD_f173" FileType="Unknown" Enum="Field_f173" LZComp="FastForceLit" LitTableId="173"/>
+	<ArcFile FileName="FIELD_f174" FileType="Unknown" Enum="Field_f174" LZComp="FastForceLit" LitTableId="174"/>
+	<ArcFile FileName="FIELD_f175" FileType="Unknown" Enum="Field_f175" LZComp="FastForceLit" LitTableId="175"/>
+	<ArcFile FileName="FIELD_f176" FileType="Unknown" Enum="Field_f176" LZComp="FastForceLit" LitTableId="176"/>
+	<ArcFile FileName="FIELD_f177" FileType="Unknown" Enum="Field_f177" LZComp="FastForceLit" LitTableId="177"/>
+	<ArcFile FileName="FIELD_f178" FileType="Unknown" Enum="Field_f178" LZComp="FastForceLit" LitTableId="178"/>
+	<ArcFile FileName="FIELD_f179" FileType="Unknown" Enum="Field_f179" LZComp="FastForceLit" LitTableId="179"/>
+	<ArcFile FileName="FIELD_f180" FileType="Unknown" Enum="Field_f180" LZComp="FastForceLit" LitTableId="180"/>
+	<ArcFile FileName="FIELD_f181" FileType="Unknown" Enum="Field_f181" LZComp="FastForceLit" LitTableId="181"/>
+	<ArcFile FileName="FIELD_f182" FileType="Unknown" Enum="Field_f182" LZComp="FastForceLit" LitTableId="182"/>
+	<ArcFile FileName="FIELD_f183" FileType="Unknown" Enum="Field_f183" LZComp="FastForceLit" LitTableId="183"/>
+	<ArcFile FileName="FIELD_f184" FileType="Unknown" Enum="Field_f184" LZComp="FastForceLit" LitTableId="184"/>
+	<ArcFile FileName="FIELD_f185" FileType="Unknown" Enum="Field_f185" LZComp="FastForceLit" LitTableId="185"/>
+	<ArcFile FileName="FIELD_f186" FileType="Unknown" Enum="Field_f186" LZComp="FastForceLit" LitTableId="186"/>
+	<ArcFile FileName="FIELD_f187" FileType="Unknown" Enum="Field_f187" LZComp="FastForceLit" LitTableId="187"/>
+	<ArcFile FileName="FIELD_f188" FileType="Unknown" Enum="Field_f188" LZComp="FastForceLit" LitTableId="188"/>
+	<ArcFile FileName="FIELD_f189" FileType="Unknown" Enum="Field_f189" LZComp="FastForceLit" LitTableId="189"/>
+	<ArcFile FileName="FIELD_f190" FileType="Unknown" Enum="Field_f190" LZComp="FastForceLit" LitTableId="190"/>
 	<ArcFile/>
 </ArcSpec>
