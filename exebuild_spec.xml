@@ -1,0 +1,2246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExeBuild>
+	<Module Name="Main" IsSys="False" Optimization="O2">
+		<MatchAddr Text="8003961c" RoData="80010000" Data="800e1e84" SData="800fe874" SBss="800fea48" Bss="800feb28"/>
+		<AsmBuild>
+			<Text>"asm/text/Main.s"</Text>
+			<RoData>"asm/data/Main.rodata.s"</RoData>
+			<Data>"asm/data/Main.data.s"</Data>
+			<SData>"asm/data/Main.sdata.s"</SData>
+			<SBss>"asm/data/Main.sbss.s"</SBss>
+			<Bss>"asm/data/Main.bss.s"</Bss>
+		</AsmBuild>
+	</Module>
+	<Module Name="Pad" IsSys="False" Optimization="O2">
+		<MatchAddr Text="8003af4c" SData="800fe880" SBss="800fea70" Bss="800ffb80"/>
+		<AsmBuild>
+			<Text>"asm/text/Pad.s"</Text>
+			<SData>"asm/data/Pad.sdata.s"</SData>
+			<SBss>"asm/data/Pad.sbss.s"</SBss>
+			<Bss>"asm/data/Pad.bss.s"</Bss>
+		</AsmBuild>
+	</Module>
+	<Module Name="ResMovie" IsSys="False">
+		<MatchAddr Data="800e1eac"/>
+		<CCompile Optimization="O2">
+			<Src>"src/res/ResMovie.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="CdFiles" IsSys="False">
+		<MatchAddr Text="8003c1cc" RoData="80010004" Data="800e1f68" SData="800fe888" SBss="800fea7c" Bss="800ffd08"/>
+		<CCompile Optimization="O2" AsmAdj="True">
+			<Src>"src/CdFiles.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="Audio" IsSys="False" Optimization="O2">
+		<MatchAddr Text="800405a4" RoData="80010144" Data="800e2004" Bss="800fff10"/>
+		<AsmBuild>
+			<Text>"asm/text/Audio.s"</Text>
+			<RoData>"asm/data/Audio.rodata.s"</RoData>
+			<Data>"asm/data/Audio.data.s"</Data>
+			<Bss>"asm/data/Audio.bss.s"</Bss>
+		</AsmBuild>
+	</Module>
+	<Module Name="GfxA" IsSys="False" Optimization="O2">
+		<MatchAddr Text="800427e0" RoData="800101a4" Data="800e2064" SData="800fe894" SBss="800fea90" Bss="80100b48"/>
+		<AsmBuild>
+			<Text>"asm/text/GfxA.s"</Text>
+			<RoData>"asm/data/GfxA.rodata.s"</RoData>
+			<Data>"asm/data/GfxA.data.s"</Data>
+			<SData>"asm/data/GfxA.sdata.s"</SData>
+			<SBss>"asm/data/GfxA.sbss.s"</SBss>
+			<Bss>"asm/data/GfxA.bss.s"</Bss>
+		</AsmBuild>
+	</Module>
+	<Module Name="ResVoice" IsSys="False">
+		<MatchAddr Data="800e20e4"/>
+		<CCompile Optimization="O2">
+			<Src>"src/res/ResVoice.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="ResBgm" IsSys="False" Optimization="O2">
+		<MatchAddr Data="800e88a8"/>
+		<CCompile Optimization="O2">
+			<Src>"src/res/ResBgm.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="ResSe" IsSys="False" Optimization="O2">
+		<MatchAddr Data="800e8ae8"/>
+		<CCompile Optimization="O2">
+			<Src>"src/res/ResSe.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="ResSystem" IsSys="False" Optimization="O2">
+		<MatchAddr Data="800e8c28"/>
+		<CCompile Optimization="O2">
+			<Src>"src/res/ResSystem.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="ResFace" IsSys="False" Optimization="O2">
+		<MatchAddr Data="800e8fa8"/>
+		<CCompile Optimization="O2">
+			<Src>"src/res/ResFace.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="ResScreen" IsSys="False" Optimization="O2">
+		<MatchAddr Data="800e95a8"/>
+		<CCompile Optimization="O2">
+			<Src>"src/res/ResScreen.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="ResUnit" IsSys="False" Optimization="O2">
+		<MatchAddr Data="800e9e28"/>
+		<CCompile Optimization="O2">
+			<Src>"src/res/ResUnit.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="ResSce" IsSys="False" Optimization="O2">
+		<MatchAddr Data="800eae28"/>
+		<CCompile Optimization="O2">
+			<Src>"src/res/ResSce.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="ResField" IsSys="False" Optimization="O2">
+		<MatchAddr Data="800eb228"/>
+		<CCompile Optimization="O2">
+			<Src>"src/res/ResField.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="ResAnime" IsSys="False" Optimization="O2">
+		<MatchAddr Data="800eb828"/>
+		<CCompile Optimization="O2">
+			<Src>"src/res/ResAnime.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="ResEffect" IsSys="False" Optimization="O2">
+		<MatchAddr Data="800ec1a8"/>
+		<CCompile Optimization="O2">
+			<Src>"src/res/ResEffect.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="GfxC" IsSys="False" Optimization="O2">
+		<MatchAddr Text="80054994" Data="800ed4a8" SBss="800fea98"/>
+		<AsmBuild>
+			<Text>"asm/text/GfxC.s"</Text>
+			<Data>"asm/data/GfxC.data.s"</Data>
+			<SBss>"asm/data/GfxC.sbss.s"</SBss>
+		</AsmBuild>
+	</Module>
+	<Module Name="GfxB" IsSys="False" Optimization="O2">
+		<MatchAddr Text="80054b84" RoData="800113b8" Data="800ed584" SBss="800feaa0" Bss="801012c0"/>
+		<AsmBuild>
+			<Text>"asm/text/GfxB.s"</Text>
+			<RoData>"asm/data/GfxB.rodata.s"</RoData>
+			<Data>"asm/data/GfxB.data.s"</Data>
+			<SBss>"asm/data/GfxB.sbss.s"</SBss>
+			<Bss>"asm/data/GfxB.bss.s"</Bss>
+		</AsmBuild>
+	</Module>
+	<Module Name="UNKData5" IsSys="False" Optimization="O2">
+		<MatchAddr Data="800ed5b4"/>
+		<CCompile Optimization="O2">
+			<Src>"src/data/UNKData5.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="UNKData6" IsSys="False" Optimization="O2">
+		<MatchAddr Data="800fa754"/>
+		<CCompile Optimization="O2">
+			<Src>"src/data/UNKData6.c"</Src>
+		</CCompile>
+	</Module>
+	<Module Name="C6A" IsSys="False" Optimization="O2">
+		<MatchAddr Text="8005f298" RoData="80011484"/>
+		<AsmBuild>
+			<Text>"asm/text/C6A.s"</Text>
+			<RoData>"asm/data/C6A.rodata.s"</RoData>
+		</AsmBuild>
+	</Module>
+	<Module Name="C6C" IsSys="False" Optimization="O2">
+		<MatchAddr Text="800614d4" RoData="80011504" SData="800fe8c4"/>
+		<AsmBuild>
+			<Text>"asm/text/C6C.s"</Text>
+			<RoData>"asm/data/C6C.rodata.s"</RoData>
+			<SData>"asm/data/C6C.sdata.s"</SData>
+		</AsmBuild>
+	</Module>
+	<Module Name="C6D" IsSys="False" Optimization="O2">
+		<MatchAddr Text="80066da0" RoData="80011bcc" SData="800fe918" SBss="800feaa8" Bss="80108ac0"/>
+		<AsmBuild>
+			<Text>"asm/text/C6D.s"</Text>
+			<RoData>"asm/data/C6D.rodata.s"</RoData>
+			<SData>"asm/data/C6D.sdata.s"</SData>
+			<SBss>"asm/data/C6D.sbss.s"</SBss>
+			<Bss>"asm/data/C6D.bss.s"</Bss>
+		</AsmBuild>
+	</Module>
+	<Module Name="Heap" IsSys="False" Optimization="O2">
+		<MatchAddr Text="800711a8" SData="800fe948" SBss="800fead4" Bss="8010a260"/>
+		<AsmBuild>
+			<Text>"asm/text/Heap.s"</Text>
+			<SData>"asm/data/Heap.sdata.s"</SData>
+			<SBss>"asm/data/Heap.sbss.s"</SBss>
+			<Bss>"asm/data/Heap.bss.s"</Bss>
+		</AsmBuild>
+	</Module>
+	<Module Name="MCSave" IsSys="False" Optimization="O2">
+		<MatchAddr Text="80072064" RoData="80012260" Data="800fa7a4" SBss="800feae4" Bss="8010a5a0"/>
+		<AsmBuild>
+			<Text>"asm/text/MCSave.s"</Text>
+			<RoData>"asm/data/MCSave.rodata.s"</RoData>
+			<Data>"asm/data/MCSave.data.s"</Data>
+			<SBss>"asm/data/MCSave.sbss.s"</SBss>
+			<Bss>"asm/data/MCSave.bss.s"</Bss>
+		</AsmBuild>
+	</Module>
+	<Module Name="CBMain" IsSys="False" Optimization="O2">
+		<MatchAddr Text="80076ef8" Data="800fa7b4"/>
+		<AsmBuild>
+			<Text>"asm/text/CBMain.s"</Text>
+			<Data>"asm/data/CBMain.data.s"</Data>
+		</AsmBuild>
+	</Module>
+	<Module Name="MCCB" IsSys="False" Optimization="O2">
+		<MatchAddr Text="80077cd0" RoData="80035714" Data="800facb4" SData="800fe950"/>
+		<AsmBuild>
+			<Text>"asm/text/MCCB.s"</Text>
+			<RoData>"asm/data/MCCB.rodata.s"</RoData>
+			<Data>"asm/data/MCCB.data.s"</Data>
+			<SData>"asm/data/MCCB.sdata.s"</SData>
+		</AsmBuild>
+	</Module>
+	<Module Name="C_Seven" IsSys="False" Optimization="O2">
+		<MatchAddr Text="8007dc94" RoData="80035900"/>
+		<AsmBuild>
+			<Text>"asm/text/C_Seven.s"</Text>
+			<RoData>"asm/data/C_Seven.rodata.s"</RoData>
+		</AsmBuild>
+	</Module>
+	<Module Name="C_Eight" IsSys="False" Optimization="O2">
+		<MatchAddr Text="8007eeb0" RoData="80035940" Data="800fad94" SData="800fe958" SBss="800feaec"/>
+		<AsmBuild>
+			<Text>"asm/text/C_Eight.s"</Text>
+			<RoData>"asm/data/C_Eight.rodata.s"</RoData>
+			<Data>"asm/data/C_Eight.data.s"</Data>
+			<SData>"asm/data/C_Eight.sdata.s"</SData>
+			<SBss>"asm/data/C_Eight.sbss.s"</SBss>
+		</AsmBuild>
+	</Module>
+	<Module Name="C_Nine" IsSys="False" Optimization="O2">
+		<MatchAddr Text="800877d4" RoData="80036118" Data="800faee0" SData="800fe98c" SBss="800feaf0"/>
+		<AsmBuild>
+			<Text>"asm/text/C_Nine.s"</Text>
+			<RoData>"asm/data/C_Nine.rodata.s"</RoData>
+			<Data>"asm/data/C_Nine.data.s"</Data>
+			<SData>"asm/data/C_Nine.sdata.s"</SData>
+			<SBss>"asm/data/C_Nine.sbss.s"</SBss>
+		</AsmBuild>
+	</Module>
+	<Module Name="C_AA" IsSys="False" Optimization="O2">
+		<MatchAddr Text="8009375c" RoData="80036864" Data="800fb070" SData="800fe9ac" SBss="800feaf8"/>
+		<AsmBuild>
+			<Text>"asm/text/C_AA.s"</Text>
+			<RoData>"asm/data/C_AA.rodata.s"</RoData>
+			<Data>"asm/data/C_AA.data.s"</Data>
+			<SData>"asm/data/C_AA.sdata.s"</SData>
+			<SBss>"asm/data/C_AA.sbss.s"</SBss>
+		</AsmBuild>
+	</Module>
+	<Module Name="C_AB" IsSys="False" Optimization="O2">
+		<MatchAddr Text="800ae794" RoData="80038604"/>
+		<AsmBuild>
+			<Text>"asm/text/C_AB.s"</Text>
+			<RoData>"asm/data/C_AB.rodata.s"</RoData>
+		</AsmBuild>
+	</Module>
+	<Module Name="C_AD" IsSys="False" Optimization="O2">
+		<MatchAddr Text="800aff58"/>
+		<AsmBuild>
+			<Text>"asm/text/C_AD.s"</Text>
+		</AsmBuild>
+	</Module>
+	<Module Name="C_AC" IsSys="False" Optimization="O2">
+		<MatchAddr Text="800b04ac" RoData="800386a4" SData="800fe9d4"/>
+		<AsmBuild>
+			<Text>"asm/text/C_AC.s"</Text>
+			<RoData>"asm/data/C_AC.rodata.s"</RoData>
+			<SData>"asm/data/C_AC.sdata.s"</SData>
+		</AsmBuild>
+	</Module>
+	<Module Name="C_BA" IsSys="False" Optimization="O2">
+		<MatchAddr Text="800b28a4" RoData="800386c8" Data="800fb290" SData="800fe9dc"/>
+		<AsmBuild>
+			<Text>"asm/text/C_BA.s"</Text>
+			<RoData>"asm/data/C_BA.rodata.s"</RoData>
+			<Data>"asm/data/C_BA.data.s"</Data>
+			<SData>"asm/data/C_BA.sdata.s"</SData>
+		</AsmBuild>
+	</Module>
+	<Module Name="C_BB" IsSys="False" Optimization="O2">
+		<MatchAddr Text="800b54b4" RoData="80038710" Data="800fb344" SData="800fe9f0" SBss="800feb20"/>
+		<AsmBuild>
+			<Text>"asm/text/C_BB.s"</Text>
+			<RoData>"asm/data/C_BB.rodata.s"</RoData>
+			<Data>"asm/data/C_BB.data.s"</Data>
+			<SData>"asm/data/C_BB.sdata.s"</SData>
+			<SBss>"asm/data/C_BB.sbss.s"</SBss>
+		</AsmBuild>
+	</Module>
+	<Module Name="C_CA" IsSys="False" Optimization="O2">
+		<MatchAddr Text="800bdaf8" Data="800fb408" SData="800fea04"/>
+		<AsmBuild>
+			<Text>"asm/text/C_CA.s"</Text>
+			<Data>"asm/data/C_CA.data.s"</Data>
+			<SData>"asm/data/C_CA.sdata.s"</SData>
+		</AsmBuild>
+	</Module>
+	<Module Name="C_CB" IsSys="False" Optimization="O2">
+		<MatchAddr Text="800c0b5c" RoData="80038920" SBss="800feb24" Bss="8010a9e0"/>
+		<AsmBuild>
+			<Text>"asm/text/C_CB.s"</Text>
+			<RoData>"asm/data/C_CB.rodata.s"</RoData>
+			<SBss>"asm/data/C_CB.sbss.s"</SBss>
+			<Bss>"asm/data/C_CB.bss.s"</Bss>
+		</AsmBuild>
+	</Module>
+	<Module Name="C_CC" IsSys="False" Optimization="O2">
+		<MatchAddr Text="800c2d44" RoData="80038a50" Data="800fb4ac" SData="800fea0c" Bss="8010aa20"/>
+		<AsmBuild>
+			<Text>"asm/text/C_CC.s"</Text>
+			<RoData>"asm/data/C_CC.rodata.s"</RoData>
+			<Data>"asm/data/C_CC.data.s"</Data>
+			<SData>"asm/data/C_CC.sdata.s"</SData>
+			<Bss>"asm/data/C_CC.bss.s"</Bss>
+		</AsmBuild>
+	</Module>
+	<Module Name="C_CD" IsSys="False" Optimization="O2">
+		<MatchAddr Text="800c4688"/>
+		<AsmBuild>
+			<Text>"asm/text/C_CD.s"</Text>
+		</AsmBuild>
+	</Module>
+	<SysLib Name="LibMath">
+		<Module Name="FIXDFSI" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c46d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/FIXDFSI.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DBSHIFT" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c47d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/DBSHIFT.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="FIXUDFSI" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c4898"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/FIXUDFSI.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="FLTSIDF" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c4998"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/FLTSIDF.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DBSHIFTU" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c4ab8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/DBSHIFTU.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="FLTSISF" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c4b78"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/FLTSISF.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="LESF2" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c4c48"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/LESF2.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="FERR" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c4cf8" Data="800fb4c4"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/FERR.s"</Text>
+				<Data>"asm/data/psx/LibMath/FERR.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="SQRT" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c4d68" RoData="80038a8c"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/SQRT.s"</Text>
+				<RoData>"asm/data/psx/LibMath/SQRT.rodata.s"</RoData>
+			</AsmBuild>
+		</Module>
+		<Module Name="ADDDF3" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c4ea8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/ADDDF3.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="ADDMANT" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c5228"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/ADDMANT.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DIVDF3" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c52d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/DIVDF3.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="GTDF2" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c5608"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/GTDF2.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="LTDF2" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c56e8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/LTDF2.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="MAINASU" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c57c8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/MAINASU.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="MULDF3" LibName="LibMath" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c5838"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMath/MULDF3.s"</Text>
+			</AsmBuild>
+		</Module>
+	</SysLib>
+	<SysLib Name="LibPad">
+		<Module Name="PDCMD1" LibName="LibPad" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c5c38"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibPad/PDCMD1.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="PDCMD2" LibName="LibPad" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c5c78"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibPad/PDCMD2.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="PDCMD3" LibName="LibPad" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c5de8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibPad/PDCMD3.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="PDENT2" LibName="LibPad" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c5f48"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibPad/PDENT2.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="PDENT3" LibName="LibPad" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c6018"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibPad/PDENT3.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="PDMAIINI" LibName="LibPad" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c6118" Data="800fb4d4"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibPad/PDMAIINI.s"</Text>
+				<Data>"asm/data/psx/LibPad/PDMAIINI.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="PDDIRINI" LibName="LibPad" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c6228"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibPad/PDDIRINI.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="PDDIRRES" LibName="LibPad" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c62d8" Data="800fb4e4" Bss="8010aab8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibPad/PDDIRRES.s"</Text>
+				<Data>"asm/data/psx/LibPad/PDDIRRES.data.s"</Data>
+				<Bss>"asm/data/psx/LibPad/PDDIRRES.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="PDRESRES" LibName="LibPad" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c6d80" Data="800fb4f4" Bss="8010ad28"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibPad/PDRESRES.s"</Text>
+				<Data>"asm/data/psx/LibPad/PDRESRES.data.s"</Data>
+				<Bss>"asm/data/psx/LibPad/PDRESRES.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+	</SysLib>
+	<SysLib Name="LibMemCard">
+		<Module Name="INIT" LibName="LibMcrd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c8b88" Data="800fb5a4"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMcrd/INIT.s"</Text>
+				<Data>"asm/data/psx/LibMcrd/INIT.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="C112" LibName="LibCard" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c8bd8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCard/C112.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="INIT" LibName="LibCard" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c8be8" Data="800fb5b4"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCard/INIT.s"</Text>
+				<Data>"asm/data/psx/LibCard/INIT.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="A74" LibName="LibCard" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c8ce8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCard/A74.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A75" LibName="LibCard" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c8cf8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCard/A75.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A76" LibName="LibCard" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c8d08"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCard/A76.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="PATCH" LibName="LibCard" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c8d18" Bss="8010ad40"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCard/PATCH.s"</Text>
+				<Bss>"asm/data/psx/LibCard/PATCH.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="END" LibName="LibCard" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c8f38" Bss="8010ad50"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCard/END.s"</Text>
+				<Bss>"asm/data/psx/LibCard/END.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="LIBMCRD" LibName="LibMcrd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800c8fb8" RoData="80038a9c" Data="800fb5c4" Bss="8010ad60"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMcrd/LIBMCRD.s"</Text>
+				<RoData>"asm/data/psx/LibMcrd/LIBMCRD.rodata.s"</RoData>
+				<Data>"asm/data/psx/LibMcrd/LIBMCRD.data.s"</Data>
+				<Bss>"asm/data/psx/LibMcrd/LIBMCRD.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="C171" LibName="LibCard" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ca888"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCard/C171.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C172" LibName="LibCard" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ca898"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCard/C172.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CARD" LibName="LibCard" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ca8a8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCard/CARD.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A78" LibName="LibCard" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ca8e8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCard/A78.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A80" LibName="LibCard" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ca8f8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCard/A80.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="USERFUNC" LibName="LibMcrd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ca908" RoData="80038c6c" Data="800fb5e4" Bss="8010adf0"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMcrd/USERFUNC.s"</Text>
+				<RoData>"asm/data/psx/LibMcrd/USERFUNC.rodata.s"</RoData>
+				<Data>"asm/data/psx/LibMcrd/USERFUNC.data.s"</Data>
+				<Bss>"asm/data/psx/LibMcrd/USERFUNC.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="BIOS" LibName="LibMcrd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800caa18" Bss="8010ae40"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMcrd/BIOS.s"</Text>
+				<Bss>"asm/data/psx/LibMcrd/BIOS.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="LOW" LibName="LibMcrd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cb0c8" RoData="80038c8c" Bss="8010ae80"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMcrd/LOW.s"</Text>
+				<RoData>"asm/data/psx/LibMcrd/LOW.rodata.s"</RoData>
+				<Bss>"asm/data/psx/LibMcrd/LOW.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="A79" LibName="LibCard" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cbb58"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCard/A79.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="UNFORMAT" LibName="LibMcrd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cbb68" RoData="80038c9c"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibMcrd/UNFORMAT.s"</Text>
+				<RoData>"asm/data/psx/LibMcrd/UNFORMAT.rodata.s"</RoData>
+			</AsmBuild>
+		</Module>
+	</SysLib>
+	<SysLib Name="LibSound">
+		<Module Name="S_CRWA" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cbc18"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_CRWA.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SPU" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cbdb8" RoData="80038cbc" Data="800fb5f4" Bss="8010b140"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/SPU.s"</Text>
+				<RoData>"asm/data/psx/LibSpu/SPU.rodata.s"</RoData>
+				<Data>"asm/data/psx/LibSpu/SPU.data.s"</Data>
+				<Bss>"asm/data/psx/LibSpu/SPU.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_INI" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cc8f8" Data="800fb654"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_INI.s"</Text>
+				<Data>"asm/data/psx/LibSpu/S_INI.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_DCB" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cca58"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_DCB.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_M_UTIL" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cca88"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_M_UTIL.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_STM" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ccb98"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_STM.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_SCCV" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ccbc8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_SCCV.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_SCCM" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ccbe8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_SCCM.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_M" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Data="800fb6d4"/>
+			<AsmBuild>
+				<Data>"asm/data/psx/LibSpu/S_M.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="ZEROBUF" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Data="800fb6e4"/>
+			<AsmBuild>
+				<Data>"asm/data/psx/LibSpu/ZEROBUF.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="RMP0" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Data="800fbae4"/>
+			<AsmBuild>
+				<Data>"asm/data/psx/LibSpu/RMP0.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="RMP1" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Data="800fbb14"/>
+			<AsmBuild>
+				<Data>"asm/data/psx/LibSpu/RMP1.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSACCELE" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ccc28"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSACCELE.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSCALL" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cce68"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSCALL.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CRES" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cd0d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/CRES.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="PAUSE" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cd2e8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/PAUSE.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="PLAY" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cd388"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/PLAY.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="MIDIREAD" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cd3b8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/MIDIREAD.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="MIDITIME" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cdaa8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/MIDITIME.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="NEXT" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cdb58"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/NEXT.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="REPLAY" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cdc58"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/REPLAY.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSCLOSE" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cdcb8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSCLOSE.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSCRES" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cde88"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSCRES.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSDECRES" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ce048"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSDECRES.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSEND" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ce218"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSEND.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSINIT_C" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ce2c8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSINIT_C.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSISEOS" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ce3c8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSISEOS.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSOPENQ" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ce408" RoData="80038d0c"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSOPENQ.s"</Text>
+				<RoData>"asm/data/psx/LibSnd/SSOPENQ.rodata.s"</RoData>
+			</AsmBuild>
+		</Module>
+		<Module Name="CC_0" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ce698"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/CC_0.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CC_6" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ce718"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/CC_6.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CC_7" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cea98"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/CC_7.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CC_10" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ceb68"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/CC_10.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CC_11" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cec38"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/CC_11.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CC_64" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800ced28"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/CC_64.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CC_91" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cedd8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/CC_91.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CC_98" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cee68"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/CC_98.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CC_99" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cef68"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/CC_99.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CC_100" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf0a8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/CC_100.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CC_101" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf118"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/CC_101.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CC_121" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf188"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/CC_121.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_0" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf248"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_0.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_1" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf2d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_1.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_2" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf398"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_2.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_3" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf428"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_3.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_4" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf4b8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_4.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CCADSR" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf568"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/CCADSR.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_5" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf668"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_5.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_6" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf728"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_6.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_7" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf7d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_7.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_8" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf888"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_8.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_9" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf938"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_9.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_10" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cf9f8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_10.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_11" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cfaa8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_11.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_12" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cfb58"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_12.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_13" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cfc38"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_13.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_14" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cfcd8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_14.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_15" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cfd78"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_15.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_16" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cfda8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_16.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_17" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cfdd8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_17.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_18" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cfe08"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_18.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="DE_19" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cfe38"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/DE_19.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="MIDIBEND" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cfe68"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/MIDIBEND.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="MIDICC" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800cff18"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/MIDICC.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="MIDIMETA" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d0148"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/MIDIMETA.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="MIDINOTE" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d0318"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/MIDINOTE.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="MIDIPROG" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d03f8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/MIDIPROG.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SEQINIT" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d0468" RoData="80038d3c"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SEQINIT.s"</Text>
+				<RoData>"asm/data/psx/LibSnd/SEQINIT.rodata.s"</RoData>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSPAUSE" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d07b8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSPAUSE.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSPLAY" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d08d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSPLAY.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSPLAYB" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d0918"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSPLAYB.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSQUIT" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d09d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSQUIT.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_Q" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d09f8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_Q.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSREPLAY" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d0a78"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSREPLAY.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="PLAYMODE" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d0b68"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/PLAYMODE.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSSATTR" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d0c88"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSSATTR.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_SCA" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d0d48" RoData="80038d7c"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_SCA.s"</Text>
+				<RoData>"asm/data/psx/LibSpu/S_SCA.rodata.s"</RoData>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSSMV" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d10c8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSSMV.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSSTART" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d1118" Data="800fbb44"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSSTART.s"</Text>
+				<Data>"asm/data/psx/LibSnd/SSSTART.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSSTOP" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d1428"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSSTOP.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSSV" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d1608"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSSV.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSTABLE" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d1718"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSTABLE.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSTICK" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d1938" RoData="80038dbc"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSTICK.s"</Text>
+				<RoData>"asm/data/psx/LibSnd/SSTICK.rodata.s"</RoData>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSVOL" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d1a88"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSVOL.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SSVOL_2" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d1c18"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/SSVOL_2.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="TEMPO" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d1c58"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/TEMPO.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VOL" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d1e78"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VOL.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="UT_AKO" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d1ee8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/UT_AKO.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_SVA" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d2038" RoData="80038ddc"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_SVA.s"</Text>
+				<RoData>"asm/data/psx/LibSpu/S_SVA.rodata.s"</RoData>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_N2P" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d2638" Data="800fbb64"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_N2P.s"</Text>
+				<Data>"asm/data/psx/LibSpu/S_N2P.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="UT_GPA" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d2838"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/UT_GPA.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="UT_GVA" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d2948"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/UT_GVA.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="UT_RDEL" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d2b88"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/UT_RDEL.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_SRMP" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d2bc8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_SRMP.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_SRA" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d30a8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_SRA.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="RMP2" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Data="800fbc84"/>
+			<AsmBuild>
+				<Data>"asm/data/psx/LibSpu/RMP2.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="UT_RDEP" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d3578"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/UT_RDEP.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="UT_REV" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d3608"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/UT_REV.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="UT_REV_2" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d36a8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/UT_REV_2.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="UT_RFB" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d3798"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/UT_RFB.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="UT_ROFF" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d37d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/UT_ROFF.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="UT_RON" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d37f8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/UT_RON.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="UT_SVA" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d3818"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/UT_SVA.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_DOFF" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d39e8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_DOFF.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_DON" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d39f8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_DON.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_F" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d3a08" Bss="8010b158"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_F.s"</Text>
+				<Bss>"asm/data/psx/LibSnd/VM_F.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_SNV" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d3ed8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_SNV.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_SAV" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d3f08"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_SAV.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_GNV" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d41c8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_GNV.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_GAV" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d41f8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_GAV.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_SRV" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d4228"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_SRV.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_GRV" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d4258"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_GRV.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_SK" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d4288"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_SK.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_GVEX" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d4448"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_GVEX.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_INIT" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d4468" Bss="8010ba80"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_INIT.s"</Text>
+				<Bss>"asm/data/psx/LibSnd/VM_INIT.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_M_INIT" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d47b8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_M_INIT.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_IT" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d4818"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_IT.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_KEY" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d4858"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_KEY.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_ALOC1" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d4ff8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_ALOC1.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_ALOC2" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d5268"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_ALOC2.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_N2P" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d5438" Data="800fbf34"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_N2P.s"</Text>
+				<Data>"asm/data/psx/LibSnd/VM_N2P.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_NO1" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d5618"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_NO1.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_SNC" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d5b88"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_SNC.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_NOFF" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d5bd8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_NOFF.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_NOWOF" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d5c18"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_NOWOF.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_NOWON" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d5cd8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_NOWON.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_PB" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d61a8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_PB.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_PROG2" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d6478"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_PROG2.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_SEQ" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d64e8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_SEQ.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_STAV" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d6b68"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_STAV.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_VOL" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d6c38"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_VOL.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VM_VSU" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d71d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VM_VSU.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VS_MONO" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d7298"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VS_MONO.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VS_SRV" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d72b8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VS_SRV.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VS_VAB" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d72e8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VS_VAB.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_M_F" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d7398"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_M_F.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_M_INT" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d7418"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_M_INT.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VS_VH2" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d7718"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VS_VH2.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_M_M" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d77b8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_M_M.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VS_VH" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d7a88"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VS_VH.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VS_VTBP" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d7ee8" Data="800fc054"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VS_VTBP.s"</Text>
+				<Data>"asm/data/psx/LibSnd/VS_VTBP.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_STSA" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d8078"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_STSA.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_WP" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d80d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_WP.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="VS_VTC" LibName="LibSnd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d8168"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSnd/VS_VTC.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_ITC" LibName="LibSpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d8198"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSpu/S_ITC.s"</Text>
+			</AsmBuild>
+		</Module>
+	</SysLib>
+	<SysLib Name="LibEtc">
+		<Module Name="VSYNC" LibName="LibEtc" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d8248" RoData="80038e1c" Data="800fc064"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibEtc/VSYNC.s"</Text>
+				<RoData>"asm/data/psx/LibEtc/VSYNC.rodata.s"</RoData>
+				<Data>"asm/data/psx/LibEtc/VSYNC.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="INTR" LibName="LibEtc" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d8458" RoData="80038e2c" Data="800fc084"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibEtc/INTR.s"</Text>
+				<RoData>"asm/data/psx/LibEtc/INTR.rodata.s"</RoData>
+				<Data>"asm/data/psx/LibEtc/INTR.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="INTR_VB" LibName="LibEtc" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d8b18" Data="800fd184"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibEtc/INTR_VB.s"</Text>
+				<Data>"asm/data/psx/LibEtc/INTR_VB.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="INTR_DMA" LibName="LibEtc" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d8c38" RoData="80038e9c" Data="800fd1b4"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibEtc/INTR_DMA.s"</Text>
+				<RoData>"asm/data/psx/LibEtc/INTR_DMA.rodata.s"</RoData>
+				<Data>"asm/data/psx/LibEtc/INTR_DMA.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="VMODE" LibName="LibEtc" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d8ed8" Data="800fd1e4"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibEtc/VMODE.s"</Text>
+				<Data>"asm/data/psx/LibEtc/VMODE.data.s"</Data>
+			</AsmBuild>
+		</Module>
+	</SysLib>
+	<SysLib Name="LibCd">
+		<Module Name="CDROM" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d8f08" Data="800fd1f4" Bss="8010c490"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/CDROM.s"</Text>
+				<Data>"asm/data/psx/LibCd/CDROM.data.s"</Data>
+				<Bss>"asm/data/psx/LibCd/CDROM.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="EVENT" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d8f38" RoData="80038ecc" Data="800fd204"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/EVENT.s"</Text>
+				<RoData>"asm/data/psx/LibCd/EVENT.rodata.s"</RoData>
+				<Data>"asm/data/psx/LibCd/EVENT.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="SYS" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d9088"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/SYS.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="ISO9660" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d9108" RoData="80038eec" Data="800fd214" Bss="8010c4d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/ISO9660.s"</Text>
+				<RoData>"asm/data/psx/LibCd/ISO9660.rodata.s"</RoData>
+				<Data>"asm/data/psx/LibCd/ISO9660.data.s"</Data>
+				<Bss>"asm/data/psx/LibCd/ISO9660.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="CDRead2" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d9a78"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/CDRead2.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C_002" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d9b28" Data="800fd224"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/C_002.s"</Text>
+				<Data>"asm/data/psx/LibCd/C_002.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="C_004" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d9b88" Data="800fd234"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/C_004.s"</Text>
+				<Data>"asm/data/psx/LibCd/C_004.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="C_005" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d9c78" Data="800fd244"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/C_005.s"</Text>
+				<Data>"asm/data/psx/LibCd/C_005.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="C_007" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d9d08" Data="800fd254"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/C_007.s"</Text>
+				<Data>"asm/data/psx/LibCd/C_007.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="C_008" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d9db8" Data="800fd264"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/C_008.s"</Text>
+				<Data>"asm/data/psx/LibCd/C_008.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="C_009" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d9df8" Data="800fd274"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/C_009.s"</Text>
+				<Data>"asm/data/psx/LibCd/C_009.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="C_010" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d9eb8" Data="800fd284"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/C_010.s"</Text>
+				<Data>"asm/data/psx/LibCd/C_010.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="C_011" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800d9ed8" RoData="800390dc" Data="800fd294" Bss="8010e8d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/C_011.s"</Text>
+				<RoData>"asm/data/psx/LibCd/C_011.rodata.s"</RoData>
+				<Data>"asm/data/psx/LibCd/C_011.data.s"</Data>
+				<Bss>"asm/data/psx/LibCd/C_011.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="BIOS_1" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800da9c8" RoData="800390fc" Data="800fd2e4" Bss="8010e900"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/BIOS_1.s"</Text>
+				<RoData>"asm/data/psx/LibCd/BIOS_1.rodata.s"</RoData>
+				<Data>"asm/data/psx/LibCd/BIOS_1.data.s"</Data>
+				<Bss>"asm/data/psx/LibCd/BIOS_1.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_002" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dbf48"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_002.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_009" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dc058"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_009.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_012" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dc078"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_012.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_013" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dc098"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_013.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_015" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dc0b8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_015.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_016" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dc0d8" Data="800fd5f4"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_016.s"</Text>
+				<Data>"asm/data/psx/LibCd/S_016.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_020" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dc498"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_020.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_021" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dc4b8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_021.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="BIOS_2" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dc4d8" Data="800fd674"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/BIOS_2.s"</Text>
+				<Data>"asm/data/psx/LibCd/BIOS_2.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_022" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dc5d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_022.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="BIOS_3" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dc5f8" Data="800fd694"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/BIOS_3.s"</Text>
+				<Data>"asm/data/psx/LibCd/BIOS_3.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_023" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dc6e8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_023.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_024" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dc718"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_024.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CDR_1" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dc738" RoData="8003935c" Data="800fd6b4"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/CDR_1.s"</Text>
+				<RoData>"asm/data/psx/LibCd/CDR_1.rodata.s"</RoData>
+				<Data>"asm/data/psx/LibCd/CDR_1.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_003" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dd0d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_003.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_004" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dd0e8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_004.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_006" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dd0f8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_006.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_008" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dd108"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_008.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="S_014" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dd128"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/S_014.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CDR_2" LibName="LibCd" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dd148"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibCd/CDR_2.s"</Text>
+			</AsmBuild>
+		</Module>
+	</SysLib>
+	<SysLib Name="LibGte">
+		<Module Name="COR_02" LibName="LibGte" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dd168"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGte/COR_02.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="COR_01" LibName="LibGte" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dd238" Data="800fd6f4"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGte/COR_01.s"</Text>
+				<Data>"asm/data/psx/LibGte/COR_01.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="COR_03" LibName="LibGte" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dd358"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGte/COR_03.s"</Text>
+			</AsmBuild>
+		</Module>
+	</SysLib>
+	<SysLib Name="LibGpu">
+		<Module Name="SYS" LibName="LibGpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800dd538" RoData="800393ac" Data="800fd714" Bss="8010e938"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGpu/SYS.s"</Text>
+				<RoData>"asm/data/psx/LibGpu/SYS.rodata.s"</RoData>
+				<Data>"asm/data/psx/LibGpu/SYS.data.s"</Data>
+				<Bss>"asm/data/psx/LibGpu/SYS.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="E03" LibName="LibGpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e0438"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGpu/E03.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="E04" LibName="LibGpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e04f8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGpu/E04.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="P00" LibName="LibGpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e0538"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGpu/P00.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="P07" LibName="LibGpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e0578"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGpu/P07.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="P10" LibName="LibGpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e05b8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGpu/P10.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="P14" LibName="LibGpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e05e8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGpu/P14.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="P16" LibName="LibGpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e0608"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGpu/P16.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="P17" LibName="LibGpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e0628"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGpu/P17.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="P18" LibName="LibGpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e0648"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGpu/P18.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="P22" LibName="LibGpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e0668"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGpu/P22.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="P26" LibName="LibGpu" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e0688"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibGpu/P26.s"</Text>
+			</AsmBuild>
+		</Module>
+	</SysLib>
+	<SysLib Name="LibPress">
+		<Module Name="LibPress" LibName="LibPress" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e06a8" RoData="800395cc" Data="800fd8b4"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibPress/LibPress.s"</Text>
+				<RoData>"asm/data/psx/LibPress/LibPress.rodata.s"</RoData>
+				<Data>"asm/data/psx/LibPress/LibPress.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="VLC_C" LibName="LibPress" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e0d38" Data="800fda04"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibPress/VLC_C.s"</Text>
+				<Data>"asm/data/psx/LibPress/VLC_C.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="BUILD" LibName="LibPress" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e10b8" Data="800fda34"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibPress/BUILD.s"</Text>
+				<Data>"asm/data/psx/LibPress/BUILD.data.s"</Data>
+			</AsmBuild>
+		</Module>
+	</SysLib>
+	<SysLib Name="LibC">
+		<Module Name="A56" LibName="LibC" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e11a8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibC/A56.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A63" LibName="LibC" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e11c0"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibC/A63.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C19" LibName="LibC" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e11d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibC/C19.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C21" LibName="LibC" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e11e8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibC/C21.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C23" LibName="LibC" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e11f8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibC/C23.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C24" LibName="LibC" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1208"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibC/C24.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C25" LibName="LibC" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1218"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibC/C25.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C26" LibName="LibC" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1228"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibC/C26.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C40" LibName="LibC" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1238"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibC/C40.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C42" LibName="LibC" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1248"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibC/C42.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C43" LibName="LibC" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1258"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibC/C43.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C47" LibName="LibC" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1268"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibC/C47.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C63" LibName="LibC" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1278"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibC/C63.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="BCMP" LibName="LibC" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1288"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibC/BCMP.s"</Text>
+			</AsmBuild>
+		</Module>
+	</SysLib>
+	<SysLib Name="LibApi">
+		<Module Name="C57" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e12c8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/C57.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C68" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e12d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/C68.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C73" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e12e8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/C73.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="C114" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1300"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/C114.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A07" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1318"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A07.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A08" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1328"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A08.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A09" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1338"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A09.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A10" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1348"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A10.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A11" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1358"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A11.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A12" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1368"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A12.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A13" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1378"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A13.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A23" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1388"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A23.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A24" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1398"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A24.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A25" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e13a8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A25.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A36" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e13b8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A36.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A37" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e13c8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A37.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A50" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e13d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A50.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A51" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e13e8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A51.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A52" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e13f8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A52.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A53" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1408"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A53.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A54" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1418"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A54.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A67" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1428"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A67.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A91" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1438"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A91.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="L02" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1448"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/L02.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="L03" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1458"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/L03.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="L10" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1468"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/L10.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="COUNTER" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1478" Data="800fe844"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/COUNTER.s"</Text>
+				<Data>"asm/data/psx/LibApi/COUNTER.data.s"</Data>
+			</AsmBuild>
+		</Module>
+		<Module Name="FIRST" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e15e8" Bss="80110188"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/FIRST.s"</Text>
+				<Bss>"asm/data/psx/LibApi/FIRST.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="A66" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1888"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A66.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="PAD" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1898" Data="800fe864" Bss="801101b8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/PAD.s"</Text>
+				<Data>"asm/data/psx/LibApi/PAD.data.s"</Data>
+				<Bss>"asm/data/psx/LibApi/PAD.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="A18" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1b28"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A18.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A19" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1b38"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A19.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="A21" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1b48"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/A21.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="PATCH" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1b58" Bss="801101c8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/PATCH.s"</Text>
+				<Bss>"asm/data/psx/LibApi/PATCH.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+		<Module Name="CHCLRPAD" LibName="LibApi" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1bf8" Bss="801101d8"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibApi/CHCLRPAD.s"</Text>
+				<Bss>"asm/data/psx/LibApi/CHCLRPAD.bss.s"</Bss>
+			</AsmBuild>
+		</Module>
+	</SysLib>
+	<SysLib Name="LibSn">
+		<Module Name="OPEN" LibName="LibSn" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1c68"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSn/OPEN.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CLOSE" LibName="LibSn" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1c88"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSn/CLOSE.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="LSEEK" LibName="LibSn" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1c98"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSn/LSEEK.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="CREAT" LibName="LibSn" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1cbc"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSn/CREAT.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="read" LibName="LibSn" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1cdc"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSn/read.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SNREAD" LibName="LibSn" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1d98"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSn/SNREAD.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="write" LibName="LibSn" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1db0"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSn/write.s"</Text>
+			</AsmBuild>
+		</Module>
+		<Module Name="SNWRITE" LibName="LibSn" IsSys="True" Optimization="O2">
+			<MatchAddr Text="800e1e6c"/>
+			<AsmBuild>
+				<Text>"asm/text/psx/LibSn/SNWRITE.s"</Text>
+			</AsmBuild>
+		</Module>
+	</SysLib>
+	<Module Name="GlobalBss" IsSys="False" Optimization="O2">
+		<MatchAddr Bss="801101e8"/>
+		<AsmBuild>
+			<Bss>"asm/data/GlobalBss.bss.s"</Bss>
+		</AsmBuild>
+	</Module>
+</ExeBuild>

@@ -1,0 +1,14 @@
+res/ResAnime.c
+res/ResBgm.c
+res/ResEffect.c
+res/ResFace.c
+res/ResField.c
+res/ResMovie.c
+res/ResSce.c
+res/ResScreen.c
+res/ResSe.c
+res/ResSystem.c
+res/ResUnit.c
+res/ResVoice.c
+template/
+data/

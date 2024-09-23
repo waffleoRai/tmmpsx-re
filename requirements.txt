@@ -1,0 +1,9 @@
+wine
+python3
+pip
+gcc
+default-jdk
+binutils-mips-linux-gnu
+lame
+flac
+vorbis-tools

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataDumpInfo>
+	<SymbolList Path="./func.txt"/>
+	<SymbolList Path="./variables.txt"/>
+	<SymbolList Path="./funcSys.txt"/>
+	<StructDef Name="VoiceEntry" Size="0x6" FmtPerLine="4">
+		<Field Type="uint8_t" Name="unk0" Size="1"/>
+		<Field Type="uint8_t" Name="unk1" Size="1"/>
+		<Bitfield Type="uint32_t" Name="unk2" Size="18"/>
+		<Bitfield Type="uint32_t" Name="unk4" Size="14"/>
+	</StructDef>
+	<StructDef Name="URECT" Size="0x8" FmtPerLine="1">
+		<Field Type="uint16_t" Name="x" Size="2"/>
+		<Field Type="uint16_t" Name="y" Size="2"/>
+		<Field Type="uint16_t" Name="w" Size="2"/>
+		<Field Type="uint16_t" Name="h" Size="2"/>
+	</StructDef>
+	<Module Name="ResMovie" AsmFile="../asm/data/ResMovie.data.s" CFile="../src/res/ResMovie.c" HeaderName="res/ResMovie.h">
+		<Symbol Name="gMovieInfo" Type="uint32_t" Count="29" Address="0x800e1eac"/>
+		<Symbol Name="gMovieScreenParam" Type="URECT" Count="8" Address="0x800e1f20"/>
+		<Symbol Name="_cdfile_dat_800e1f60" Type="uint8_t" Count="8" Address="0x800e1f60"/>
+	</Module>
+	<Module Name="ResVoice" AsmFile="../asm/data/ResVoice.data.s" CFile="../src/res/ResVoice.c" HeaderName="res/ResVoice.h">
+		<Symbol Name="gVoiceGroupPos" Type="uint16_t" Count="60" Address="0x800e20e4"/>
+		<Symbol Name="gVoiceClipInfo" Type="VoiceEntry" Count="0x1137" Address="0x800e215c"/>
+	</Module>
+	<Module Name="ResBgm" AsmFile="../asm/data/ResBgm.data.s" CFile="../src/res/ResBgm.c" HeaderName="res/ResBgm.h">
+		<Symbol Name="gFilePosBgm" Type="uint32_t" Count="64" Address="0x800e88a8"/>
+		<Symbol Name="_resbgm_dat_800e89a8" Type="uint8_t" Count="0x140" Address="0x800e89a8"/>
+	</Module>
+	<Module Name="ResSe" AsmFile="../asm/data/ResSe.data.s" CFile="../src/res/ResSe.c" HeaderName="res/ResSe.h">
+		<Symbol Name="gFilePosSe" Type="uint32_t" Count="80" Address="0x800e8ae8"/>
+	</Module>
+	<Module Name="ResSystem" AsmFile="../asm/data/ResSystem.data.s" CFile="../src/res/ResSystem.c" HeaderName="res/ResSystem.h">
+		<Symbol Name="gFilePosSystem" Type="uint32_t" Count="112" Address="0x800e8c28"/>
+		<Symbol Name="gFileSizeSystem" Type="uint32_t" Count="112" Address="0x800e8de8"/>
+	</Module>
+	<Module Name="ResFace" AsmFile="../asm/data/ResFace.data.s" CFile="../src/res/ResFace.c" HeaderName="res/ResFace.h">
+		<Symbol Name="gFilePosFace" Type="uint32_t" Count="192" Address="0x800e8fa8"/>
+		<Symbol Name="gFileSizeFace" Type="uint32_t" Count="192" Address="0x800e92a8"/>
+	</Module>
+	<Module Name="ResScreen" AsmFile="../asm/data/ResScreen.data.s" CFile="../src/res/ResScreen.c" HeaderName="res/ResScreen.h">
+		<Symbol Name="gFilePosScreen" Type="uint32_t" Count="272" Address="0x800e95a8"/>
+		<Symbol Name="gFileSizeScreen" Type="uint32_t" Count="272" Address="0x800e99e8"/>
+	</Module>
+	<Module Name="ResUnit" AsmFile="../asm/data/ResUnit.data.s" CFile="../src/res/ResUnit.c" HeaderName="res/ResUnit.h">
+		<Symbol Name="gFilePosUnit" Type="uint32_t" Count="512" Address="0x800e9e28"/>
+		<Symbol Name="gFileSizeUnit" Type="uint32_t" Count="512" Address="0x800ea628"/>
+	</Module>
+	<Module Name="ResSce" AsmFile="../asm/data/ResSce.data.s" CFile="../src/res/ResSce.c" HeaderName="res/ResSce.h">
+		<Symbol Name="gFilePosSce" Type="uint32_t" Count="256" Address="0x800eae28"/>
+	</Module>
+	<Module Name="ResField" AsmFile="../asm/data/ResField.data.s" CFile="../src/res/ResField.c" HeaderName="res/ResField.h">
+		<Symbol Name="gFilePosField" Type="uint32_t" Count="192" Address="0x800eb228"/>
+		<Symbol Name="gFileSizeField" Type="uint32_t" Count="192" Address="0x800eb528"/>
+	</Module>
+	<Module Name="ResAnime" AsmFile="../asm/data/ResAnime.data.s" CFile="../src/res/ResAnime.c" HeaderName="res/ResAnime.h">
+		<Symbol Name="gFilePosAnime" Type="uint32_t" Count="608" Address="0x800eb828"/>
+	</Module>
+	<Module Name="ResEffect" AsmFile="../asm/data/ResEffect.data.s" CFile="../src/res/ResEffect.c" HeaderName="res/ResEffect.h">
+		<Symbol Name="gFilePosEffect" Type="uint32_t" Count="608" Address="0x800ec1a8"/>
+		<Symbol Name="gFileSizeEffect" Type="uint32_t" Count="608" Address="0x800ecb28"/>
+	</Module>
+	<Module Name="UNKData5" AsmFile="../asm/data/UNKData5.data.s" CFile="../src/data/UNKData5.c" HeaderName="data/DataTables.h">
+		<Symbol Name="_udat5_dat_800ed5b4" Type="uint8_t" Count="0x2b4c" Address="0x800ed5b4"/>
+		<Symbol Name="_udat5_dat_800f0100" Type="uint8_t" Count="0x8f00" Address="0x800f0100"/>
+		<Symbol Name="_udat5_dat_800f9000" Type="uint8_t" Count="0x1754" Address="0x800f9000"/>
+	</Module>
+	<Module Name="UNKData6" AsmFile="../asm/data/UNKData6.data.s" CFile="../src/data/UNKData6.c" HeaderName="data/DataTables.h">
+		<Symbol Name="_udat6_dat_800fa754" Type="uint8_t" Count="16" Address="0x800fa754"/>
+		<Symbol Name="_udat6_dat_800fa764" Type="uint8_t" Count="16" Address="0x800fa764"/>
+		<Symbol Name="_udat6_dat_800fa774" Type="uint8_t" Count="16" Address="0x800fa774"/>
+		<Symbol Name="_udat6_dat_800fa784" Type="uint8_t" Count="16" Address="0x800fa784"/>
+		<Symbol Name="_udat6_dat_800fa794" Type="uint8_t" Count="16" Address="0x800fa794"/>
+	</Module>
+</DataDumpInfo>

@@ -1,0 +1,14 @@
+*.iso
+*.cue
+cd/
+asm/
+build/
+expected/
+undefined_funcs_auto.txt
+undefined_syms_auto.txt
+splat.yaml
+*.ld
+*.sh
+assets/*
+!assets/arcspec
+isobuild.xml

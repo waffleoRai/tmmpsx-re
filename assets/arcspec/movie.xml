@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArcSpec Name="MOVIE" Enum="Movie" XAStream="True" HasXAVideo="True" HasXAAudio="True" DoubleSpeed="True" ClipTableName="gMovieInfo" CMerge="../../src/res/_ResMovie_Params.c">
+	<MdecMovie FileName="Movie_Intro" Enum="FMV_Intro" Start="0x0" SectorCount="0x171c"/>
+	<MdecMovie FileName="Movie_TxStrawberry" Enum="FMV_TxStrawberry" Start="0x171c" SectorCount="0xe0a"/>
+	<MdecMovie FileName="Movie_TxMint" Enum="FMV_TxMint" Start="0x2526" SectorCount="0xe0a"/>
+	<MdecMovie FileName="Movie_TxLettuce" Enum="FMV_TxLettuce" Start="0x3330" SectorCount="0xd58"/>
+	<MdecMovie FileName="Movie_TxPudding" Enum="FMV_TxPudding" Start="0x4088" SectorCount="0xd4b"/>
+	<MdecMovie FileName="Movie_TxPomegranate" Enum="FMV_TxPomegranate" Start="0x4dd3" SectorCount="0xd10"/>
+	<MdecMovie FileName="Movie_TxApple" Enum="FMV_TxApple" Start="0x5ae3" SectorCount="0xfa4"/>
+	<MdecMovie FileName="Movie_TxStrApple" Enum="FMV_TxStrApple" Start="0x6a87" SectorCount="0xf4a"/>
+	<MdecMovie FileName="Movie_AttTriPrelude" Enum="FMV_AttTriPrelude" Start="0x79d1" SectorCount="0x770"/>
+	<MdecMovie FileName="Movie_AttTriSonata" Enum="FMV_AttTriSonata" Start="0x8141" SectorCount="0x768"/>
+	<MdecMovie FileName="Movie_AttTriConcerto" Enum="FMV_AttTriConcerto" Start="0x88a9" SectorCount="0x7f1"/>
+	<MdecMovie FileName="Movie_AttTriSerenade" Enum="FMV_AttTriSerenade" Start="0x909a" SectorCount="0x709"/>
+	<MdecMovie FileName="Movie_AttTriMarch" Enum="FMV_AttTriMarch" Start="0x97a3" SectorCount="0x759"/>
+	<MdecMovie FileName="Movie_AttTriRondo" Enum="FMV_AttTriRondo" Start="0x9efc" SectorCount="0x731"/>
+	<MdecMovie FileName="Movie_AttTriRequiem" Enum="FMV_AttTriRequiem" Start="0xa62d" SectorCount="0x768"/>
+	<MdecMovie FileName="Movie_AttTriSymphony" Enum="FMV_AttTriSymphony" Start="0xad95" SectorCount="0x790"/>
+	<MdecMovie FileName="Movie_AttTriRhapsody" Enum="FMV_AttTriRhapsody" Start="0xb525" SectorCount="0x7a0"/>
+	<MdecMovie FileName="Movie_AttTriNocturne" Enum="FMV_AttTriNocturne" Start="0xbcc5" SectorCount="0x9c0"/>
+	<MdecMovie FileName="Movie_AttStrPlus_A1" Enum="FMV_AttStrPlus_A1" Start="0xc685" SectorCount="0x858"/>
+	<MdecMovie FileName="Movie_AttStrPlus_A2" Enum="FMV_AttStrPlus_A2" Start="0xcedd" SectorCount="0x858"/>
+	<MdecMovie FileName="Movie_AttStrPlus_B1" Enum="FMV_AttStrPlus_B1" Start="0xd735" SectorCount="0x93a"/>
+	<MdecMovie FileName="Movie_AttStrPlus_B2" Enum="FMV_AttStrPlus_B2" Start="0xe06f" SectorCount="0x93a"/>
+	<MdecMovie FileName="Movie_AttSix" Enum="FMV_AttSix" Start="0xe9a9" SectorCount="0xde2"/>
+	<MdecMovie FileName="Movie_TxFive_A" Enum="FMV_TxFive_A" Start="0xf78b" SectorCount="0x1455"/>
+	<MdecMovie FileName="Movie_TxFive_B" Enum="FMV_TxFive_B" Start="0x10be0" SectorCount="0x1455"/>
+	<MdecMovie FileName="Movie_TxSix_A" Enum="FMV_TxSix_A" Start="0x12035" SectorCount="0x183e"/>
+	<MdecMovie FileName="Movie_TxSix_B" Enum="FMV_TxSix_B" Start="0x13873" SectorCount="0x183e"/>
+	<MdecMovie FileName="Movie_Catchphrase" Enum="FMV_Catchphrase" Start="0x150b1" Settings="4" SectorCount="0x7a0"/>
+</ArcSpec>
